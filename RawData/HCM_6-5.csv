@@ -1,0 +1,687 @@
+name,address,review_score,review_count,Vị trí,Dịch vụ,Đáng giá tiền,Cơ sở vật chất,Độ sạch sẽ,bep,bua_sang,san_gon,may_giat,dua_don_san_bay,phong_tap,don_phong_hang_ngay,duoc_phep_mang_thu_nuoi,bai_do_xe,Giá trước,Giá sau
+Bear's House Su Van Hanh,"525/11A Đ. Sư Vạn Hạnh, Phường 12, Quận 10, Hồ Chí Minh, Việt Nam, 72510","8,8",80,10.0,10.0,10.0,10.0,10.0,0,0,0,0,1,0,0,1,1,886.205,371.602
+Khách sạn Renaissance Riverside Sài Gòn (Renaissance Riverside Hotel Saigon),"8-15 Tôn Đức Thắng , Quận 1, Hồ Chí Minh, Việt Nam, 0084 28 3822 0033","8,5",1218,9.1,8.7,8.0,8.3,8.7,1,1,1,0,1,1,1,1,1,5.852.917,4.500.000
+UNU C&B homestay,"No. 257bis, Le Van Sy Street, Ward 14, Phú Nhuận, Hồ Chí Minh, Việt Nam, 77777","9,0",174,9.4,9.4,9.2,9.0,9.5,1,0,0,0,0,0,0,1,0,750.000,310.377
+Pharaon Hotel 2,"102/1 Cống Quỳnh, Quận 1, Hồ Chí Minh, Việt Nam, 70000","8,2",1000,8.5,8.3,8.4,8.1,8.4,0,0,0,0,0,0,0,1,0,650.000,321.581
+Khách sạn New World Saigon (New World Saigon Hotel),"76 Lê Lai , Phường Bến Thành, Quận 1, TP. Hồ Chí Minh, Việt Nam, Quận 1, Hồ Chí Minh, Việt Nam, 700000","8,7",6140,9.1,8.8,8.3,8.6,8.8,1,1,0,0,1,1,1,1,1,Không có giá trước,Không có giá sau
+Yoko Airport Saigon Hotel,"No. 43-45 Yen The, Ward 2, Tan Binh, Ho Chi Minh City, Tân Bình, Hồ Chí Minh, Việt Nam","7,9",1531,8.6,8.5,8.1,7.5,8.0,0,0,0,0,1,0,1,1,1,715.399,374.758
+MG Rosé Boutique Hotel,"No. 6, 283, Pham Ngu Lao, Phuong Pham Ngu Lao, Quận 1, Hồ Chí Minh, Việt Nam","7,9",214,9.0,8.3,7.9,7.1,7.8,0,0,0,0,0,0,0,1,0,552.454,366.441
+Vinhome Grand Park HCM,"Vinhome Grand Park. 512 Nguyen Xien str., Long Thanh My ward , Thu Duc city, Ho Chi Minh city, Quận 9, Hồ Chí Minh, Việt Nam","7,8",217,8.2,8.3,8.0,7.9,8.1,1,0,0,0,0,1,0,1,1,391.890,248.378
+LUNA Luxury Residence - Vinhomes Landmark,"No. 720A, Dien Bien Phu Street, Bình Thạnh, Hồ Chí Minh, Việt Nam","8,6",186,8.5,8.0,8.5,8.8,8.8,0,0,0,0,0,0,1,1,1,1.455.250,756.667
+Khách sạn Hà My (Ha My Hotel),"32 đường số 6, phường Linh Trung, quận Thủ Đức, thành phố Hồ Chí Minh (gần trường ĐH Ngân Hàng trên đường Hoàng Diệu 2), Thủ Đức, Hồ Chí Minh, Việt Nam, 700000","8,0",398,8.4,8.2,8.2,7.9,8.2,1,0,0,0,0,0,1,1,1,Không có giá trước,Không có giá sau
+Liva Hotel,"36A đường Út Tịch, phường 04, quận Tân Bình, Tân Bình, Hồ Chí Minh, Việt Nam, 70000","7,0",297,7.7,7.2,7.2,6.6,6.7,0,0,0,0,1,0,0,1,1,Không có giá trước,259.259
+KHÁCH SẠN LA VELA SÀI GÒN (LA VELA SAIGON HOTEL),"Nam Kỳ Khởi Nghĩa, Quận 3, Hồ Chí Minh, Việt Nam, 700000","8,9",25221,8.9,9.2,9.0,9.2,9.2,1,1,1,0,1,1,1,1,1,7.595.863,2.903.591
+Khách Sạn & Căn Hộ T-Ritz Sài Gòn (T-Ritz Saigon Hotel & Apartment),"20 - 22 Phạm Ngọc Thạch, Quận 3, Thành phố Hồ Chí Minh, Việt Nam, Quận 3, Hồ Chí Minh, Việt Nam, 700000","8,8",3882,8.8,8.8,8.8,8.4,9.2,1,1,1,0,1,1,1,1,1,4.342.811,2.328.042
+Vivian Airport Hotel Saigon,"No. 94-96 Thang Long, Ward 4, Tan Binh District, Ho Chi Minh City, Vietnam, Tân Bình, Hồ Chí Minh, Việt Nam, 70000","8,4",1109,8.8,9.0,8.8,8.2,8.7,0,0,0,0,1,1,1,1,1,1.097.983,421.909
+Ngọ house,"132 Ngô Thị Thu Minh, Tân Bình, Hồ Chí Minh, Việt Nam, 700000","8,1",494,8.7,8.9,8.6,8.4,8.6,1,0,0,0,0,0,1,1,1,Không có giá trước,370.370
+Cozrum Homes - Sonata Residence,"No. 41, Nguyen Thi Thap, Tan Phu Ward, District 7, Quận 7, Hồ Chí Minh, Việt Nam","7,4",5069,7.6,7.8,7.7,7.4,7.3,1,1,1,0,0,1,1,1,1,2.000.000,471.299
+Tan Son Nhat Saigon Hotel,"202 Hoàng Văn Thụ, Quận Phú Nhuận, Phú Nhuận, Hồ Chí Minh, Việt Nam, 70000","8,5",4112,8.6,8.6,8.6,8.5,8.7,1,1,1,0,1,1,1,1,1,Không có giá trước,Không có giá sau
+Victory Hotel Saigon,"141 Nam Kỳ Khởi Nghĩa, Quận 3, Quận 3, Hồ Chí Minh, Việt Nam, 70000","7,8",3580,8.5,7.9,7.9,7.5,7.8,1,1,0,0,1,1,1,1,1,2.312.547,1.074.131
+Khách Sạn Mari Queen (Mari Queen Hotel),"158B Bui Thi Xuan, Pham Ngu Lao ward, Quận 1, Hồ Chí Minh, Việt Nam, 70000","8,5",1536,9.0,9.0,8.5,8.2,8.6,1,0,0,0,1,0,1,1,1,2.866.788,569.588
+Start House Coliving,"B50 Bạch Đằng, Tân Bình, Hồ Chí Minh, Việt Nam, 72108","8,5",645,8.6,9.0,8.2,8.0,8.5,1,0,0,0,0,0,1,1,1,Không có giá trước,Không có giá sau
+Khách sạn Minh Anh Gò Vấp (Khách sạn Minh Anh Gò Vấp ),"No. 65, Street No. 1, Thong Nhat, Ward 11, Go Vap, Ho Chi Minh City, Gò Vấp, Hồ Chí Minh, Việt Nam, 700000","8,3",155,8.8,9.2,8.8,8.3,8.5,0,0,0,0,0,0,1,1,1,332.987,231.481
+Ahu Hotel & Apartment,"373/49 Phạm Ngũ L&#227;o, Quận 1, Hồ Chí Minh, Việt Nam, 700000","8,4",940,8.9,8.6,8.6,7.9,8.5,1,1,0,0,0,0,1,1,1,500.000,290.165
+ACE Hotel,"139H, Nguyễn Trãi, Bến Thành Ward, Quận 1, Hồ Chí Minh, Việt Nam, 70000","7,2",1297,8.0,7.5,7.3,6.5,7.1,1,1,0,0,0,0,1,1,0,Không có giá trước,Không có giá sau
+MDHOTEL 2,"105/16 Nguyen Thi Tu Street, Binh Hung Hoa B Ward, Binh Tan District, Ho Chi Minh City, V, Bình Tân, Hồ Chí Minh, Việt Nam, 71900","7,3",376,7.9,8.0,8.1,7.5,7.8,0,0,0,0,0,0,1,1,1,314.204,277.778
+Saigon River Hotel - Quận 2 (SAIGON River Hotel - Dist 2),"35/8, Đường Số 19, Phường An Khanh, Tha`nh phố Thủ Đức, Quận 2, Hồ Chí Minh, Việt Nam, 70000","7,9",954,8.3,8.3,8.2,7.5,8.0,0,0,0,1,1,0,1,1,1,560.114,257.530
+VND HOTEL,"66 Nguyễn Gia Trí, VND HOTEL, Bình Thạnh, Hồ Chí Minh, Việt Nam","7,9",362,6.4,6.9,5.5,5.2,5.1,1,0,0,0,0,0,1,1,1,Không có giá trước,317.778
+Khách Sạn Des Arts Saigon - MGallery Collection (Hôtel des Arts Saigon - MGallery Collection),"76 - 78 Nguyễn Thị Minh Khai, Quận 3, Quận 3, Hồ Chí Minh, Việt Nam, 70000","9,1",2219,9.1,9.2,8.7,9.0,9.4,1,1,0,0,1,1,1,1,1,Không có giá trước,Không có giá sau
+Midas Hotel 2,"131 Đ. Cao Thắng, Phường 17, Phú Nhuận, Hồ Chí Minh, Việt Nam, 700000","7,9",238,8.5,8.6,8.5,8.5,8.8,1,0,0,0,0,0,1,1,1,1.000.000,353.146
+Seven Stars Hotel,"1490 Đường Trường Sa, Tân Bình, Hồ Chí Minh, Việt Nam","8,3",54,7.8,8.2,7.4,7.2,7.4,0,0,0,0,0,0,0,1,1,437.116,277.778
+Khách sạn và Căn hộ Cherry (Cherry Hotel and Apartment),"406/14 Cong Hoa Street, Ward 13, Tan Binh District, Ho Chi Minh City, Tân Bình, Hồ Chí Minh, Việt Nam, 700000","8,2",1708,8.2,8.5,8.5,8.2,8.4,1,1,0,0,0,1,1,1,1,666.926,395.344
+Saigon Pink Hotel,"100 Ho Tung Mau, Quận 1, Hồ Chí Minh, Việt Nam, 700000","7,8",802,9.2,8.3,8.3,7.3,7.8,0,0,0,0,0,0,1,1,1,2.000.000,391.429
+Red Sun Airport Saigon Hotel,"8-9 Tran Quoc Hoan, Ward 4, Tan Binh District, Ho Chi Minh City, Tân Bình, Hồ Chí Minh, Việt Nam, 70000","7,7",345,8.3,8.1,7.8,7.6,7.9,0,0,0,0,1,0,1,1,0,462.218,339.503
+Ace Hotel Ben Thanh,"100 Đường Lý Tự Trọng, Phường Bến Thành, Quận 1, Hồ Chí Minh, Quận 1, Hồ Chí Minh, Việt Nam, 70000","7,5",3119,8.7,7.8,7.5,6.6,7.1,1,1,0,0,1,0,1,1,0,3.036.802,466.419
+Nouveau Happy Inn,"39 Bùi Thị Xuân, Phường Bến Thành, Quận 1, Thành phố Hồ Chí Minh, Quận 1, Hồ Chí Minh, Việt Nam, 700000","7,0",2709,7.9,7.3,7.0,6.4,6.6,1,1,0,0,0,0,1,1,1,2.116.272,281.399
+Lanura Saigon Boutique Hotel,"99/18 - 18A, 99/18 Nguyễn Th i B nh, Phường 4, T n B nh, Hồ Ch Minh, Tân Bình, Hồ Chí Minh, Việt Nam, 700000","8,6",335,9.1,9.2,9.1,8.8,9.2,0,0,0,0,0,0,1,1,0,979.068,546.504
+Căn hộ sân bay Sabay - The Connect (Sabay Airport Apartment - The Connect),"09 Cuu Long,Ward 2, Tan Binh, Tân Bình, Hồ Chí Minh, Việt Nam, 70000","8,3",1157,9.1,8.9,8.8,8.7,8.7,1,1,0,1,1,1,1,1,1,1.400.000,601.450
+Khách sạn Roseland Centa (Roseland Centa Hotel & Spa),"15/1A+15A/57 Le Thanh Ton St, Ben Nghe Ward, Dist 01, Quận 1, Hồ Chí Minh, Việt Nam, 70 000","8,9",1965,9.4,9.3,8.9,8.7,9.0,0,1,0,0,1,0,1,1,0,Không có giá trước,Không có giá sau
+Golden Star Hotel (Golden Star Hotel - 60 Le Thanh Ton),"60 Lê Thánh Tôn, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam, 70000","7,2",1844,8.5,7.5,7.2,6.5,6.9,0,1,0,1,1,0,1,1,1,1.370.000,787.557
+Khách Sạn Riverside Sài Gòn (Riverside Hotel Saigon),"18-19-20 Tôn Đức Thắng , Quận 1, Hồ Chí Minh, Việt Nam, 71006","7,8",5386,8.8,7.9,7.9,7.1,7.7,1,1,0,0,1,0,1,1,0,Không có giá trước,Không có giá sau
+Green Riverside Hotel & Apartment,"89/21A Phan Huy Ich, Phuong 15 , Tân Bình, Hồ Chí Minh, Việt Nam, 72100","8,8",128,8.7,9.4,9.0,8.8,8.7,0,0,0,0,0,0,1,1,1,1.499.247,384.496
+Khách Sạn Bonita THT (Bonita THT Hotel),"185 Tô Hiến Thành, Phường 13, Quận 10, Quận 10, Hồ Chí Minh, Việt Nam","7,9",570,8.4,8.3,8.1,7.9,7.9,1,0,0,0,0,0,1,1,1,Không có giá trước,349.623
+Tropical House,"413/37A Lê Văn Sỹ, Phường 12, Quận 3, TP. HCM, Quận 3, Hồ Chí Minh, Việt Nam, 700000","7,9",417,8.4,8.5,8.3,8.1,8.4,1,0,0,1,1,0,1,1,1,500.779,370.370
+Queen Hotel Saigon Airport,"93 Lam Son, Ward 2, Tân Bình, Hồ Chí Minh, Việt Nam, 70000","7,3",1116,8.2,7.9,7.2,6.6,6.8,1,0,0,0,0,0,1,1,1,1.057.568,409.938
+Oscar Saigon Hotel,"68A Đại lộ Nguyễn Huệ, , Quận 1, Hồ Chí Minh, Việt Nam, 71000","7,9",8570,9.1,7.8,7.8,7.2,7.7,1,1,0,0,1,1,1,1,0,3.500.000,1.025.132
+The Concept Hotel HCMC - Premium,"27 Bà Huyện Thanh Quan, Phường 6, Quận 3, Hồ Chí Minh, Việt Nam","9,2",498,9.4,9.5,9.3,9.1,9.4,0,0,0,1,0,1,1,1,0,2.357.613,974.247
+BenHouse Homestay,"285/5 Võ Văn Tần, Quận 3, Hồ Chí Minh, Việt Nam","9,4",130,9.2,9.3,9.2,8.8,9.2,0,0,0,0,0,0,0,1,1,573.812,474.024
+ACORN HOTEL,"40/23 Đ. Bùi Viện, Phường Phạm Ngũ Lão, Quận 1, Hồ Chí Minh, Việt Nam","7,5",229,8.6,8.0,7.5,6.6,6.8,0,0,0,0,0,0,1,1,1,Không có giá trước,358.796
+Song Nhat Hotel,"20/19 Núi Thành, Phường 13, Quận Tân Bình, Tân Bình, Hồ Chí Minh, Việt Nam, 70000","9,0",370,9.1,9.4,9.4,9.0,9.3,0,0,0,0,0,0,0,1,1,321.561,284.451
+The Lumiere,"9 Lê Văn Huân, phường 13, Tân Bình, Hồ Chí Minh, Việt Nam, 700000","7,9",880,8.3,8.0,8.1,7.7,7.9,1,1,0,0,0,0,0,1,1,980.000,466.666
+Ohio Hotel & Apartment,"18A/46 Nguyen Thi Minh Khai Street, Da Kao, District 1, Ho Chi Minh City, Quận 1, Hồ Chí Minh, Việt Nam, 700000","7,5",934,8.0,7.5,7.3,6.9,7.1,1,0,0,0,0,0,1,1,1,764.953,319.308
+GRAND LEE HOTEL,"No. 8A, 137 Binh Quoi, Ward 27, Binh Thanh District, Ho Chi Minh City, Bình Thạnh, Hồ Chí Minh, Việt Nam, 72353","8,7",2281,8.7,9.1,9.0,8.9,9.1,1,0,0,0,0,0,1,1,1,953.575,346.448
+Lotus Hotel 18 Nguyen Phi Khanh,"No. 18, Nguyen Phi Khanh Street, Tan Dinh Ward, Vietnam, Quận 1, Hồ Chí Minh, Việt Nam, 700000","7,8",163,8.3,8.4,8.1,7.8,8.1,1,0,1,0,1,1,1,1,1,1.500.000,486.454
+Grandma Lu's Saigon Signature,"No. 50, Nguyen Thai Binh Street, Nguyen Thai Binh Ward, Vietnam, Quận 1, Hồ Chí Minh, Việt Nam, 700000","8,3",871,9.3,8.3,8.7,7.8,8.4,0,0,0,0,1,0,1,1,0,Không có giá trước,Không có giá sau
+Lucasta SaiGon Hotel,"89 Đường Cao Thắng, Lucasta Saigon Hotel, Quận 3, Hồ Chí Minh, Việt Nam","8,5",589,9.2,9.0,8.7,8.3,8.6,1,0,0,0,0,0,1,1,1,Không có giá trước,546.296
+Cozrum Homes Charming Corner,"453/16 Nguyen Dinh Chieu, Ward 5, District 3, Hcmc, Quận 3, Hồ Chí Minh, Việt Nam, 700000","7,4",595,8.1,7.9,7.7,7.6,7.7,1,0,0,0,0,0,0,1,0,Không có giá trước,Không có giá sau
+Khách sạn Bông Sen Sài Gòn (Bong Sen Hotel Saigon),"117-119-121-123 Đồng Khởi, Quận 1, Quận 1, Hồ Chí Minh, Việt Nam","7,8",4697,9.1,7.8,7.8,7.2,7.6,0,1,0,0,1,1,1,1,0,1.275.750,1.237.988
+Khách sạn Bonka Luxury (Bonka Hotel Luxury Quan 5 HCM),"884 Trần Hưng Đạo, phường 7, Quận 5 Khách sạn Bonka Quận 5 Thành phố Hồ Chí Minh, Quận 5, Hồ Chí Minh, Việt Nam","7,7",134,8.5,8.4,8.0,7.8,7.8,1,0,0,0,1,0,1,1,1,Không có giá trước,453.704
+Vuong Tron homestay,"191/34 Cống quỳnh Phường nguyễn cư trinh quận 1, Quận 1, Hồ Chí Minh, Việt Nam, 700000","7,0",347,7.7,7.5,7.2,7.0,7.2,1,0,0,0,0,0,1,1,1,Không có giá trước,Không có giá sau
+Lalala Inn Hotel,"No. 19, 115 Trần Quốc Thảo, Ward V, Thi Su, Vietnam, Quận 3, Hồ Chí Minh, Việt Nam, 700000","7,6",157,8.3,7.8,7.5,7.7,7.9,1,1,0,0,0,0,1,1,1,653.510,393.517
+TalaSaiGon Hotel,"36 Yên Thế, Phường 2, Tân Bình, Hồ Chí Minh, Việt Nam, 70000","9,0",158,9.6,9.6,9.6,9.5,9.7,0,0,0,0,1,0,1,1,1,Không có giá trước,310.000
+9 Hostel and Suites,"90 Lê Lai, Quận 1, Hồ Chí Minh, Việt Nam, 7000000","8,3",3545,9.4,8.8,8.7,8.0,8.2,0,1,0,0,1,0,1,1,0,959.058,401.464
+Townhouse District 10 Near Children Hospital 1 Formerly Cuong Thanh 3 Hotel,"252/43-45 Cao Thang, Phuong 12, Quan 10, Ho Chi Minhnullnull, Ho-Chi-Minh, Quận 10, Hồ Chí Minh, Việt Nam, 550000","7,7",72,7.9,8.3,7.8,8.1,7.8,1,0,0,0,0,0,1,1,1,1.437.505,472.649
+Athena Hotel,"280 To Hien Thanh,Ward 15,District 10, Quận 10, Hồ Chí Minh, Việt Nam, 70000","8,3",1119,8.2,8.6,8.5,8.2,8.8,0,1,0,0,1,1,1,1,1,Không có giá trước,Không có giá sau
+Khách sạn Bonita Signature The View (Bonita Signature The View),"352 Trường Sa, Phú Nhuận, Hồ Chí Minh, Việt Nam","8,2",487,8.8,8.6,8.4,8.4,8.6,0,0,0,0,0,0,0,1,1,593.634,466.667
+Khách sạn Mường Thanh khách sạn Sài Gòn sang trọng (Khach san Muong Thanh Luxury Saigon Hotel),"No. 261C, Nguyen Van Troi Street, Ward 10, Phu Nhuan District, Ho Chi Minh City, Phú Nhuận, Hồ Chí Minh, Việt Nam, 700.000","8,6",5284,8.8,9.0,8.9,8.8,9.1,1,1,1,0,1,1,1,1,1,3.399.896,1.676.127
+Ramana Saigon Hotel,"323 L Văn Sỹ, Quận 3 , Quận 3, Hồ Chí Minh, Việt Nam,","8,1",2540,8.1,8.3,8.2,8.0,8.2,1,1,0,0,1,1,0,1,1,3.066.736,1.000.087
+The Noble Swan Central Dong Du Hotel,"30A Đông Du, 8, Quận 1, Hồ Chí Minh, Việt Nam","7,2",607,8.2,7.0,6.7,5.9,6.0,1,0,1,0,1,0,1,1,1,2.000.000,398.971
+KHÁCH SẠN HÀ NỘI gần Sân bay Tân Sơn Nhất – Dịch vụ đón và trả khách tại sân bay MIỄN PHÍ 24h (HA NOI HOTEL near Tan Son Nhat Airport - FREE Airport Pick-Up and Drop-Off Available 24 Hours a Day),"19/1 Hoang Viet Street, Ward 4, Tan Binh District, Tân Bình, Hồ Chí Minh, Việt Nam, 700000","8,3",945,8.4,8.9,8.5,7.8,8.3,1,1,0,0,1,0,1,1,1,1.742.383,638.889
+LE SAIGON HOTEL,"17 Dong Da Street, Ward 2, Tân Bình, Hồ Chí Minh, Việt Nam, 70000","8,2",3455,8.5,8.5,8.4,7.9,8.4,1,1,0,0,1,1,1,1,1,2.788.686,602.082
+Khách sạn Cochin Zen (Cochin Zen Hotel),"46-46 bis Thủ Khoa Huân, Phường Bến Thành, Quận 1, Hồ Chí Minh, Việt Nam, 700000","8,5",5776,9.2,8.8,8.4,8.2,8.7,0,1,1,0,1,1,1,1,0,6.462.174,1.463.471
+Sunrise Airport Hotel,"No. 33, Bach Dang Street, Ward 2, Tan Binh District, Ho Chi Minh City, Tân Bình, Hồ Chí Minh, Việt Nam, 70000","8,2",221,8.6,8.8,8.5,8.0,8.6,0,0,0,0,1,1,1,1,0,1.075.475,414.363
+Khách sạn Hoàng Hà - Lê Hồng Phong (Hoang Ha Le Hong Phong Hotel),"793 Lê Hồng Phong, Phường 12, Quận 10, Quận 10, Hồ Chí Minh, Việt Nam","7,7",25,9.1,8.7,8.5,7.8,8.2,0,1,0,0,1,1,0,1,1,Không có giá trước,291.667
+Thanh Thu Hotel,"34 Nguyễn An Ninh, Quận 1 , Quận 1, Hồ Chí Minh, Việt Nam, 700000","8,1",2583,9.3,8.1,8.4,7.5,7.9,0,0,0,0,0,0,1,1,0,Không có giá trước,Không có giá sau
+Siris Niko Residence,"No. 466, Pham Thai Buong, Tan Phong, Quận 7, Hồ Chí Minh, Việt Nam, 700000","8,2",374,8.8,8.4,8.6,8.3,8.5,0,0,0,0,0,0,0,1,1,1.388.889,305.344
+Saigon Prince Hotel,"63 Đại lộ Nguyễn Huệ, Quận 1, TP Ho Chi MInh, Quận 1, Hồ Chí Minh, Việt Nam, 70000","8,3",6923,9.2,8.4,8.1,7.9,8.4,1,1,0,0,1,1,1,1,1,7.317.363,2.716.855
+First Hotel,"18 Hoàng Việt, Quận Tân Bình , Tân Bình, Hồ Chí Minh, Việt Nam,","7,9",3256,8.1,8.2,8.0,7.7,8.0,1,1,1,0,1,1,1,1,1,2.000.000,964.879
+Khách sạn Hạ Long (Ha Long Hotel),"76 L Văn Ch , Thủ Đức, Hồ Chí Minh, Việt Nam, 720300","8,5",255,8.6,8.9,8.8,8.4,8.7,1,1,0,0,1,0,1,1,1,Không có giá trước,336.609
+Khách sạn C Central (C Central Hotel),"216 Đề Th m, Quận 1, Hồ Chí Minh, Việt Nam, 700000","7,4",4488,8.1,7.7,7.4,6.8,7.4,1,1,0,0,1,0,1,1,1,1.778.759,468.487
+KHÁCH SẠN THANH LONG (THANH LONG HOTEL),"18 - 20 Đường Trà Khúc, Phường 02, Quận Tân Bình, Thành Phố Hồ Chí Minh, Việt Nam, Tân Bình, Hồ Chí Minh, Việt Nam, 700000","8,6",3419,8.8,8.9,8.8,8.5,9.0,1,1,0,0,1,1,1,1,1,3.038.042,726.833
+Stock Holm Apartment,"46 Co Giang, Ward 2, Phu Nhuan District, Ho Chi Minh city, Phú Nhuận, Hồ Chí Minh, Việt Nam, 70000","8,8",465,9.2,9.2,9.2,9.1,9.0,1,0,0,0,0,0,1,1,1,1.055.570,651.620
+YÊN LIVING BÌNH THẠNH,"30/57B Nguyễn Cửu Vân, Bình Thạnh, Hồ Chí Minh, Việt Nam, 750000","8,8",1759,8.9,9.3,9.3,9.0,9.0,1,0,1,0,0,0,1,1,1,583.920,571.570
+Khách sạn Lê Ngân Phùng (Le Ngan Phung Hotel),"Alley 79, Hoa Sữa, P.7, Q.Phu Nhuan, Ho-Chi-Minh, Phú Nhuận, Hồ Chí Minh, Việt Nam, 700000","6,6",240,7.2,7.0,6.9,6.3,6.5,1,0,0,0,0,0,1,1,1,Không có giá trước,266.000
+Adenia Hotel,"Ailen Garden Hotel, 267 Pham Ngu Lao Street, Ailen Garden Hotel, Quận 1, Hồ Chí Minh, Việt Nam","7,5",1525,8.8,8.0,7.8,6.9,7.0,1,0,0,0,1,0,1,1,1,Không có giá trước,Không có giá sau
+Khách sạn Yến Nam Nguyễn Trọng Tuyển (Yen Nam Hotel Nguyen Trong Tuyen),"219 Nguyển Trọng Tuyển, Phường 8, Phú Nhuận, Hồ Chí Minh, Việt Nam, 70000","7,8",995,7.7,7.9,8.2,7.8,8.2,0,0,0,0,0,0,1,1,1,556.002,354.241
+Lanura Apartments and Hotel,"No. 35, Room 406, Cong Hoa Street, Vietnam, Tân Bình, Hồ Chí Minh, Việt Nam, 70000","8,8",1345,8.7,9.2,9.2,9.0,9.3,0,1,0,1,0,1,0,1,1,3.212.120,612.535
+RUBY STAR HOTEL,"43 Trương Định, Quận 3, Hồ Chí Minh, Việt Nam, 700000","7,7",525,8.6,8.2,8.1,7.7,7.9,0,0,0,0,0,0,1,1,1,843.937,394.769
+Khách Sạn King Sài Gòn Sân Bay (King Hotel Saigon Airport),"25/22 Cuu Long Street, Ward 2 , Tan Binh District. Hcm City, Tân Bình, Hồ Chí Minh, Việt Nam, 700000","7,3",721,7.9,7.9,7.5,7.0,7.2,1,1,0,0,1,0,1,1,1,1.051.951,385.441
+TN Central Hotel,"No. 22, Hai Ba Trung, Ben Nghe Ward, District 1, Quận 1, Hồ Chí Minh, Việt Nam, 70000","6,9",1882,8.6,7.2,7.1,6.4,6.7,1,0,0,0,1,0,1,1,1,1.230.849,440.917
+Asian Ruby Center Point Hotel,"46-48 Mạc Thị Bưởi, Quận 1, Thành Phố Hồ Chí Minh, Quận 1, Hồ Chí Minh, Việt Nam, 70000","7,6",2612,8.8,7.8,7.7,6.9,7.4,1,1,0,0,1,0,1,1,1,3.309.646,450.825
+Khách sạn Venus (Venus Hotel),"872 Quang Trung, Go Vap District, Gò Vấp, Hồ Chí Minh, Việt Nam","8,3",650,8.7,8.6,8.7,8.3,8.6,1,0,0,0,0,0,1,1,1,360.469,321.427
+Cali Homestay,"No. 4, 59, Dinh Bo Linh, Ward 26, Binh Thanh District, Bình Thạnh, Hồ Chí Minh, Việt Nam, 70000","8,1",519,7.9,8.3,7.8,7.7,7.8,0,0,0,0,0,0,0,1,1,1.000.000,397.852
+Dlux Bạch Đằng (Dlux Bach Đang),"153 Đường Bạch Đằng, Tân Bình, Hồ Chí Minh, Việt Nam","6,7",242,7.2,6.4,5.8,5.8,5.9,0,0,0,0,0,1,0,1,0,411.581,356.481
+Khách sạn Palace Sài Gòn (Palace Hotel Saigon),"56-66 Nguyễn Huệ, Quận 1, Quận 1, Hồ Chí Minh, Việt Nam","7,9",5976,9.1,7.8,7.7,7.4,7.8,0,1,1,0,1,1,1,1,0,1.906.258,1.501.733
+California Saigon Hotel & Rooftop Pool,"52-54 Thủ Khoa Huân, Quận 1, Hồ Chí Minh, Việt Nam, 71009","8,0",3178,8.9,8.3,7.9,7.6,7.8,0,1,1,0,1,1,1,1,0,2.999.999,1.100.899
+H79 Hotel,"7B cong hoa phuong 4 quan tan binh, Tân Bình, Hồ Chí Minh, Việt Nam, 700000","6,6",1242,7.4,6.9,6.7,6.1,6.2,1,0,0,0,1,0,1,1,1,Không có giá trước,Không có giá sau
+Anh Duy Hotel,"103 đường Nguyễn Công Trứ, Quận 1, Hồ Chí Minh, Việt Nam, 70000","7,2",986,7.9,7.6,7.5,6.7,6.9,1,0,1,0,1,0,1,1,1,888.947,329.222
+Khách sạn sân bay Gia Hòa (Gia Hoa Airport Hotel),"Số 4 Đường Hậu Giang, Phường 4, Tân Bình, Hồ Chí Minh, Việt Nam, 70000","7,5",566,8.5,7.7,7.5,6.6,7.1,0,0,0,0,1,1,1,1,1,461.341,323.936
+Alleyway Home,"162/7 Bui Thi Xuan, Pham Ngu Lao Ward, District 1, Quận 1, Hồ Chí Minh, Việt Nam, 700000","6,0",605,6.6,6.6,6.1,5.7,5.8,0,1,0,1,1,1,1,1,1,1.296.296,291.667
+Khách sạn New Star Inn (New Star Inn Boutique),"214 Nguyễn Thị Minh Khai P.6 Quận 3 TPHCM, Quận 3, Hồ Chí Minh, Việt Nam, 08","7,5",554,8.2,7.9,7.4,7.2,7.4,1,0,0,0,1,0,1,1,1,1.300.000,390.535
+Khách sạn Văn Giao (Văn Giao Hotel),"No. 740B Nguyen Kiem Street, Ward 4, Phu Nhuan District, Phú Nhuận, Hồ Chí Minh, Việt Nam, 70000","7,0",463,7.6,7.7,7.1,6.6,6.7,0,0,0,0,0,1,1,1,1,445.360,223.769
+Loove Hotel - Khách Sạn Tình Yêu,"LOOVE HOTEL 2, No. 18, Pham Cong Tru Street, Thanh My Loi Ward, Thu Duc City, Ho Chi Minh City, Quận 2, Hồ Chí Minh, Việt Nam, 70000","8,0",317,7.8,8.7,8.6,8.2,8.4,0,0,0,0,0,0,1,1,1,507.425,183.392
+Grandma Lu Saigon Hawaii - Pham Ngu Lao Street,"No. 361A, Pham Ngu Lao Street, Pham Ngu Lao Ward, Quận 1, Hồ Chí Minh, Việt Nam","8,0",622,9.0,8.4,8.4,7.5,7.4,0,0,0,0,0,0,1,1,0,Không có giá trước,Không có giá sau
+Khách sạn Nicecy Sài Gòn (Nicecy Saigon Hotel),"4B-4C Thi Sách, Phường Bến Nghé, Quận 1, Quận 1, Hồ Chí Minh, Việt Nam, 700000","8,3",1761,8.8,8.4,7.8,7.4,7.8,1,1,0,0,1,0,1,1,1,Không có giá trước,Không có giá sau
+khách sạn Vạn Thành Đạt (khach san Van Thanh Đat),"959 Đường Nguyễn Ảnh Thủ, Quận 12, Hồ Chí Minh, Việt Nam","8,4",41,7.8,7.4,7.6,7.4,7.4,0,0,0,0,0,0,1,1,1,255.129,231.481
+THANH NGOC HOTEL,"No. 81, Chau Van Liem St, Ward 14, Vietnam, Quận 5, Hồ Chí Minh, Việt Nam, 70000","7,3",81,8.2,8.2,7.9,7.8,8.0,1,0,0,0,0,0,1,1,1,423.715,326.752
+Khách sạn Calista Sài Gòn (Calista Saigon Hotel),"247-249 Lý Tự Trọng,, Quận 1, Hồ Chí Minh, Việt Nam, 70000","8,3",6867,8.8,8.4,8.2,7.6,8.3,1,1,0,0,0,0,1,1,0,Không có giá trước,Không có giá sau
+Golden Hotel,"67/2/1 Đ. Số 5, Phường 17, Gò Vấp, Hồ Chí Minh, Việt Nam","9,1",98,9.4,9.9,10.0,9.7,9.7,0,0,0,0,1,0,1,1,1,1.352.511,354.398
+ibis Sân bay Sài Gòn (ibis Saigon Airport),"Số 2 đường Hồng Hà, phường 2, quận Tân Bình, TP.HCM, Tân Bình, Hồ Chí Minh, Việt Nam, 70000","8,6",12429,9.1,8.7,8.4,8.4,8.8,1,1,1,0,1,1,1,1,1,2.494.374,1.238.184
+Khách sạn Đình Phát (Dinh Phat Hotel),"141-143 Calmette,P. Nguyen Thai Binh, Q.1, TP.Ho Chi Minh, Vietnam, Quận 1, Hồ Chí Minh, Việt Nam","8,2",1865,8.9,8.2,8.4,7.7,8.2,1,1,0,0,1,0,1,1,1,1.200.000,437.955
+La Casa di Dicembre HCMC,"2 Trường Sa, Phường 17, Bình Thạnh, Hồ Chí Minh, Việt Nam","9,0",270,9.2,9.8,9.6,9.3,9.5,1,0,0,0,0,0,1,1,1,1.611.111,402.778
+Khách sạn Sân Bay Havana Collection O (Collection O Havana Airport Hotel),"Cuu Long, Phuong 2, Quan Tan Binh, Thanh Pho Ho Chi Minh, Viet Nam, Ho-Chi-Minh, Tân Bình, Hồ Chí Minh, Việt Nam, 70000","7,1",1210,7.8,7.3,7.2,6.8,7.1,0,1,0,1,0,0,1,1,1,Không có giá trước,494.407
+Grandma Lu's Saigon Japan Town,"18 Thái Văn Lung, 22, Quận 1, Hồ Chí Minh, Việt Nam, 700000","8,6",1252,9.4,8.9,9.0,8.3,8.6,0,0,0,0,0,0,1,1,1,Không có giá trước,Không có giá sau
+Sunshine Residences By 5H,"13 Song Day, Phuong 2, Quan Tan Binh, Tân Bình, Hồ Chí Minh, Việt Nam, 700000","8,4",852,8.9,8.7,8.7,8.6,8.8,1,0,0,1,0,1,1,1,0,920.304,594.749
+CityHouse - LightHouse SG,"179 Cô Giang, Phường Cô Giang, Quận 1, Thành Phố Hồ Chí Minh, Quận 1, Hồ Chí Minh, Việt Nam, 700000","8,6",2042,8.7,9.0,9.0,8.6,9.0,1,0,0,0,0,1,1,1,0,1.366.052,572.097
+Eros Hotel _Phan Huy Ích,"Phan Huy Ich, No. 8, Lane 331, Ward 14, Go Vap, 331/8 phường 14, Gò Vấp, Hồ Chí Minh, Việt Nam, 71418","7,7",53,8.5,8.8,8.6,8.5,8.4,0,0,0,0,0,0,1,1,1,377.629,329.167
+M Village Living Cửu Long,"44a Cửu Long, M Village, Tân Bình, Hồ Chí Minh, Việt Nam, 700000","8,8",1229,9.2,9.3,9.2,8.9,9.4,0,0,0,1,1,1,0,1,1,1.277.776,733.498
+Khoi Hostel,"373/11 Phạm Ngũ Lão, Q.1, Quận 1, Hồ Chí Minh, Việt Nam, 7000","7,6",484,8.1,7.9,7.5,6.8,7.2,1,0,0,0,0,0,1,1,0,1.058.212,264.194
+M Village Living Hoàng Văn Thụ,"197/8 Đ. Ho ng Văn Thụ, Phú Nhuận, Hồ Chí Minh, Việt Nam, 700000","9,1",577,9.2,9.6,9.5,9.4,9.6,1,0,0,1,1,0,0,1,1,1.661.524,872.211
+Elegant Feel Inn - M&A,"No. 17, Ham Nghi, Nguyen Thai Binh Ward, District 1, Ho Chi Minh City, Quận 1, Hồ Chí Minh, Việt Nam, 700000","8,3",220,8.9,8.7,8.6,8.0,8.3,0,0,0,0,0,0,1,1,1,642.241,378.796
+Dong Kinh Hotel,"No. 106-108 Tran Tuan Khai, Ward 5, District 5, Ho Chi Minh City, DongKinh Hotel, Quận 5, Hồ Chí Minh, Việt Nam, 72720","7,9",944,8.5,8.2,8.3,7.7,8.0,0,1,0,0,0,1,1,1,0,1.000.000,513.180
+Khách sạn Centana Central (Centana Central Hotel),"270 Lý Tự Trọng, Phường Bến Thành, Quận 1, Quận 1, Hồ Chí Minh, Việt Nam","7,2",1158,8.3,7.4,7.4,6.5,6.8,1,0,0,0,1,0,1,1,0,453.662,439.381
+Aiden Saigon Hotel,"28-30-32-34 street No.26, Ward 11, District 6, Quận 6, Hồ Chí Minh, Việt Nam, 700000","8,3",764,8.1,8.7,8.4,8.2,8.6,1,1,1,0,1,1,1,1,1,Không có giá trước,Không có giá sau
+Khách sạn Boutique La Paix Sài Gòn (LA PAIX SÀI GÒN - BOUTIQUE HOTEL),"59 Hai Bà Trưng, P Bến Nghé, Quận 1, TP Hồ Chí Minh, Quận 1, Hồ Chí Minh, Việt Nam, 700000","8,4",1522,9.2,8.9,8.5,7.7,8.5,0,1,0,0,1,0,1,1,1,3.300.000,1.226.298
+Arista 5 - Serviced Apartment,"2 Ngô Văn Năm, Quận 1, Hồ Chí Minh, Việt Nam","7,5",444,8.7,7.9,7.9,7.6,7.7,0,0,0,0,0,0,0,1,0,Không có giá trước,Không có giá sau
+HOLO BEN THANH SAIGON Serviced HomeStay,"61 Phó Đức Chính, Quận 1, Hồ Chí Minh, Việt Nam","7,7",336,8.8,8.4,7.8,7.4,7.6,1,0,0,0,0,0,0,1,0,915.801,550.000
+Yen Nam Hotel Hoang Van Thu,"197A Hoang Van Thu, Ward 8, Phu Nhuan District, Ho Chi Minh City, Phú Nhuận, Hồ Chí Minh, Việt Nam, 700000","8,3",481,8.8,8.8,8.6,8.3,8.7,0,0,0,0,0,0,1,1,0,647.930,425.007
+Khách sạn Saigon Star (Saigon Star Hotel),"204 Nguyễn Thị Minh Khai, Quận 3 (đối diện C&#244;ng Vi&#234;n Tao Đ&#224;n) , Quận 3, Hồ Chí Minh, Việt Nam, 028","7,4",719,8.4,7.7,7.4,6.8,7.2,0,0,0,0,0,0,1,1,0,Không có giá trước,Không có giá sau
+Phong Lan 2 Hotel,"24A, Quang Trung, Phường Hiệp Phú, TP Thủ Đức, TPHCM, Quận 9, Hồ Chí Minh, Việt Nam, 700000","7,8",107,8.0,8.2,7.9,7.7,7.9,0,0,0,0,0,0,1,1,1,810.958,279.206
+Yen Nam Hotel Nguyen Thai Son,"84/1, Street 1, Ward 4, Go Vap District, HCM City., Gò Vấp, Hồ Chí Minh, Việt Nam, 700000","8,6",670,8.8,9.1,9.0,8.9,9.1,1,0,0,0,0,0,1,1,0,473.937,318.775
+Khách sạn sân bay Prague Sài Gòn (Prague Airport Hotel),"157 Bach Dang, Tân Bình, Hồ Chí Minh, Việt Nam, 70000","8,8",1086,9.0,9.3,8.9,8.6,9.2,0,0,1,0,0,1,1,1,1,1.200.000,592.224
+VINHOMES GRAND PARK QUẬN 9 Căn hộ LUXURY MASTERI CENTRE POINT (VINHOMES GRAND PARK QUAN 9 Can ho LUXURY MASTERI CENTRE POINT),"581 Nguyễn Xiển, Quận 9, Hồ Chí Minh, Việt Nam","8,9",46,8.6,9.1,9.1,9.1,9.6,1,0,0,0,1,1,1,1,1,1.622.522,708.333
+Huong Sen Hotel,"66-70 Đồng Khởi, Quận 1 , Quận 1, Hồ Chí Minh, Việt Nam,","8,4",4123,9.3,8.5,8.3,7.7,8.3,1,1,1,0,1,1,1,1,0,Không có giá trước,Không có giá sau
+Khách Sạn An Thái Sài Gòn (An Thai Saigon Hotel),"149-151 Đường Lý Tự Trọng, Phường Bến Thành, Quận 1, Hồ Chí Minh, Việt Nam, 700000","8,5",2816,9.2,8.8,8.4,7.9,8.5,1,1,0,0,0,0,1,1,1,2.838.321,824.189
+Khách sạn Aurora (Aurora Hotel),"No. 7A, 193A Nam Ky Khoi Nghia, Ward 7, Quận 3, Hồ Chí Minh, Việt Nam","8,2",238,8.8,8.8,8.4,7.8,8.3,0,0,0,0,1,0,1,1,1,500.000,380.102
+Cozrum Homes Ambera House,"212B/D37 Nguyen Trai, Nguyen Cu Trinh Ward, District 1, Quận 1, Hồ Chí Minh, Việt Nam, 70000","7,2",920,7.3,7.4,7.4,7.3,7.5,1,0,0,0,0,0,0,1,0,628.149,365.993
+DUC PHUC HOTEL,"6B6 Ha Huy Giap, Thanh Loc, District 12, Duc Phuc Hotel, ĐỨCC PHÚC HOTEL, Quận 12, Hồ Chí Minh, Việt Nam, 71514","8,3",91,8.4,8.7,8.9,8.3,8.8,0,0,0,0,0,0,1,1,1,Không có giá trước,Không có giá sau
+Khách sạn Lam Kinh (Lam Kinh Hotel),"No. 580-582, Nguyen Trai Street, Ward 8, District 5, Quận 5, Hồ Chí Minh, Việt Nam","7,6",842,8.0,7.9,7.4,7.2,7.5,1,0,0,0,0,0,1,1,1,648.749,601.852
+La Maison en Adagio | Sleep and Heal,"42/4A Trần Đ nh Xu, phường C Giang, Quận 1 , Quận 1, Hồ Chí Minh, Việt Nam, 70000","8,7",159,8.1,9.5,8.4,8.3,8.5,0,1,0,0,1,0,1,1,1,1.259.681,503.992
+Khách sạn Như Ý (Nhu Y Hotel),"No. 185, Street No. 16, Binh Tan District, Ho Chi Minh City, Bình Tân, Hồ Chí Minh, Việt Nam, 70000 – 74000","8,1",403,8.3,8.6,8.3,7.8,8.2,0,0,0,0,0,0,1,1,1,500.000,237.307
+Emerald Central (Emerald Central ),"69-71 Huỳnh Tịnh Của , P.hưỡng Võ Thị Sáu, Quận 3, Quận 3, Hồ Chí Minh, Việt Nam, 700000","8,3",1469,8.4,8.5,8.4,8.1,8.5,0,1,0,0,0,1,1,1,1,3.533.287,555.648
+Khách sạn Aluna Bến Thành (Aluna Ben Thanh Hotel),"48-50 Nguyen An Ninh , Dist 1, Quận 1, Hồ Chí Minh, Việt Nam, 70000","8,2",2015,9.1,8.5,8.2,7.7,8.1,0,1,0,0,1,0,1,1,0,2.767.463,637.541
+Cozrum Lux Hotel,"19C Bui Thi Xuan Street, Ben Thanh Ward, District 1, Quận 1, Hồ Chí Minh, Việt Nam, 700000","7,8",2500,8.6,8.0,8.0,7.4,7.6,0,0,0,0,0,0,1,1,0,1.793.257,542.852
+Bin Bin Hotel 12 - Near Sala Residence,"128 Trương Văn Bang, Quận 2, Hồ Chí Minh, Việt Nam, 71300","8,4",53,8.7,8.6,8.8,8.3,8.9,0,0,0,0,0,0,1,1,1,629.339,501.196
+Khách sạn Ruby Sài Gòn Bến Thành (Ruby Saigon Hotel - Ben Thanh),"267 - 269 Le Thanh Ton Str, Ben Thanh Ward, Quận 1, Hồ Chí Minh, Việt Nam, 70000","7,2",2297,8.4,7.1,7.2,6.4,7.0,0,1,0,0,1,0,1,1,1,3.752.873,597.358
+Khách sạn Saigon Charm (Saigon Charm Hotel),"153 Ly Tu Trong, Quận 1, Hồ Chí Minh, Việt Nam, 700000","5,9",1226,7.4,5.9,5.7,5.0,5.3,0,1,0,0,1,0,1,1,1,544.230,369.804
+Khách sạn Song Anh 3 (Song Anh 3 Hotel),"24 LÊ LAI, QUÂN 1, Quận 1, Hồ Chí Minh, Việt Nam","8,5",862,9.2,8.5,8.5,7.8,8.1,1,0,0,0,1,0,1,1,1,726.010,455.545
+Pynt Hotel 2,"No. 274, Thong Nhat Street, Ward 16, Vietnam, Gò Vấp, Hồ Chí Minh, Việt Nam","8,8",154,9.0,9.2,9.1,9.2,9.3,0,0,0,0,0,0,1,1,0,541.115,472.426
+Chotel Ben Thanh,"21B, Bui Thi Xuan, Phuong Ben Thanh, Quan 1, Quận 1, Hồ Chí Minh, Việt Nam, 000000","8,4",7127,8.9,8.8,8.6,7.8,8.5,0,0,0,0,0,0,1,1,1,1.518.653,764.825
+Nexus Nguyễn Bỉnh Khiêm,"No. 111, Nguyen Binh Khiem St, Da Kao, Quận 1, Hồ Chí Minh, Việt Nam, 70000","8,8",216,8.7,9.5,8.9,8.5,9.1,0,0,0,0,0,0,1,1,0,1.820.579,741.951
+Pink Boutique Ben Thanh Hotel,"47 Thu Khoa Huan Street, Ben Thanh Ward, Quận 1, Hồ Chí Minh, Việt Nam, 700000","8,0",146,9.4,8.8,8.1,7.5,8.2,0,1,0,0,0,0,1,1,0,2.061.753,807.815
+Azumaya Hotel Thai Van Lung 2,"29 Thái Văn Lung, Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam","8,8",54,9.3,9.4,9.1,8.5,9.0,0,1,0,0,1,0,1,1,0,Không có giá trước,Không có giá sau
+Khách sạn Mường Thanh Sài Gòn Centre (Muong Thanh Saigon Centre Hotel),"Số 8A Mạc Đĩnh Chi, phường Bến Nghé, quận 1, TPHCM, Việt Nam, Quận 1, Hồ Chí Minh, Việt Nam, 700000","8,5",3424,8.7,8.7,8.6,8.4,8.8,1,1,0,0,1,1,1,1,1,3.280.035,1.633.013
+Felix Garden Hotel,"908 Tạ Quang Bửu, Phường 5, Quận 8, Quận 8, Hồ Chí Minh, Việt Nam, 70000","7,0",162,7.0,7.3,7.3,6.5,6.7,0,0,0,0,0,0,0,1,1,650.000,282.620
+Khách sạn Valentine Luxury 31 Bùi Viện (Valentine Luxury hotel - 31 Bui Vien Street),"62 Bui Vien Street, Quận 1, Hồ Chí Minh, Việt Nam","7,9",1031,8.3,7.8,7.5,7.1,7.2,1,0,1,0,0,0,1,1,1,1.083.052,318.794
+Le Vu Hotel,"No. 19, Room 265, Pham Ngu Lao Street, Phuong Pham Ngu Lao, Quận 1, Hồ Chí Minh, Việt Nam, 71012","8,4",394,8.8,9.1,8.7,8.4,8.8,1,0,0,0,1,1,1,1,1,Không có giá trước,Không có giá sau
+The Lovenote Home,"No. 177/6, Truong Dinh, Vietnam, 177/6 Trương Định, Quận 3, Hồ Chí Minh, Việt Nam","8,6",875,8.8,9.2,9.1,8.6,9.0,1,0,0,0,0,1,1,1,1,749.805,368.135
+Khách Sạn & Căn Hộ Tina _ The Diamond Oasis (Tina Hotel & Apartments _ The Diamond Oasis),"234/5 Bach Dang, Phuong 24, Quan Binh Thanh, Bình Thạnh, Hồ Chí Minh, Việt Nam","8,7",282,9.1,9.2,9.1,9.0,9.1,1,0,0,0,0,0,1,1,1,Không có giá trước,520.410
+Yellow House Saigon Hotel,"114/32 Đề Thám, hẻm 114, Ong Lanh ,Quận 01,, Quận 1, Hồ Chí Minh, Việt Nam, 70000","8,2",1358,8.4,8.8,8.7,7.8,8.6,0,0,0,0,1,0,1,1,1,Không có giá trước,Không có giá sau
+Loove Hotel 3,"So 2, Duong So 1B, Kp 2, Phuong Phu My, Quan 7, Quận 7, Hồ Chí Minh, Việt Nam, 70000","7,5",96,7.5,8.1,8.1,7.3,7.5,0,0,0,0,0,0,1,1,1,501.789,173.213
+Khách sạn Kim Long (Kim Long Hotel),"43D/3 Hồ Văn Huê,9,Quận Phú Nhuận, Phú Nhuận, Hồ Chí Minh, Việt Nam","6,5",378,6.9,6.5,6.5,5.7,6.2,1,0,0,0,0,0,1,1,1,Không có giá trước,249.167
+Khách sạn Triple E Bảo tàng Mỹ thuật (Triple E Fine Art Museum),"81 Nguyễn Thái Bình, Phường Nguyễn Thái Bình, Quận 1, thành phố Hồ Chí Minh, Quận 1, Hồ Chí Minh, Việt Nam, 700000","9,0",1888,9.1,9.1,8.8,8.2,9.0,1,1,0,0,0,0,1,1,0,Không có giá trước,Không có giá sau
+Truong Giang Hotel,"55-57-59 Triệu Quang Phục, Phường 10 Quận 5, Quận 5, Hồ Chí Minh, Việt Nam, 7000","7,8",370,Không có,8.3,8.1,Không có,7.9,0,0,0,0,0,0,1,1,1,1.322.751,319.355
+La Airport Tan Binh Hotel,"B12 Bach Dang Street, Ward 2, Tân Bình, Hồ Chí Minh, Việt Nam","7,7",1240,8.5,8.4,7.9,Không có,7.6,0,0,0,0,0,0,1,1,0,1.055.921,506.761
+Khách Sạn Kadupul (Kadupul Hotel),"212 Nguyen Thai Son Street, Ward 1, Gò Vấp, Hồ Chí Minh, Việt Nam, 71408","7,8",194,8.0,7.4,7.9,7.2,7.7,0,1,0,0,0,0,1,1,1,650.000,414.280
+A&A Toronto Hotel,"28 Trương Định, Quận 1, Hồ Chí Minh, Việt Nam, 700000","8,0",2067,9.2,8.7,8.2,7.4,7.9,0,1,0,0,1,0,1,1,1,1.627.932,701.910
+Lotus Airport Hotel Saigon,"B124 Bach Dang, Phuong 2, Quan Tan Binh, Tân Bình, Hồ Chí Minh, Việt Nam, 70000","8,6",2133,9.0,9.2,8.9,8.3,8.9,0,0,0,0,1,0,1,1,1,912.101,587.352
+Khách sạn Sky Gem Sora (Sky Gem Hotel Sora),"11 Thái Văn Lung, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam, 70000","8,2",4943,9.0,8.5,8.2,7.6,8.3,1,1,0,0,1,1,1,1,0,3.341.487,1.356.591
+Midas Hotel,"751 Đ. Lê Hồng Phong, Quận 10, Hồ Chí Minh, Việt Nam, 700000","7,4",336,8.0,7.9,7.6,7.5,7.7,1,0,0,0,0,1,1,1,1,Không có giá trước,Không có giá sau
+Queen Central Hotel,"38 - 40 Nguyễn An Ninh, Phường Bến Thành, Quận 1, Quận 1, Hồ Chí Minh, Việt Nam, 70000","7,0",3410,8.4,7.0,7.1,6.3,6.5,1,0,0,0,0,0,1,1,1,1.940.037,400.338
+Dazi Signature,"23 Trương Định, Dazi Signature, Quận 1, Hồ Chí Minh, Việt Nam, 10000","8,8",1418,9.5,9.3,8.8,8.3,8.9,1,1,0,0,0,0,1,1,1,2.070.025,911.269
+Khách sạn và Spa Minh Tâm 3/2 (Minh Tam Hotel & Spa 3/2),"số 206 Đường 3/2, Phường 12, Quận 10, Quận 10, Hồ Chí Minh, Việt Nam, 70000","8,0",1138,8.2,8.5,8.1,8.0,8.1,1,1,0,0,0,1,1,1,1,Không có giá trước,Không có giá sau
+Bonita Signature BTX Hotel,"118A Bùi Thị Xuân, Phường Bến Thành, Quận 1, Quận 1, Hồ Chí Minh, Việt Nam","7,6",1365,8.2,7.6,7.6,7.2,7.3,1,1,0,0,0,0,1,1,1,Không có giá trước,499.074
+LalaHouse Riverside Residence,"No. 51, Nguyen Ngoc Phuong, Ward 19, Bình Thạnh, Hồ Chí Minh, Việt Nam, 70000","9,0",253,9.1,9.4,9.4,9.1,9.3,1,1,0,0,0,0,1,1,1,630.680,393.750
+Tan Thanh Cong Hotel,"117 Trần Bình Trọng, Quận 5, Quận 5, Hồ Chí Minh, Việt Nam","7,8",59,7.3,7.4,7.8,6.6,7.3,0,0,0,0,0,0,1,1,1,749.610,708.333
+Khách Sạn Blue Airport (The Blue Airport Hotel),"2/37 Phan Thuc Duyen, Ward 4, Tan Binh Dist, Tân Bình, Hồ Chí Minh, Việt Nam, 70000","7,1",1714,7.5,7.3,7.1,6.8,7.3,0,0,0,0,0,1,1,1,1,374.951,352.280
+Woody House Boutique,"41 Tran Đinh Xu, Cau Kho Ward, Quận 1, Hồ Chí Minh, Việt Nam, 70000","9,0",1339,9.0,9.2,9.5,9.2,9.3,0,0,0,0,0,0,0,1,0,1.718.601,733.484
+Express by M Village Đông Du,"No. 22, Dong Du, Ben Nghe Ward, District 1, Ho Chi Minh City, Quận 1, Hồ Chí Minh, Việt Nam, 700000","8,8",2672,9.3,9.2,9.0,8.6,9.1,1,0,0,1,1,0,0,1,1,2.724.401,861.719
+YHD HomeStay Bui Vien,"14/11 Đỗ Quang Đẩu, Quận 1, Hồ Chí Minh, Việt Nam, +84","7,3",399,7.6,7.3,6.7,6.1,6.2,1,0,0,0,1,1,0,1,0,1.220.679,348.194
+The Concept Hotel HCMC- City Center,"No. 160 Bis, Bui Thi Xuan Street, Phuong Pham Ngu Lao, Quận 1, Hồ Chí Minh, Việt Nam, 000000","8,9",1742,9.2,9.4,9.2,8.8,9.2,0,0,0,1,0,1,1,1,0,1.664.936,931.737
+THE QUEENDOR BOUTIQUE HOTEL,"2 Quách Văn Tuấn, Tân Bình, Hồ Chí Minh, Việt Nam, 70000","8,3",731,8.7,8.8,8.4,8.0,8.5,1,1,1,0,1,1,1,1,1,947.589,633.663
+AN CHI HOTEL,"76A/14 Trần Hữu Trang, Phú Nhuận, Hồ Chí Minh, Việt Nam, 700000","9,0",434,9.0,9.5,9.4,9.0,9.3,0,0,0,0,1,0,0,1,1,Không có giá trước,Không có giá sau
+Khách sạn Nhật Bình 2 (Nhat Binh 2 Hotel),"62 QL13, Bình Thạnh, Hồ Chí Minh, Việt Nam, 00700","7,0",193,7.2,7.5,7.3,7.0,7.2,1,0,0,1,0,1,0,1,1,385.000,285.451
+Nhà dân Toi ở trung tâm thành phố (Toi's Travel Home Central),"36/20 Lê Thị Riêng, Quận 1, Hồ Chí Minh, Việt Nam","8,7",183,9.2,9.0,8.9,8.7,9.0,1,0,0,0,1,0,1,1,0,497.165,416.667
+LÁ HOTEL RIVERSIDE,"44 Bình Quới, Bình Thạnh, Hồ Chí Minh, Việt Nam, 770000","8,2",213,8.4,8.7,8.6,8.4,8.5,0,0,0,0,0,0,0,1,0,881.938,395.987
+Sanouva Saigon Hotel,"175 L&#253; Tự Trọng, Phường Bến Th&#224;nh, Quận 1 , Quận 1, Hồ Chí Minh, Việt Nam, 700000","8,5",5658,9.1,8.6,8.4,7.8,8.7,1,1,0,0,1,1,1,1,1,1.524.799,998.710
+Khách sạn Phương Thùy (Phuong Thuy Hotel Thu Duc near QL13),"4 đường số 17, phường Hiệp Bình Phước, Thủ Đức, TP. HCM, Thủ Đức, Hồ Chí Minh, Việt Nam, 00000","7,6",226,7.9,8.2,7.8,7.4,7.6,1,1,0,0,0,0,1,1,1,472.809,299.632
+Khách sạn Viet Lotus Sài Gòn (Viet Lotus Saigon Hotel),"33 Cao Thắng, Quận 3 , Quận 3, Hồ Chí Minh, Việt Nam, 700000","8,1",1149,8.4,8.1,8.2,7.9,8.3,1,1,0,0,1,1,1,1,1,1.696.621,791.297
+Vy Da Hostel (VyDa Backpacker Hostel),"64 Ly Tu Trong, Phuong Ben Thanh, Quan 1, Quận 1, Hồ Chí Minh, Việt Nam, 711045","8,6",918,9.3,8.9,9.0,8.1,8.5,0,1,0,0,1,0,1,1,0,Không có giá trước,555.556
+Khách sạn White Lotus Sài Gòn (White Lotus Hotel Saigon),"6A Thi Sách, Quận 1, Hồ Chí Minh, Việt Nam, 700000","8,2",2250,8.6,8.5,8.3,7.6,8.2,0,1,0,1,1,0,1,1,1,3.264.667,591.205
+Felix Hotel,"219/8A Phạm Ngũ Lão, Felix hotel, Quận 1, Hồ Chí Minh, Việt Nam, 100000","8,1",2680,8.9,8.8,8.4,7.7,8.0,1,1,0,0,1,0,1,1,1,715.894,353.452
+AMILA NGUYEN HUE HOTEL by SAZI,"No. 53, Huynh Thuc Khang Street, Ben Nghe, Quận 1, Hồ Chí Minh, Việt Nam, 00700","7,4",243,8.4,7.6,7.5,6.7,7.3,0,0,0,0,1,0,1,1,1,918.160,516.704
+M Village Hotel Lý Tự Trọng,"200 Lý Tự Trọng, M Village, Quận 1, Hồ Chí Minh, Việt Nam, 70000","8,8",735,9.5,9.4,9.1,8.6,9.2,1,0,0,1,1,0,1,1,1,2.374.059,1.243.311
+Nicecy Hotel - Bui Thi Xuan Street,"No. 84, Bui Thi Xuan Street, Phuong Pham Ngu Lao, Quận 1, Hồ Chí Minh, Việt Nam, 700000","8,1",1232,8.5,8.3,7.7,7.4,7.6,0,1,0,1,1,0,1,1,1,4.398.148,754.504
+Montana Hotel & Apartment Saigon Airport,"51B Hồng Hà, Phường 2, Montana Building, Tân Bình, Hồ Chí Minh, Việt Nam, 70000","8,0",250,9.0,8.6,8.6,8.0,8.3,0,0,0,0,1,1,1,1,1,1.112.358,278.090
+Saigon Hotel,"41-47 Đông Du, Quận 1, Hồ Chí Minh, Việt Nam, 70000","8,4",2977,9.2,8.6,8.4,7.9,8.6,0,1,0,0,1,1,1,1,1,3.000.000,1.268.035
+KaratHome,"189b/a29, Cong Quynh st., Nguyen Cu Trinh ward, District 1, Quận 1, Hồ Chí Minh, Việt Nam, 70000","8,4",158,8.8,8.8,8.7,8.6,9.1,1,0,0,1,0,0,1,1,1,Không có giá trước,Không có giá sau
+Green Star Hotel,"26 Đỗ Quang Đẩu, P.Phạm Ngũ Lão, Q.1 TP.HCM, Quận 1, Hồ Chí Minh, Việt Nam, 70000","7,6",1363,8.5,8.1,7.8,7.2,7.5,0,1,0,0,1,1,1,1,0,591.015,453.670
+Khách sạn Liberty Central Saigon Riverside (Liberty Central Saigon Riverside Hotel),"17 đường Tôn Đức Thắng, Quận 1, Hồ Chí Minh, Việt Nam, 70000","8,6",7494,9.1,8.7,8.4,8.6,9.0,1,1,1,0,1,1,1,1,0,Không có giá trước,3.428.606
+KHÁCH SẠN HERA (HERA HOTEL),"06 Song Da Street, Ward 2, Tan Binh District, Tân Bình, Hồ Chí Minh, Việt Nam, 70000","8,2",882,8.7,8.7,8.3,8.0,8.4,1,1,0,0,1,1,1,1,1,1.035.662,524.454
+"Saigon Authentic Hostel - FREE Alley Walking Tour, Fresh Daily Breakfast, Gym & Rooftop Billiard","81 Số 45, Quận 4, Hồ Chí Minh, Việt Nam, 70000","9,4",2021,9.2,9.8,9.6,9.4,9.6,1,1,0,0,1,1,1,1,1,Không có giá trước,Không có giá sau
+Sens House Saigon - Căn Hộ Dịch Vụ Vinhomes Central Park (Sens House Saigon – Serviced Apartments in Vinhomes Central Park ),"Vinhomes Central Park Residence, 208 Nguyen Huu Canh Street, Ward 22, Binh Thanh District, HCMC, Bình Thạnh, Hồ Chí Minh, Việt Nam, 700000","8,4",1717,8.7,8.2,8.4,8.2,8.3,1,1,1,1,1,1,0,1,1,Không có giá trước,1.414.217
+Khách sạn Sao Mai,"No. 82, Ton That Tung Street, Vietnam, Quận 1, Hồ Chí Minh, Việt Nam, 700000","8,4",546,8.9,8.6,8.5,8.0,8.5,0,0,0,1,0,0,1,1,1,750.000,438.242
+Hotel Continental Saigon,"132-134 Đồng Khởi, Quận 1, Quận 1, Hồ Chí Minh, Việt Nam,","8,4",7353,9.5,8.4,8.3,7.8,8.4,1,1,0,0,1,1,1,1,1,7.138.665,2.394.287
+Khách sạn La Cigale (La Cigale Hotel),"37-39 Hung Gia 1, Phu My Hung, Quận 7, Hồ Chí Minh, Việt Nam","8,5",998,8.7,8.9,8.9,8.1,8.9,1,0,0,1,0,0,1,1,1,1.006.232,523.111
+Cozrum Homes - Coraline House,"No. 41A, Hòa Hưng, Ward 13, District 10, Ho Chi Minh City, Vietnam, Quận 10, Hồ Chí Minh, Việt Nam, 0840001","7,7",701,8.3,7.9,7.9,7.9,7.7,1,0,0,1,0,0,0,1,1,729.108,341.505
+SAVIHOUSE - HUCH VILLA,"No. 29, Hoang Dieu, Ward 10, Phu Nhuan District, Ho Chi Minh City, Phú Nhuận, Hồ Chí Minh, Việt Nam, 700000","8,1",462,8.2,8.3,8.4,8.2,8.4,1,0,1,0,0,1,1,1,1,736.389,644.311
+Nicecy Hotel - Yersin Street,"No. 7, Yersin Street, Cau Ong Lanh Ward, Vietnam, Quận 1, Hồ Chí Minh, Việt Nam, 700000","7,9",248,7.8,7.7,7.6,6.8,7.1,0,1,1,0,1,0,1,1,1,Không có giá trước,Không có giá sau
+Cozrum Home - Daisy House,"No. 165, Nguyen Thai Binh Street, Nguyen Thai Binh Ward, Quận 1, Hồ Chí Minh, Việt Nam, 08400001","7,9",265,8.3,7.4,7.8,7.7,7.8,1,0,0,1,0,0,0,1,0,960.223,467.038
+Mơ Mơ Residence,"117 Duy Tân, Phú Nhuận, Hồ Chí Minh, Việt Nam","9,2",267,9.5,9.5,9.6,9.5,9.8,1,0,0,0,0,0,0,1,1,4.173.158,629.630
+Masteri Thao Dien Serviced Apartment,"Đường D1A, Quận 2, Hồ Chí Minh, Việt Nam, 700000","8,6",178,9.1,8.9,8.8,8.8,8.5,1,1,1,1,1,1,1,1,1,Không có giá trước,Không có giá sau
+KHÁCH SẠN SÂN BAY GALAXY (GALAXY AIRPORT HOTEL),"38/6 Lam sơn,Phường 2, Quận Tân Bình,TP.Hồ Chí Minh, Tân Bình, Hồ Chí Minh, Việt Nam, 70000","8,5",672,8.9,9.0,8.7,8.2,8.8,0,0,0,0,0,0,1,1,1,2.801.152,388.549
+Ngọc Dung - Khu căn hộ cao cấp La Regatta (La Regatta Boutique Residences),"225/4 Nguyễn Đình Chiểu, Phường 5, Quận 3, TP.HCM, Quận 3, Hồ Chí Minh, Việt Nam, 700000","8,0",722,8.2,8.3,8.1,7.6,8.1,1,1,0,0,0,1,1,1,1,654.895,525.000
+Nam Anh 2 Hotel,"No. 17, Cu Lao, Ward 2, Phu Nhuan, Ho Chi Minh City, Phú Nhuận, Hồ Chí Minh, Việt Nam, 70000","6,5",111,7.2,6.7,6.5,6.0,5.6,0,0,0,0,0,0,1,1,0,1.000.000,261.706
+BED IN TOWN SAIGON,"15AB Đ. Nguyễn Văn Thủ, Quận 1, Hồ Chí Minh, Việt Nam, 700000","7,5",461,8.2,8.1,7.8,7.5,7.3,1,0,0,0,0,0,0,1,1,850.000,605.231
+Khách Sạn Mi Linh (Mi Linh Hotel),"B38A Bạch Đằng, Phường 02, Quận Tân Bình , Tân Bình, Hồ Chí Minh, Việt Nam, 700000","7,2",2996,8.0,7.5,7.6,6.1,6.6,1,1,0,0,1,0,1,1,1,484.917,463.624
+Khách Sạn Cupid (Cupid Hotel),"2Bis Đ.Nam Quốc Cang, Quận 1, Hồ Chí Minh, Việt Nam, 70000","8,6",1142,8.9,9.0,8.7,8.7,8.7,0,0,0,0,0,0,1,1,1,690.470,546.664
+Aladdin Hotel,"397 Huỳnh Văn Bánh, Phường 11, Quận Phú Nhuận, TP.HCM, Phú Nhuận, Hồ Chí Minh, Việt Nam","8,2",206,7.8,7.7,7.0,6.9,7.0,1,1,0,0,1,0,1,1,1,423.483,421.296
+Dong Khanh Hotel,"Số 2 Trần Hưng Đạo B , Phường 7, Quận 5, Th nh Phố Hồ Ch Minh, Quận 5, Hồ Chí Minh, Việt Nam, 700000","7,7",1462,8.1,7.9,7.7,7.3,7.6,0,1,0,0,1,0,1,1,0,1.200.000,651.035
+KHÁCH SẠN SÂN BAY APOLLO (APOLLO AIRPORT HOTEL),"94 Yên Thế, Tân Bình, Hồ Chí Minh, Việt Nam, 70000","8,2",349,8.8,8.7,8.4,7.9,8.2,0,0,0,0,1,1,1,1,1,650.000,388.549
+Twins Hotel Phu My Hung,"26 28 Hung Phuoc 3, Tan Phong Ward, District 7, Ho Chi Minh City, Quận 7, Hồ Chí Minh, Việt Nam, 700000","8,9",122,9.1,9.4,9.1,8.6,9.1,1,1,0,0,1,0,1,1,1,Không có giá trước,Không có giá sau
+Cozrum Homes - Summer's House,"Room 1A, No. 50, Street 3/2, Ward 12, District 10, Ho Chi Minh City, Quận 10, Hồ Chí Minh, Việt Nam, 08400001","7,2",807,7.9,7.7,7.8,7.5,7.4,1,0,0,0,0,1,0,1,0,407.226,395.742
+Sofitel Saigon Plaza Hotel,"17 Đại lộ Lê Duẩn, Quận 1 , Quận 1, Hồ Chí Minh, Việt Nam,","8,7",2320,8.7,9.0,8.4,8.7,9.1,1,1,1,0,1,1,1,1,1,7.142.950,6.111.252
+Khách sạn Enjoy 5A (Enjoy Hotel 5A),"So 2 Duong 5A khu dan cu Trung Son,, Bình Hưng, Hồ Chí Minh, Việt Nam, 700000","8,2",270,8.5,8.1,8.5,8.1,8.3,0,0,0,0,0,0,1,1,1,Không có giá trước,502.500
+The Bloom Phạm Viết Chánh - Không gian sống hiện đại ở Sài Gòn (The Bloom Pham Viet Chanh - Modern Living Space in Saigon),"No. 40/8/3 Pham Viet Chanh Street, Ward 19, Binh Thanh District, HCMC, Bình Thạnh, Hồ Chí Minh, Việt Nam, 70000","8,8",1032,8.6,9.4,9.0,8.7,9.1,1,1,1,0,1,1,1,1,1,5.372.630,1.097.206
+CityHouse - Ariosa,"Cityhouse - Ariosa, No. 174, Nam Ky Khoi Nghia Road, Vietnam, Cityhouse - Ariosa, Quận 3, Hồ Chí Minh, Việt Nam","8,8",2776,9.2,9.2,9.1,8.7,9.0,1,0,0,0,0,1,1,1,0,2.022.418,979.123
+Windsor Plaza Hotel,"18 An Dương Vương, Phường 9, Quận 5, Thành phố Hồ Chí Minh, Việt Nam, Quận 5, Hồ Chí Minh, Việt Nam, 700000","8,5",7875,Không có,8.7,8.5,8.5,8.8,1,1,1,0,1,1,1,1,1,3.500.130,1.413.502
+Pharaon Hotel,"56 duong so 7, khu dan cu Trung Son, Binh Hung, Binh Chanh, Bình Hưng, Hồ Chí Minh, Việt Nam, 70000","8,1",260,8.3,8.6,8.3,8.3,8.5,0,0,0,0,0,0,0,1,0,750.000,539.180
+Landmark 81 & Vinhomes Urban - Luxury Apartment,"Khu Vinhomes - 720A Dien Bien Phu, Bình Thạnh, Hồ Chí Minh, Việt Nam, 72300","8,2",219,8.7,7.9,8.1,8.3,8.3,1,0,1,1,0,1,0,1,1,11.111.111,2.237.917
+The Moon 2 Hotel,"245 Number 1 Street, Binh Tri Dong B Ward,, Bình Tân, Hồ Chí Minh, Việt Nam, 700000","9,8",30,10.0,10.0,10.0,10.0,10.0,0,0,0,0,1,0,1,1,1,2.500.000,992.021
+Cozy Hotel HCM,"Room 5, Da Kao Cozy Hotel, Nguyen Thi Minh Khai Street, Cozy Hotel, 5 Tầng, Quận 1, Hồ Chí Minh, Việt Nam","7,6",375,8.3,8.2,8.1,7.6,7.7,1,0,0,0,1,0,1,1,1,Không có giá trước,Không có giá sau
+TTC Hotel Deluxe Airport,"315 Ho&#224;ng Văn Thụ, phường 2, quận T&#226;n B&#236;nh, Tân Bình, Hồ Chí Minh, Việt Nam, 72519","7,8",724,8.2,8.0,7.7,7.4,7.8,0,1,0,0,0,1,1,1,1,1.210.075,858.061
+Khách sạn Nicecy Ngân Hà (Nicecy Ngan Ha Hotel),"190 Le Thanh Ton, P. Ben Thanh, Q. 1, Quận 1, Hồ Chí Minh, Việt Nam","8,1",3827,9.1,8.4,8.0,7.4,7.9,0,1,0,0,1,0,1,1,1,2.215.225,732.350
+Jovia Hotel,"132 Lý Tự Trọng, 10, Quận 1, Hồ Chí Minh, Việt Nam, 700000","8,5",4670,9.2,9.0,8.5,8.1,8.6,1,1,1,0,1,0,1,1,0,2.119.363,962.815
+A-IN HOTEL DELLUNA,"126 Đề Thám, Quận 1, Hồ Chí Minh, Việt Nam","8,4",1032,9.1,8.7,8.8,8.4,8.6,0,0,0,0,0,0,1,1,1,617.502,510.804
+K&T Hotel - Sân Bay Tân Sơn Nhất,"307/16, Nguyen Van Troi Street, Ward 1, Tan Binh District, Ho Chi Minh City, Tân Bình, Hồ Chí Minh, Việt Nam, 700000","8,8",476,8.0,8.2,8.0,7.3,7.8,0,0,0,0,0,0,1,1,0,540.552,345.385
+Khách sạn Lotus Sài Gòn (Lotus Saigon Hotel),"120 Cách Mạng Tháng Tám, Phường Võ Thị Sáu, Quận 3, Thành phố Hồ Chí Minh, Quận 3, Hồ Chí Minh, Việt Nam, 72400","7,7",1615,7.7,7.9,7.5,7.3,7.6,1,1,1,0,1,1,1,1,1,1.737.990,1.409.271
+Saigon City Center,"385/143 Nguyễn Công Trứ, P. Cầu Ông Lãnh, Quận 1, Quận 1, Hồ Chí Minh, Việt Nam, 70000","6,5",876,6.8,6.3,6.7,5.8,6.2,0,0,0,0,0,0,1,1,1,337.142,163.263
+Khách sạn La Memoria - Trung tâm thành phố (La Memoria Hotel - City Centre),"118 Nguyen Cu Trinh street, Nguyen Cu Trinh Ward, District 1, Quận 1, Hồ Chí Minh, Việt Nam, 700000","8,8",1234,9.2,9.3,9.0,8.6,8.8,0,0,0,0,0,0,1,1,1,1.109.668,742.218
+The Hotel Nicecy,"271 Le Thanh Ton Street, Ben Thanh Ward, Quận 1, Hồ Chí Minh, Việt Nam, 710000","8,2",2483,9.3,8.6,8.5,7.9,8.3,1,0,0,0,1,0,1,1,1,1.600.000,546.502
+Khách sạn sân bay My Villa (My Villa Airport Hotel),"54/34 đường Bạch Đằng, Phường 02, Quận Tân Bình, Thành phố Hồ Chí Minh, Tân Bình, Hồ Chí Minh, Việt Nam, 700000","7,8",1075,8.3,8.0,7.8,7.4,7.8,0,1,0,1,1,1,1,1,1,2.846.209,540.627
+Saigon Airport Bluesky Serviced Apartment,"01 Bạch Đằng, phường 2, Q. Tân Bình,, Tân Bình, Hồ Chí Minh, Việt Nam","8,5",2860,8.8,8.4,8.7,8.4,8.7,1,1,0,1,0,1,1,1,1,2.271.921,1.050.798
+Khách sạn Chín Sao (Chin Sao Hotel Nguyen Thi Thap),"153-155 Nguyen Thi Thap street, Him Lam residential area, Tan Hung ward, Quận 7, Hồ Chí Minh, Việt Nam, 700000","7,5",334,7.9,8.0,7.7,7.1,7.4,0,1,0,0,0,0,0,1,0,Không có giá trước,Không có giá sau
+"Vinpearl Landmark 81 Khách sạn Autograph Collection (Vinpearl Landmark 81, Autograph Collection)","720A Dien Bien Phu, Binh Thanh, Ho Chi Minh, Bình Thạnh, Hồ Chí Minh, Việt Nam, 70000","9,0",2531,9.1,9.3,9.0,9.2,9.5,1,1,0,0,1,1,1,1,1,Không có giá trước,5.600.000
+Cozrum Homes - Autumn House,"No. 34, Dong Da, Ward 02, Binh Thanh District, Ho Chi Minh City, Bình Thạnh, Hồ Chí Minh, Việt Nam, 700000","8,1",974,8.4,8.4,8.3,8.4,8.3,1,0,0,0,0,0,0,1,0,1.000.000,352.833
+Capsule Riverside Sài Gòn (Capsule Riverside Saigon),"No. 324, Vo Van Kiet Street, Quận 1, Hồ Chí Minh, Việt Nam, 70000","8,4",1410,8.7,8.9,8.9,8.4,8.4,0,0,0,0,0,1,1,1,1,Không có giá trước,Không có giá sau
+Khách sạn Merperle Crystal Palace (MerPerle Crystal Palace),"13 Nguyễn Lương Bằng, Phường Tân Phú, Quận 7, Hồ Chí Minh, Việt Nam, 700000","8,5",1989,8.2,8.8,8.6,8.3,9.0,0,1,0,0,1,1,1,1,1,3.387.172,2.070.781
+Rex Hotel Saigon,"141 Đại lộ Nguyễn Huệ, Quận 1, Quận 1, Hồ Chí Minh, Việt Nam, 701000","8,5",8093,9.5,8.6,8.1,8.2,8.7,1,1,1,0,1,1,1,1,1,8.956.032,3.915.615
+The Noble Swan WoodPark Hotel,"217 Phạm Ngũ Lão, Quận 1, Hồ Chí Minh, Việt Nam, 700000","7,2",750,8.4,7.7,7.2,6.6,6.8,0,0,0,1,1,0,1,1,1,1.000.961,410.737
+Cozrum Homes - Kena House,"No. 10, 135, Nguyen Cuu Van, Ward 17, Binh Thanh District, Bình Thạnh, Hồ Chí Minh, Việt Nam, 08400001","8,8",362,9.1,9.1,9.1,9.2,9.1,1,0,0,0,0,0,0,1,1,Không có giá trước,Không có giá sau
+Khách Sạn 99 Bùi Viện (Boutique) (99 Bui Vien Hotel (Boutique)),"99 Bui Vien, phuong Pham Ngu Lao, Quan 1, Tp. HCM, Quận 1, Hồ Chí Minh, Việt Nam, 700000","7,4",1521,8.0,8.1,7.3,7.0,7.0,0,0,0,0,1,1,1,1,1,1.555.725,347.930
+H Best Nhà Trọ Cafe SaiGon (H Best Hostel Cafe SaiGon),"265/39 phạm Ngũ Lão, Phường Phạm Ngũ Lão, Quận 1, Quận 1, Hồ Chí Minh, Việt Nam, 700000","7,5",97,8.3,8.1,7.5,6.7,7.3,0,1,0,1,0,1,1,1,1,346.966,232.875
+Khách sạn Bros (Bros Hotel),"220 Nguyen Cu Trinh, Nguyen Cu Trinh Ward, District 1, Quận 1, Hồ Chí Minh, Việt Nam, 70000","8,2",212,9.0,8.6,8.2,8.0,8.2,1,1,0,0,0,0,1,1,1,831.992,632.697
+Haven Hut Hotel,"176 Cô Giang, Phường Cô Giang, Quận 1, Hồ Chí Minh, Việt Nam, 700000","8,3",1499,8.7,8.6,8.6,8.2,8.5,1,0,0,0,1,0,1,1,1,901.122,520.583
+L'anmien,"22 Trương Quyền, Quận 3, Hồ Chí Minh, Việt Nam, 722000","8,2",291,8.6,8.6,8.4,8.4,8.3,1,0,0,1,0,0,0,1,1,752.835,666.667
+Khách sạn Lucky Liên Phường (Lucky Hotel Lien Phuong),"No 85-87, 06 street, Phu Huu ward, District 9, Quận 9, Hồ Chí Minh, Việt Nam, 700000","7,6",215,7.8,8.0,7.9,7.7,7.8,0,0,0,0,0,0,1,1,1,363.000,276.674
+GOLDA HOTEL,"37 Thuận Kiều, Phường 12, Quận 5, Hồ Chí Minh, Quận 5, Hồ Chí Minh, Việt Nam","8,2",824,8.4,8.5,8.3,8.1,8.4,1,1,0,0,1,0,1,1,0,3.051.848,636.724
+Aquari Hotel,"9A-9B Thi Sách, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam, 700000","8,3",2119,8.8,8.6,8.3,7.9,8.6,1,1,1,0,1,1,1,1,1,5.000.000,1.349.206
+Khách sạn Hoa Đệ Nhất (Hoa De Nhat Hotel),"4/1/9-4/1/11 Hoàng Việt, Phường 4, Quận Tân Bình, Tân Bình, Hồ Chí Minh, Việt Nam, 700000","7,0",485,7.5,7.4,7.3,6.7,7.0,1,1,0,0,1,0,1,1,1,Không có giá trước,Không có giá sau
+Skymian Boutique Apartment,"15 - 17 Phan Khiem Ich Street, Tan Phong Ward,Dist 7, HCMC, VN, Quận 7, Hồ Chí Minh, Việt Nam, 72915","8,8",231,9.1,9.1,9.2,8.7,9.2,1,0,0,0,0,0,1,1,1,Không có giá trước,Không có giá sau
+Senho Hotel,"110/6 Tô Hiệu, Tân Phú, Hồ Chí Minh, Việt Nam","7,4",308,7.9,8.0,7.9,7.7,7.8,1,1,0,1,0,0,0,1,1,1.500.000,314.239
+Khách sạn Happy Life (Happy Life Hotel),"542A-544 Huỳnh Tấn Phát & số 2 Nguyễn Thị Thập, Quận 7, Thành Phố Hồ Chí Minh, Quận 7, Hồ Chí Minh, Việt Nam, 70000","7,5",793,7.2,7.7,7.9,7.2,7.6,1,1,0,0,1,0,1,1,1,1.394.703,755.946
+The Hammock Hotel Global City,"Do Xuan Hop, An Phu The Global City, The Global City, Quận 2, Hồ Chí Minh, Việt Nam","9,1",66,8.2,9.6,9.2,9.0,9.4,0,1,0,0,1,0,1,1,1,1.437.938,707.631
+The Sophia Apartment - Thao Dien Central,"No. 14, D5 Street, Carik Residential Area, An Khanh Ward, Thu Duc City, Ho Chi Minh City, Quận 2, Hồ Chí Minh, Việt Nam, 700000","9,2",431,9.0,9.4,9.4,9.1,9.5,1,0,0,0,0,0,1,1,1,3.172.800,455.053
+M Village Living Lê Văn Sỹ,"359 L Văn Sỹ , Quận 3, Hồ Chí Minh, Việt Nam, 700000","9,1",742,9.2,9.5,9.3,9.1,9.4,1,0,0,1,1,0,0,1,1,1.506.083,879.739
+Cozrum Homes - Retro House,"The Alley 520 No 1 , Ng Gia Tự, Ward 09, District 5 , Quận 5, Hồ Chí Minh, Việt Nam, 08400001","7,8",809,8.5,8.1,8.0,8.1,8.0,1,0,0,0,0,0,0,1,1,2.000.000,338.380
+Aristo Saigon Hotel,"3A Vo Van Tan Street, CBD Area (Near by War Museum, Reunification Palace, Saigon Notre Dame Basilica, Ben Thanh Market), Quận 3, Hồ Chí Minh, Việt Nam, 700000","8,2",3725,8.6,8.6,8.3,7.9,8.3,1,1,0,0,1,1,1,1,0,2.178.582,1.111.328
+Căn hộ River Gate - Best View River (Best View River - River Gate Apartment),"151 Bến Vân Đồn, Quận 4, Hồ Chí Minh, Việt Nam","8,5",320,9.2,9.0,8.8,8.9,8.7,1,0,0,1,0,1,0,1,0,Không có giá trước,Không có giá sau
+NHAT HA LAVISH HOTEL,"125 L Th nh T n, Quận 1, Hồ Chí Minh, Việt Nam, 700000","8,5",194,9.1,8.6,8.3,8.0,8.6,0,1,0,0,0,1,1,1,0,3.454.090,1.567.561
+Khách Sạn Sunshine Boutique Phú Mỹ Hưng (Sunshine Boutique Hotel Phu My Hung),"16 Cao Triều Phát, Quận 7, Hồ Chí Minh, Việt Nam, 700000","7,7",1069,8.3,8.2,7.9,7.2,7.7,1,1,0,0,1,0,1,1,1,Không có giá trước,Không có giá sau
+KHÁCH SẠN THÀNH LONG BẠCH ĐẰNG (THANH LONG BACH DANG HOTEL),"122 Bạch Đằng, Phường 2, QuậnTân Bình, Tân Bình, Hồ Chí Minh, Việt Nam, 700000","8,7",913,8.9,9.0,8.9,8.6,9.1,0,1,0,0,1,1,1,1,1,2.000.000,727.412
+GIC Apartment and Hotel,"2/11 Hong Ha, Tân Bình, Hồ Chí Minh, Việt Nam, 700000","7,1",709,8.2,7.3,7.3,6.5,6.8,0,0,0,0,1,0,1,1,1,730.806,411.933
+Khách sạn Cactusland Boutique (Cactusland Boutique Hotel),"28 Rach Bung Binh, Ward 8, District 3, Quận 3, Hồ Chí Minh, Việt Nam, 00000","7,8",686,8.4,8.3,7.7,7.4,7.7,0,0,0,0,0,0,0,1,0,1.015.970,476.656
+Khách sạn Grand Sài Gòn (Hotel Grand Saigon),"08 Đồng Khởi, Phường Bến Nghé, Quận 1, Thành phố Hồ Chí Minh , Quận 1, Hồ Chí Minh, Việt Nam, +84 28","8,6",6920,9.3,8.7,8.4,8.4,8.9,1,1,0,0,1,1,1,1,1,11.247.468,4.812.123
+CityHouse - Nest Minh Khai,"Room 18A, No. 13, Nguyen Thi Minh Khai Street, Da Kao Ward, District 1, Quận 1, Hồ Chí Minh, Việt Nam, 700000","9,4",135,9.5,9.7,9.6,9.4,9.7,1,0,0,0,0,0,1,1,1,2.020.795,679.830
+Khách sạn Ipeace - Phố đi bộ Bùi Viện (Ipeace Hotel - Bui Vien Walking Street),"175 / 8 Phạm Ngũ Lão, Quận 1, Quận 1, Hồ Chí Minh, Việt Nam","7,9",2788,8.8,8.2,8.0,7.0,7.7,1,1,0,0,1,0,1,1,1,1.200.000,353.725
+Express by M Village Điện Biên Phủ Q3,"No. 197, Dien Bien Phu Road, M Village, M Village, Quận 3, Hồ Chí Minh, Việt Nam, 700000","8,7",450,9.1,9.1,8.8,8.6,9.1,1,0,0,1,1,0,0,1,1,1.121.787,797.333
+Khách sạn The Jade (The Jade Hotel),"52-54 Than Nhan Trung, Phuong 13, Tan Binh, Tân Bình, Hồ Chí Minh, Việt Nam, 70000","8,1",941,8.4,8.4,8.3,7.9,8.3,1,1,1,1,0,0,1,1,0,1.000.000,292.813
+Khách sạn Sky Gem Bến Thành (Sky Gem Hotel Ben Thanh ),"48-50 Thủ Khoa Huân , Quận 1, Hồ Chí Minh, Việt Nam, 70000","8,2",1195,9.1,8.8,8.1,7.8,8.3,1,1,1,0,1,1,1,1,1,2.965.011,1.156.635
+Azumaya Hotel Le Thanh Ton,"Lê Thánh Tôn St, Ben Nghe, Quận 1, Hồ Chí Minh, Việt Nam","7,9",21,8.7,8.1,7.5,7.4,8.2,0,1,0,0,1,0,1,1,0,Không có giá trước,Không có giá sau
+Aurora Western Village,"65 QUOC HUONG STREET, DISTRICT 2, Quận 2, Hồ Chí Minh, Việt Nam, 700000","8,3",1301,8.5,8.7,8.5,8.2,8.7,1,1,0,0,1,1,1,1,1,3.142.316,1.072.240
+M Village Living Võ Thị Sáu,"232/15 Võ Thị Sáu , Quận 3, Hồ Chí Minh, Việt Nam, 700000","8,9",1409,9.0,9.3,9.2,9.0,9.3,1,0,0,1,1,0,0,1,1,1.685.493,1.007.471
+CityHouse - City Oasis,"42/4 Hồ Hảo Hớn, phuong Co Giang, Quan 1, Quận 1, Hồ Chí Minh, Việt Nam, 700000","8,2",2723,8.4,8.6,8.5,7.9,8.3,1,0,0,0,0,0,1,1,0,2.600.104,1.479.646
+Nhà (Home),"No. 158, Nguyen Dinh Chinh Street, Ward 8, Phu Nhuan District, Vietnam, Phú Nhuận, Hồ Chí Minh, Việt Nam, 70000","9,1",1191,9.0,9.4,9.3,9.2,9.5,1,1,0,0,0,0,1,1,1,1.613.001,887.311
+Khách sạn Palago hướng công viên (Palago Park View Hotel),"287-289 Phạm Ngũ Lão, Quận 1, Hồ Chí Minh, Việt Nam, 700000","7,3",1629,8.3,7.3,7.2,6.5,7.0,1,1,0,0,1,0,1,1,1,1.349.987,735.707
+Căn hộ - Khách sạn Queen Central (Queen Central Apartment-Hotel),"10AB đường Thái Văn Lung, phường Bến Nghé, Quận 1, Tp. HCM, Quận 1, Hồ Chí Minh, Việt Nam, 70000","6,7",1402,8.3,7.0,6.9,6.0,6.2,1,1,0,0,1,0,1,1,1,1.000.000,428.528
+Hera Luxury Hotel,"19 Hậu Giang, Tân Bình, Hồ Chí Minh, Việt Nam, 700000","8,4",1377,8.8,8.8,8.6,8.1,8.8,1,1,1,0,1,1,1,1,1,2.097.853,942.797
+Arista,"19 Đường số 16, phường An Phú, Quận 2, Hồ Chí Minh, Việt Nam","8,3",345,8.5,8.9,8.5,8.5,8.8,1,0,0,0,0,0,1,1,1,915.996,758.333
+Netflix Studio Near Ben Thanh Market,"240/9A, Le Thanh Ton Street, Ben Thanh Ward, District 1, Haha House, Quận 1, Hồ Chí Minh, Việt Nam, 10000","8,5",516,8.7,7.9,8.4,7.6,8.5,1,0,1,0,0,0,1,1,1,2.139.818,490.741
+Ciao Saigon 2 Hotel,"30 Đống Đa, Tân Bình, Hồ Chí Minh, Việt Nam, 72519","7,9",606,8.5,8.4,8.0,7.8,8.2,1,1,0,0,1,1,1,1,1,2.000.000,745.924
+GK Central Hotel,"92 - 94 L Tự Trọng, Phường Bến Th nh, Quận 01, Quận 1, Hồ Chí Minh, Việt Nam, 711045","8,4",7035,9.1,8.6,8.4,7.8,8.6,1,1,0,1,1,0,1,1,1,2.049.794,822.436
+The Noble Swan Saigon hotel,"229 Lê Thánh Tôn, Phường Bến Thành, Quận 1, TP HCM, Quận 1, Hồ Chí Minh, Việt Nam, 71000","7,8",1725,9.0,8.1,7.9,7.1,7.7,0,0,1,1,1,0,1,1,1,Không có giá trước,586.783
+Khách sạn & Căn hộ dịch vụ Cityview thành phố Hồ Chí Minh (Cityview Serviced Apartment & Hotel Ho Chi Minh City),"12 Mạc Đĩnh Chi, Quận 1, Hồ Chí Minh, Việt Nam, 700000","8,6",239,9.0,9.1,8.5,7.9,8.6,1,0,0,0,0,1,1,1,0,Không có giá trước,Không có giá sau
+KunKin Garden Aparthotel & Spa,"219/8 Ngo Tat To street, Ward 22, Binh Thanh District, Bình Thạnh, Hồ Chí Minh, Việt Nam, 70000","8,5",2006,7.8,8.9,8.6,8.5,9.0,1,1,1,0,0,1,1,1,0,3.093.958,1.245.463
+Thành Vinh Hotel & Apartment,"562 Song Hành Xa Lộ Hà Nội, Quận 9, Hồ Chí Minh, Việt Nam, 70000","8,2",584,8.6,9.2,8.7,8.3,8.6,1,0,0,0,1,0,1,1,1,1.689.815,334.551
+Vinhomes Landmark 81,"Vinhome Central Park, 208 Nguyen Huu Canh, Binh Thanh, Bình Thạnh, Hồ Chí Minh, Việt Nam","8,0",80,9.1,8.7,8.6,8.1,8.5,1,0,1,1,1,1,1,1,1,3.181.641,1.316.667
+Khách sạn Nicecy Boutique (Nicecy Boutique Hotel),"27 - 29 đường Trương Định, phường Bến Thành, Quận 1, Hồ Chí Minh, Việt Nam","8,0",4519,8.9,8.4,8.0,7.4,7.7,1,1,0,0,1,1,1,1,0,1.623.346,743.164
+GOLDEN SUN 3 APARTMENTS,"63 Đ. Phan Khiêm Ích, Tân Phong, GOLDEN SUN 3 APARTMENTS, Quận 7, Hồ Chí Minh, Việt Nam, 700000","8,2",106,9.0,9.0,8.8,7.9,8.2,1,0,0,0,0,0,1,1,1,900.000,313.807
+SAIGON TRAVEL LOUNGE,"95 Vo Thi Sau Street, Phuong 6, Saigon Travel Lounge Building, SAIGON TRAVEL LOUNGE Building, Quận 3, Hồ Chí Minh, Việt Nam, 70000","9,3",100,9.2,9.7,9.5,9.2,9.6,1,1,1,0,0,0,1,1,1,Không có giá trước,Không có giá sau
+Central Park Saigon Hotel,"223 Đường Hai Bà Trưng, Vo Thi Sau ward , district 3, HCM City , Quận 1, Hồ Chí Minh, Việt Nam, 70000","8,0",1767,8.1,8.0,8.1,7.4,7.9,1,1,0,0,1,0,1,1,1,1.213.528,900.730
+Hilton Sài Gòn (Hilton Saigon),"11 Me Linh Square , Quận 1, Hồ Chí Minh, Việt Nam, 700000","9,0",747,9.7,9.3,Không có,9.2,9.6,1,1,0,1,1,1,1,1,1,11.096.685,5.600.000
+CityHouse Villea,"43 Nguyễn Bá Tòng, Cityhouse Villea, Tân Bình, Hồ Chí Minh, Việt Nam, 700000","8,8",563,8.6,9.4,9.3,9.2,9.2,1,0,0,0,0,1,1,1,0,1.352.939,648.121
+Cozrum Homes Rivera Corner,"232/13 Ben Chuong Duong Alley, Vo Van Kiet Street, Cau Ong Lanh Ward, District 1, Hcmc, Quận 1, Hồ Chí Minh, Việt Nam, 700000","7,1",949,7.7,7.5,7.5,7.2,7.4,1,0,0,0,0,1,0,1,0,Không có giá trước,Không có giá sau
+Amory Hotel Ben Thanh,"88 Le Lai, Ben Thanh ward, Quận 1, Hồ Chí Minh, Việt Nam, 70000","8,3",846,9.3,8.7,8.6,8.0,8.1,1,0,0,1,1,0,1,1,0,Không có giá trước,Không có giá sau
+Hotel Nguyen Anh 2,"68 Đường 18, Thủ Đức, Hồ Chí Minh, Việt Nam","8,6",92,8.4,8.8,8.7,8.2,8.3,0,0,0,0,0,0,0,1,1,Không có giá trước,450.000
+Khách sạn & Căn hộ Charmaine's (Charmaine's Hotel & Apartment),"26 Khu Phố Hưng Gia 1, Quận 7 , Quận 7, Hồ Chí Minh, Việt Nam, 70880","8,5",557,8.6,8.9,8.8,8.3,8.6,1,0,0,0,0,0,1,1,1,Không có giá trước,1.369.329
+9 Hostel and Bar,"9 Bùi Thị Xuân, Quận 1, Hồ Chí Minh, Việt Nam","8,5",4817,9.1,8.8,8.9,8.1,8.3,1,0,0,0,1,0,1,1,1,Không có giá trước,Không có giá sau
+Haven Hut Riverside Hotel,"No. 142, Ton That Thuyet Street, Quận 4, Hồ Chí Minh, Việt Nam, 700000","8,3",796,8.5,8.9,8.7,8.5,8.9,1,0,0,0,1,0,1,1,1,2.000.000,472.088
+The MAR Q Luxury Citypoint ANGIA,"29b Nguyen Dinh Chieu Street, Dakao Ward, Quận 1, Hồ Chí Minh, Việt Nam, 700000","9,2",77,9.2,9.2,9.2,9.4,9.2,1,0,1,1,1,1,0,1,1,Không có giá trước,Không có giá sau
+Maison De Camille Boutique Hotel,"174/21 Điện Biên Phủ, Phường 17, Bình Thạnh, Hồ Chí Minh, Việt Nam, 700000","8,7",2238,7.6,9.2,9.1,8.6,9.3,1,1,1,0,1,0,1,1,1,Không có giá trước,Không có giá sau
+Căn hộ Cactusland (Cactusland Apartment),"251/8 Nguyen Van Troi, Ward 10, Phu Nhuan District, Phú Nhuận, Hồ Chí Minh, Việt Nam, 70000","8,4",1223,8.6,8.7,8.5,8.3,8.5,1,0,0,0,1,0,0,1,0,Không có giá trước,541.742
+Lucky Star Hotel Q5,"60/3 Nguyen Trai Street, Ward 3, District 5, Ho Chi Minh City, Quận 5, Hồ Chí Minh, Việt Nam, 700000","7,3",276,7.8,7.8,7.2,6.8,7.3,1,0,0,0,1,0,1,1,1,2.863.480,459.101
+Khách sạn S79 Boutique Bùi Viện (S79 Boutique Hotel Bui Vien),"40/21 Bui Vien, District 1, Quận 1, Hồ Chí Minh, Việt Nam, 70000","7,9",2181,8.6,8.2,8.1,7.1,8.0,1,0,0,0,1,0,1,1,1,1.529.906,222.734
+Khách sạn Airport (The Airport Hotel),"11 Đường Cửu Long, Phường 2, Tân Bình, Hồ Chí Minh, Việt Nam, 700000","8,1",2574,8.5,8.5,8.2,7.5,8.1,1,1,0,0,1,1,1,1,1,2.926.000,567.649
+Khách sạn Minh Châu - Hòa Hưng (Minh Chau Hotel - Hoa Hung),"119 Hòa Hưng, phường 12, Quận 10, Quận 10, Hồ Chí Minh, Việt Nam, 70000","7,8",1062,7.6,8.3,8.1,7.2,7.7,0,1,0,0,0,0,0,1,0,Không có giá trước,335.097
+Khách sạn Iris Saigon (gần sân bay Tân Sơn Nhất) (Iris Hotel Saigon),"9 - 9A Trường Sơn, Quận Tân Bình, Tân Bình, Hồ Chí Minh, Việt Nam, 70000","7,6",1281,8.2,7.8,7.7,7.1,7.9,0,1,0,0,0,1,0,1,1,Không có giá trước,793.651
+KHÁCH SẠN SOGO (SOGO HOTEL),"357 Pham Ngu Lao , Quận 1, Hồ Chí Minh, Việt Nam, 70000","8,0",989,8.9,8.7,8.1,7.4,7.8,0,0,0,0,1,0,1,1,1,949.883,423.765
+SEA APARTHOTEL,"186 Hà Huy Tập, Tân Phong, Quận 7, Hồ Chí Minh, Việt Nam, 084","6,5",149,7.2,6.5,6.2,6.6,6.6,0,0,0,0,0,0,1,1,1,720.000,491.419
+A25 Hotel - 14 Ho Huan Nghiep,"No. 14, Ho Huan Nghiep, Ben Nghe, Quận 1, Hồ Chí Minh, Việt Nam, 700000","8,7",73,9.6,9.2,9.0,8.2,8.9,0,1,0,0,0,0,1,1,0,Không có giá trước,Không có giá sau
+Khách Sạn Liberty Sài Gòn Parkview (Liberty Hotel Saigon Parkview),"265 Phạm Ngũ Lão, Quận 1, Quận 1, Hồ Chí Minh, Việt Nam, 700000","7,8",5694,8.6,8.0,7.8,7.3,7.8,1,1,0,0,1,1,1,1,1,4.144.481,841.111
+The Luxe Hotel,"261 - 265 Đường Lê Thánh Tôn, Phường Bến Thành, Quận 1, Hồ Chí Minh, Việt Nam, 70000","8,3",7621,9.0,8.4,8.3,Không có,8.4,1,1,0,0,1,0,1,1,1,4.450.000,830.146
+Liberty Central Saigon Centre Hotel,"175-177-179 Lê Thánh Tôn, Quận 1, Quận 1, Hồ Chí Minh, Việt Nam, 700000","8,4",7913,9.1,8.5,8.2,7.9,8.6,1,1,1,1,1,1,1,1,1,11.611.010,1.929.487
+Khách sạn New Space gần sân bay (New Space Hotel Airport ),"51 Đường Lam Sơn, Phường 2, Quận Tân Bình, Tp HCM, Tân Bình, Hồ Chí Minh, Việt Nam, 700000","8,1",2180,8.4,8.6,8.2,7.6,8.0,1,1,0,0,1,0,1,1,1,2.988.511,563.497
+Elisa Hotel,"No. 172, Street No. 7, Trung Son Residential Area, Binh Hung, Binh Chanh, Bình Hưng, Hồ Chí Minh, Việt Nam, 72900","8,3",129,8.4,8.7,8.7,8.4,8.5,0,0,0,0,0,0,1,1,1,1.200.000,500.000
+Khách Sạn Âu Lạc Legend (Au Lac Legend Hotel),"90 Nguyễn Thị Minh Khai, quận 3, Quận 3, Hồ Chí Minh, Việt Nam, 72407","8,8",4748,9.0,9.0,8.6,8.6,9.0,1,1,1,0,1,1,1,1,1,3.000.000,1.427.822
+Khách sạn & Suites JW Marriott Sài Gòn (JW Marriott Hotel & Suites Saigon),"Góc Đường Hai Bà Trưng & Đại Lộ Lê Duẩn, Quận 1, Quận 1, Hồ Chí Minh, Việt Nam, 70000","8,9",2308,9.3,9.1,8.7,9.0,9.3,1,1,0,0,1,1,1,1,1,6.293.820,5.800.000
+Khách sạn LOTTE Sài Gòn (LOTTE HOTEL SAIGON),"2A-4A Tôn Đức Thắng, Quận 1, Quận 1, Hồ Chí Minh, Việt Nam,","9,0",9305,9.0,9.3,8.9,9.0,9.3,1,1,0,0,1,1,1,1,1,Không có giá trước,Không có giá sau
+La Galerie Hotel,"17-19 duong so 4 KDC Trung Son, binh hung, binh chanh, tp.hcm, Bình Hưng, Hồ Chí Minh, Việt Nam, 739500","8,0",390,8.1,8.2,8.2,8.0,8.4,0,0,0,1,1,0,1,1,1,753.880,437.465
+Haven Hut Dawn Hotel,"No. 380, Nguyen Cong Trus Street, Cau Ong Lanh Ward 30, 30, Quận 1, Hồ Chí Minh, Việt Nam, 700000","8,7",411,9.0,8.9,9.0,8.7,9.0,0,0,0,0,1,0,1,1,1,Không có giá trước,Không có giá sau
+BOBHOTEL - BÙI VIỆN,"Room 242, No. 1, Bui Vien Street, BOB Hotel, BOB HOTEL, Quận 1, Hồ Chí Minh, Việt Nam, 71012","5,5",467,5.9,5.4,5.1,5.2,5.6,0,0,0,0,1,0,1,1,1,Không có giá trước,Không có giá sau
+Cozrum Homes Citi town,"19Bis Nguyen Thi Minh Khai, Ben Nghe Ward, District 1, Hcmc, Quận 1, Hồ Chí Minh, Việt Nam, 700000","7,2",678,8.1,7.2,7.3,7.0,7.1,1,0,0,0,0,0,0,1,0,854.064,467.727
+Caravelle Saigon Hotel,"19-23 Công Trường Lam Sơn, Quận 1 , Quận 1, Hồ Chí Minh, Việt Nam,","8,9",7680,9.5,9.0,8.5,8.8,9.1,1,1,0,0,1,1,1,1,1,10.000.000,4.678.565
+Khách sạn Đức Vượng Sài Gòn - Bùi Viện (Duc Vuong Saigon Hotel - Bui Vien),"195 Bùi Viện, Phường Phạm Ngũ Lão, Quận 1, Quận 1, Hồ Chí Minh, Việt Nam, 700000","8,6",7796,9.0,9.0,8.7,8.1,8.4,1,1,0,0,1,1,1,1,0,1.900.003,977.058
+Khách sạn Hoa My (Hoa My Hotel),"61-63-65-67-69-71-73 Binh Phu, Phuong 11, Quan 6, Ho Chi Minh, Quận 6, Hồ Chí Minh, Việt Nam, 700000","6,9",215,7.3,7.4,7.3,6.4,6.6,0,0,0,0,0,0,1,1,1,Không có giá trước,258.333
+Khách sạn & Căn hộ Golden Tree (Golden Tree Hotel & Apartment),"120 Ha Huy Tap, Tan Phong Ward, District 7, Quận 7, Hồ Chí Minh, Việt Nam, 700000","9,1",824,9.1,9.2,9.1,8.8,9.0,1,0,0,0,0,0,1,1,1,1.374.829,709.674
+M Village Hotel Tao Đàn Park,"No. 14, Truong Dinh, Vo Thi Sau Ward, District 3, Quận 3, Hồ Chí Minh, Việt Nam, 700000","9,2",959,9.3,9.7,9.2,9.1,9.4,1,0,0,1,1,1,1,1,1,Không có giá trước,1.198.338
+Nhà dân Cactusland - Trần Hưng Đạo (Cactusland Homestay - Tran Hung Dao),"393/30 Trần Hưng Đạo, Phường Cầu Kho, Quận 1, TP HCM, Quận 1, Hồ Chí Minh, Việt Nam, 70000","8,6",724,8.8,8.9,8.8,8.3,8.9,1,1,0,0,1,0,0,1,0,539.037,356.147
+Sunrise Central Hotel,"135-137 Đường Lý Tự Trọng, Phường Bến Thành,Quận 1, TP. Hồ Chí Minh, Việt Nam, Quận 1, Hồ Chí Minh, Việt Nam, 70000","8,0",4378,8.8,8.4,7.9,7.4,7.9,1,1,0,0,1,0,1,1,1,960.270,818.596
+Silk Hong Ha hotel,"43-45 Hồng Hà, Tân Bình, Hồ Chí Minh, Việt Nam, 70000","8,5",688,8.9,8.7,8.7,8.3,8.8,1,0,0,0,1,1,1,1,1,1.050.000,702.772
+"Chung cư 40 m² 1 phòng ngủ, 1 phòng tắm riêng ở Quận Tân Bình (TEDDY APARTMENT | Luxury 5* 1BR apt near Airport!)","5B Pho Quang Phuong 2, Tan Binh, Tân Bình, Hồ Chí Minh, Việt Nam","8,1",262,8.7,8.3,8.3,8.0,8.7,1,0,1,0,0,1,0,1,1,Không có giá trước,694.444
+Signature Boutique Hotel,"80/1 Đường Nguyễn Trãi, Phường 3, Quận 5, Hồ Chí Minh, Việt Nam, 70000","7,9",1544,7.7,8.4,8.1,7.4,8.1,0,1,0,0,1,0,1,1,0,1.850.000,700.230
+La Casona Hotel,"9 Hưng Gia 3, La Casona Hotel, Quận 7, Hồ Chí Minh, Việt Nam, 70000","8,5",1191,8.7,9.0,8.6,8.3,8.6,0,0,0,0,0,0,1,1,1,1.000.000,581.750
+Khách sạn Ken 2 (Ken 2 Hotel),"766/12 Sư Vạn Hạnh, phường 12, quận 10, Quận 10, Hồ Chí Minh, Việt Nam, 70000","8,1",508,8.5,8.2,8.2,8.1,8.3,0,0,0,0,0,1,1,1,1,1.500.000,525.029
+LAGUNA Hotel,"25-27 Hung Gia 4 st, Tan Phong ward, District 7 , Quận 7, Hồ Chí Minh, Việt Nam, 80000","7,7",597,8.5,8.2,7.8,7.4,7.6,1,1,1,0,1,0,1,1,1,761.058,355.980
+Triple E Hotel Metro Ben Thanh,"146 Đ. Ký Con, Quận 1, Hồ Chí Minh, Việt Nam, 700000","8,8",5079,9.2,9.2,9.0,8.6,9.2,1,1,0,0,0,1,1,1,0,2.190.915,1.068.921
+Khách sạn Bon Ami (Bon Ami Hotel - Thiên Xuân Hotel),"108-110 đường Lê Thánh Tôn, phường Bến Thành, quận 01 , Quận 1, Hồ Chí Minh, Việt Nam, 70000","8,3",4234,9.1,8.3,8.2,7.6,8.1,1,1,0,0,1,0,1,1,1,2.500.000,796.744
+Express by M Village Võ Văn Kiệt,"No. 446, V Van Kiet Street, C Giang Ward, Quận 1, Hồ Chí Minh, Việt Nam, 700000","8,7",239,8.9,9.6,9.4,9.1,9.5,1,0,0,1,1,0,0,1,1,1.691.910,820.075
+Azumaya Hotel Thai Van Lung 1,"Thái Văn Lung, Bến Nghé, 8A/7D1 - 8A/8D1 - 8A/9D1, Quận 1, Hồ Chí Minh, Việt Nam, 700000","8,7",7,9.3,8.7,8.7,8.3,8.7,0,1,0,0,0,0,1,1,0,Không có giá trước,Không có giá sau
+Khách Sạn Sài Gòn Amigo (Sai Gon Amigo Hotel),"185/24 Đường Phạm Ngũ Lão, P.Phạm Ngũ Lão, Q1, Quận 1, Hồ Chí Minh, Việt Nam, 0084","8,4",1816,9.2,8.8,8.6,7.8,8.3,1,0,0,0,1,0,1,1,1,508.310,341.800
+Khách sạn Cicilia City Saigon Center (Cicilia City Hotel Saigon Center),"12D Cách Mạng Tháng 8, phường Bến Thành , Quận 1, Hồ Chí Minh, Việt Nam, 700000","7,5",526,8.5,7.8,7.4,6.9,7.5,1,1,0,0,1,1,1,1,0,1.866.467,1.002.044
+M Village Living Trần Não,"44 đường số 30, Phường An Bình, Quận 2, Thành phố Hồ Chí Minh, Quận 2, Hồ Chí Minh, Việt Nam, 700000","9,0",856,9.0,9.3,9.1,9.0,9.3,1,0,0,1,1,1,0,1,1,1.560.539,927.323
+FH Homestay,"18B/80/17 Nguyễn Thị Minh Khai st, Quận 1, Hồ Chí Minh, Việt Nam, 70000","8,4",279,9.0,9.3,8.8,8.7,8.6,1,0,0,0,0,0,1,1,0,800.000,461.280
+MAY'S HOTEL-BEN THANH MARKET,"22 Nguyễn An Ninh, MAY'S HOTEL-BEN THANH MARKET , Quận 1, Hồ Chí Minh, Việt Nam, 700000","7,6",708,9.1,8.0,7.9,7.0,7.4,1,0,0,0,1,0,1,1,0,1.960.000,661.376
+Airport Saigon Hotel,"34 Ngô Thị Thu Minh, Tân Bình, Hồ Chí Minh, Việt Nam, 70000","8,1",1595,8.3,8.5,8.4,7.7,8.2,0,1,0,0,1,1,1,1,1,2.687.720,542.325
+Khách sạn Kiko Sài Gòn (Saigon Kiko Hotel),"211-213-215 Pham Ngu Lao Street, Ward Pham Ngu Lao, Quận 1, Hồ Chí Minh, Việt Nam, 70000","8,2",3525,9.0,8.7,8.2,7.6,8.1,0,1,0,0,1,0,1,1,1,1.704.077,987.300
+Nikko Hotel - The Classy Life,"194 Ha Huy Tap, khu Nam Thien 3, Tan Phong, Quan 7, Quận 7, Hồ Chí Minh, Việt Nam, 70000","8,7",1064,8.8,9.1,9.0,8.5,9.2,1,0,0,0,1,0,1,1,1,1.641.998,757.796
+SAZI OPERA HOME HCMC,"5/10 Nguyen Sieu street, Quận 1, Hồ Chí Minh, Việt Nam, 70000","7,5",67,8.8,7.3,7.5,7.0,7.0,0,0,0,1,0,0,1,1,0,1.588.484,524.931
+MADISON Saigon Luxury Citypoint,"15 Thi Sach, Ben Nghe Ward, District 1, Quận 1, Hồ Chí Minh, Việt Nam, 700000","9,2",195,9.5,9.4,9.5,9.6,9.6,1,0,1,1,1,0,0,1,1,Không có giá trước,Không có giá sau
+Khách Sạn A & Em Sài Gòn (A & Em Saigon Hotel),"39-41 Thủ Khoa Huân, Phường Bến Thành, Quận 1, Quận 1, Hồ Chí Minh, Việt Nam, 70000","8,1",4257,9.0,8.2,7.9,7.6,8.1,1,1,0,0,1,1,1,1,0,4.328.075,1.805.630
+Celine Living - Central,"231 Nguyen Dinh Chieu , Quận 3, Hồ Chí Minh, Việt Nam, 70000","9,1",1974,9.1,9.6,9.3,9.1,9.3,1,1,1,1,1,1,1,1,1,3.232.277,1.269.598
+M Village Nguyễn Kiệm - Cosmo Airport Hotel,"No. 659, Nguyen Kiem, Ward 9, Phu Nhuan District, M Village, Phú Nhuận, Hồ Chí Minh, Việt Nam, 700000","9,0",434,9.1,9.6,9.3,9.1,9.4,1,0,0,1,1,1,1,1,1,Không có giá trước,Không có giá sau
+Hotel Nikko Saigon,"235 Nguyễn Văn Cừ, Quận 1 , Quận 1, Hồ Chí Minh, Việt Nam, 700000","8,9",13622,Không có,9.3,Không có,9.2,9.5,1,1,0,0,1,1,1,1,1,6.891.435,5.217.954
+Hotel Majestic Saigon,"01 Đồng Khởi, Quận 1, Quận 1, Hồ Chí Minh, Việt Nam","8,7",11091,9.2,8.8,8.4,8.4,8.8,1,1,0,1,1,1,1,1,1,6.064.875,2.890.261
+MoonStay,"29/8 Yên Thế, Tân Bình, Hồ Chí Minh, Việt Nam","7,7",263,8.4,8.1,7.6,7.9,7.6,1,0,0,0,0,0,0,1,1,500.000,383.900
+Glenwood City Resort,"243 Nguyễn Văn Hưởng, P. Thảo Điền, Quận 2, Hồ Chí Minh, Việt Nam, 70000","8,2",1676,8.1,8.7,8.4,8.0,8.7,0,1,0,0,1,1,1,1,1,3.554.658,1.097.498
+Landmark 81 & Vinhomes Central Park - Vacation Apartment,"Vinhome Central Park HCMC - 720A Dien Bien Phu , Bình Thạnh, Hồ Chí Minh, Việt Nam, 72300","8,9",112,9.4,8.8,9.0,9.2,9.0,1,0,1,1,0,0,0,1,0,3.398.549,1.503.365
+Hạnh Trang Hotel,"113 Xuân Hồng, Tân Bình, Hồ Chí Minh, Việt Nam","8,1",467,8.3,8.7,8.6,8.1,8.6,1,0,0,0,1,0,1,1,1,613.867,317.538
+Hoang Long Son 2 Hotel,"14,16,18 đường số 7, phường An Phú, quận 02, Tp Hồ Chí Minh, Quận 2, Hồ Chí Minh, Việt Nam, 70000","7,7",387,7.7,8.1,7.7,7.1,7.4,0,0,0,0,0,0,0,1,1,Không có giá trước,Không có giá sau
+Khách sạn Nhật Hạ 1 (Nhat Ha 1 Hotel),"252B-C Lê Thánh Tôn, Phường Bến Thành, Quận 1 , Quận 1, Hồ Chí Minh, Việt Nam, 700000","8,6",2968,9.2,8.9,8.6,8.0,8.8,0,1,0,0,0,1,1,1,0,1.696.546,1.155.949
+Khách sạn Hoàng Yến (Hoang Yen Hotel - Phu My Hung),"R4 -62-63-64 Hưng Gia 2 , Phú Mỹ Hưng , Quận 7 , TP. Hồ Chí Minh, Quận 7, Hồ Chí Minh, Việt Nam, 700000","8,0",998,8.5,8.7,8.3,7.8,8.3,1,1,0,1,1,0,1,1,1,937.004,435.717
+Eastin Grand Hotel Saigon,"253 Nguyễn Văn Trỗi, Quận Phú Nhuận , Phú Nhuận, Hồ Chí Minh, Việt Nam,","8,7",7649,8.5,9.0,8.8,8.7,9.0,1,1,1,0,1,1,1,1,1,9.002.337,4.517.254
+Northern Charm Hotel,"12 Ly Tu Trong, Ben Nghe Ward, Dist 1, Quận 1, Hồ Chí Minh, Việt Nam, 700000","8,5",2108,9.1,8.7,8.5,Không có,8.7,1,1,1,0,1,1,1,1,1,2.570.501,2.103.466
+Express by M Village Nguyễn Du,"157 Nguyễn Du, Quận 1, Hồ Chí Minh, Việt Nam, 700000","9,2",1771,9.4,9.6,9.4,9.0,9.4,1,0,0,1,1,0,0,1,1,1.718.601,854.324
+Imai House,"285/68c Cách Mạng Tháng Tám, Phường 12, Quận 10,, Quận 10, Hồ Chí Minh, Việt Nam","8,1",365,8.4,8.4,8.6,8.4,8.4,1,0,0,0,0,0,1,1,1,Không có giá trước,Không có giá sau
+"Chung cư 25 m² 1 phòng ngủ, 1 phòng tắm riêng ở Quận 1 (HOSTIESAIGON WANDERLUST HOME)","214/B14 Nguyen Trai, Nguyen Cu Trinh Ward, District 1, Quận 1, Hồ Chí Minh, Việt Nam","8,7",721,8.9,9.2,8.9,8.6,8.9,1,1,0,1,1,1,1,1,1,Không có giá trước,400.132
+Khách sạn và Căn hộ Asian Ruby (Asian Ruby Hotel & Apartment),"122F-122F1 Bùi Thị Xuân, Quận 1, Hồ Chí Minh, Việt Nam","7,7",1562,8.1,8.0,7.7,7.1,7.6,1,1,0,0,1,0,1,1,1,2.911.798,467.812
+Ly Ly Hotel,"110 Song Hành , Quận 6, Hồ Chí Minh, Việt Nam, 73115","7,7",219,8.0,8.3,8.1,7.7,8.0,1,0,0,0,1,0,1,1,1,1.200.000,581.780
+THE ONE SAIGON Centerpoint,"45 Nguyen Thi Nhu, Nguyen Thai Binh Ward, District 1, Quận 1, Hồ Chí Minh, Việt Nam, 700000","9,3",192,9.7,9.6,9.6,9.7,9.7,1,0,1,1,1,1,1,1,1,Không có giá trước,Không có giá sau
+Holiday Inn & Suites Saigon Airport By IHG,"18E Cong Hoa Street, Tan Binh , Tân Bình, Hồ Chí Minh, Việt Nam, 70000","8,9",2077,8.7,9.2,9.0,9.1,9.4,1,1,1,0,1,1,1,1,1,4.027.266,2.440.924
+PARKROYAL Sài Gòn (PARKROYAL Saigon),"309B-311 Nguyễn Văn Trỗi, Tan Binh Dist , Tân Bình, Hồ Chí Minh, Việt Nam, 70000","8,4",1723,8.3,8.7,8.2,8.3,8.6,1,1,1,0,1,1,1,1,1,3.055.051,2.294.519
+M Village Hotel Tôn Thất Đạm,"129 Tôn Thất Đạm M Village, Quận 1, Hồ Chí Minh, Việt Nam, 700000","8,8",2973,9.2,9.4,9.0,8.8,9.2,1,1,1,1,1,1,1,1,0,3.802.362,1.507.605
+Khách sạn Queen Victoria (QUEEN VICTORIA),"11 duong so 10, khu dan cu Trung Son, Binh Hung, Binh Chanh, Bình Hưng, Hồ Chí Minh, Việt Nam, 70000","8,3",132,8.4,8.5,8.3,8.3,8.4,0,0,0,0,1,0,1,1,1,629.175,341.977
+Tháp Yours Studio (Yours Studio Tower),"39A Tran Khac Chan, Phú Nhuận, Hồ Chí Minh, Việt Nam, 700000","8,3",303,8.4,8.8,8.5,8.4,8.6,1,1,0,1,1,0,1,1,1,2.000.000,555.403
+Nexus House Garden Thao Dien,"8/9 Vo Truong Toan, An Phú, Quận 2, Nexus House Thao Dien, Quận 2, Hồ Chí Minh, Việt Nam, 713000","8,3",198,8.6,8.8,8.0,7.9,8.3,1,0,0,0,0,0,1,1,1,Không có giá trước,1.280.000
+Khách sạn Spring House (Spring House Hotel),"221 Đường Phạm Ngũ Lão, Phường Phạm Ngũ Lão, Quận 1, Hồ Chí Minh, Việt Nam, 71012","7,4",3886,8.6,7.4,7.5,6.7,7.3,0,0,0,0,0,0,0,1,0,2.343.809,496.916
+Khách sạn Bay Ho Chi Minh City (Bay Hotel Ho Chi Minh),"Số 7, đường Ngô Văn Năm, Quận 1, Hồ Chí Minh, Việt Nam, 70000","8,3",4049,8.5,8.5,8.2,Không có,8.6,1,1,1,0,1,1,1,1,1,8.710.508,1.488.322
+THANH TAI HOTEL 1,"Số 17 đường Trần Thái Tông, phường 15, Tân Bình, Hồ Chí Minh, Việt Nam, 700000","8,5",1878,8.5,8.9,8.9,8.6,8.7,1,1,0,0,0,1,1,1,1,497.273,363.108
+Nicecy Hotel Suites & Spa,"8B - 8C Le Thanh Ton, Quận 1, Hồ Chí Minh, Việt Nam, 70000","7,9",131,7.4,6.1,5.6,5.6,6.4,0,1,0,0,1,0,1,1,0,2.791.933,1.085.137
+Khách sạn Love Hotel Eros 2 (Eros Hotel 2 - Love Hotel),"Cách Mạng Tháng Tám, Quận 3, Hồ Chí Minh, Việt Nam, 72413","7,3",173,7.2,7.8,7.4,7.4,7.5,0,0,0,0,1,0,1,1,1,Không có giá trước,Không có giá sau
+GOLF STAR HOTEL,"848 QUANG TRUNG ST.,WARD 8, Gò Vấp, Hồ Chí Minh, Việt Nam, 70000","8,2",140,8.4,8.3,8.5,7.7,8.3,1,0,1,0,0,0,0,1,1,355.514,351.852
+Zeus Living - Cozy Apartment in Thao Dien,"6 ÄÆ°á»ng ThÃ¡i Ly, Quận 2, Hồ Chí Minh, Việt Nam","7,9",95,9.1,8.5,8.1,8.1,8.0,1,0,0,1,0,0,0,1,0,529.083,509.259
+KHÁCH SẠN PRINCE (PRINCE HOTEL),"60, 21 Street, Ward 8, Go Vap District, Gò Vấp, Hồ Chí Minh, Việt Nam, 70000","8,2",141,8.7,8.9,8.4,8.1,8.4,0,0,0,0,0,0,1,1,1,900.000,278.475
+Khách sạn The Umi (The Umi Hotel),"23-23A Bui Thi Xuan Street, Ben Thanh Ward, District 1,, Quận 1, Hồ Chí Minh, Việt Nam","8,4",1179,9.1,8.8,8.6,7.8,8.3,0,1,0,0,1,0,1,1,1,750.000,398.309
+Hoang Long Son 2 Hotel,"14,16,18 đường số 7, phường An Phú, quận 02, Tp Hồ Chí Minh, Quận 2, Hồ Chí Minh, Việt Nam, 70000","7,7",387,7.7,8.1,7.7,7.1,7.4,0,0,0,0,0,0,0,1,1,350.217,325.443
+Cozrum Homes - Winter Corner,"No. 8, Block 6, Nguyen Dinh Chieu, Ward 3, Phu Nhuan, Phú Nhuận, Hồ Chí Minh, Việt Nam","7,7",347,7.9,8.0,8.2,8.0,8.1,1,0,0,0,0,0,0,1,0,669.347,293.008
+Sen Boutique House,"51 Đường số 2 Khu Báo chí, Phường Thảo Điền, Quận 2, Hồ Chí Minh, Việt Nam, 70000","8,6",648,8.5,9.0,9.0,8.6,9.0,1,0,0,1,1,0,1,1,0,977.248,878.743
+Maison saigon - new urban escape,"183/47A Bui Vien Street, Pham Ngu Lao Ward, District 1, Quận 1, Hồ Chí Minh, Việt Nam, 70000","8,2",213,7.5,7.5,6.8,6.8,7.9,1,0,0,1,1,1,1,1,1,Không có giá trước,Không có giá sau
+M Village Living Nam Kỳ Khởi Nghĩa,"No. 214, Nam Ky Khoi Nghia Street, Quận 3, Hồ Chí Minh, Việt Nam, 700000","9,0",1294,9.2,9.5,9.2,8.9,9.3,1,0,0,1,1,0,0,1,1,1.863.272,929.546
+Nhà trọ Vỹ Dạ (VY DA CENTRAL MARKET HOSTEL),"47 Phan Chu Trinh, Bến Thành, Quận 1, Thành phố Hồ Chí Minh, Việt Nam, Quận 1, Hồ Chí Minh, Việt Nam","8,8",2161,9.5,9.2,9.2,8.5,8.8,0,0,0,0,1,0,1,1,0,852.809,259.259
+Khách sạn Happy Life Green (HAPPY LIFE GREEN HOTEL),"549 Tran Hung Dao Street, Quận 1, Hồ Chí Minh, Việt Nam, 70000","8,1",2031,8.2,8.5,8.4,7.8,8.3,0,1,0,0,1,1,1,1,0,5.000.000,515.112
+Landmark 81 & Vinhomes Lexington,"720A Đ. Điện Bi n Phủ, Bình Thạnh, Hồ Chí Minh, Việt Nam, 72300","8,4",173,8.8,8.5,8.4,8.5,8.6,1,0,0,1,0,1,1,1,1,2.704.925,1.453.889
+Khách Sạn Ngọc Linh (Ngoc Linh Hotel),"332/42/2, Phan Van Tri St, Ward 11, Binh Thanh District, Ho Chi Minh City, Vietnam, Bình Thạnh, Hồ Chí Minh, Việt Nam, 700000","8,0",226,8.1,8.6,8.3,7.6,8.1,1,0,0,0,0,0,1,1,1,Không có giá trước,Không có giá sau
+Golden Star Apartment & Hotel,"454 Phạm Thái Bường, Quận 7, Hồ Chí Minh, Việt Nam","9,1",683,9.2,9.3,9.4,9.1,9.5,1,0,1,0,0,0,1,1,1,1.196.745,666.855
+Khách sạn White Lion (White Lion Hotel),"15C Cao Thắng, Phường 2, Quận 3, Quận 3, Hồ Chí Minh, Việt Nam","8,2",714,8.7,8.6,8.3,7.9,8.3,1,1,0,0,1,0,1,1,1,734.658,718.918
+SEN Vivian,"15a/50 L&#234; Th&#225;nh T&#244;n , Quận 1, Hồ Chí Minh, Việt Nam, 70000","8,7",1246,9.1,9.0,8.9,8.3,8.6,0,0,0,0,0,0,0,1,0,800.000,386.425
+Khách sạn Đại Nam Sài Gòn (Dai Nam Sai Gon Hotel),"5/11 Nguyen Sieu Street, Ben Nghe Ward, District 1, Quận 1, Hồ Chí Minh, Việt Nam, 700000","8,2",1664,9.0,8.3,8.6,7.9,8.3,0,0,0,0,0,0,1,1,1,812.792,600.508
+HOLO HAM NGHI SAIGON - Serviced HomeStay,"89/14 Hàm Nghi 7, Quận 1, Hồ Chí Minh, Việt Nam, 71009","8,8",10,9.3,9.4,9.0,9.2,9.0,0,0,0,0,0,0,1,1,0,Không có giá trước,Không có giá sau
+KHÁCH SẠN DIAMOND HILL (DIAMOND HILL HOTEL),"6B - 6B1 Thi Sach Street, Ben Nghe Ward,, Quận 1, Hồ Chí Minh, Việt Nam, 700000","8,0",1294,8.6,8.3,8.0,7.5,8.1,1,1,0,0,1,1,1,1,1,Không có giá trước,1.115.572
+Khách sạn Kỳ Hòa Sài gòn (Ky Hoa Hotel Saigon),"238 Đường Ba Thang Hai, Phường 12, Quận 10, Quận 10, Hồ Chí Minh, Việt Nam, 70000","7,4",450,8.3,7.3,7.4,7.0,7.5,1,1,0,0,1,1,1,1,1,872.501,841.818
+A IN HOTEL RIVERSIDE,"Hotel Riverside, Ben Van Don, Ward 2 A, A IN HOTEL RIVERSIDE, Quận 4, Hồ Chí Minh, Việt Nam, 700000","8,5",632,9.1,9.1,8.8,8.4,8.9,1,0,0,0,0,1,1,1,1,Không có giá trước,570.599
+Wink Hotel Saigon Centre - 24hrs Lifestyle Stay,"75 Nguyen Binh Khiem, Quận 1, Hồ Chí Minh, Việt Nam, 70000","8,9",4734,8.8,9.4,9.0,8.9,9.3,1,1,0,1,0,1,1,1,1,5.557.647,1.500.000
+Nguyệt Hà Hotel,"39 Phan Xich Long, Phuong 2, Nguyet Ha Hotel, Nguyệt Hà Hotel, Phú Nhuận, Hồ Chí Minh, Việt Nam, 72210","5,6",42,7.1,6.5,4.8,4.8,4.8,0,0,0,0,1,0,1,1,1,580.000,370.370
+Express by M Village Nguyễn Bỉnh Khiêm,"25/14 Nguyen Binh Khiem, Ben Thanh Ward, District 1, Quận 1, Hồ Chí Minh, Việt Nam, 70000","9,2",142,9.0,9.6,9.5,9.4,9.6,1,0,0,1,1,0,0,1,1,2.196.183,896.227
+Tago Hotel - Suong Nguyet Anh,"No. 91, Suong Nguyet Anh Street, Phuong Pham Ngu Lao, Quận 1, Hồ Chí Minh, Việt Nam, 700000","8,5",231,9.1,9.1,9.0,8.4,9.0,0,0,0,0,1,0,1,1,1,1.148.836,530.362
+HOTEL PHƯƠNG NAM,"187 Đường số 16, Bình Tân, Hồ Chí Minh, Việt Nam, 71900","7,5",317,7.9,8.3,7.8,7.3,7.5,0,0,0,1,1,0,1,1,1,Không có giá trước,Không có giá sau
+SOTETSU GRAND FRESA SAIGON,"8 Ly Tu Trong Street, Ben Nghe Ward, Quận 1, Hồ Chí Minh, Việt Nam, 700000","9,2",4415,9.3,9.5,9.2,9.2,9.7,1,1,0,0,0,1,1,1,1,4.106.985,2.291.193
+Khách sạn Vân Anh Luxury (Vân Anh Luxury Hotel),"145 Đường Ký Con, Phường Nguyễn Thái Bình, Quận 1, Hồ Chí Minh, Việt Nam","8,9",1610,8.6,9.0,8.6,7.7,8.5,1,1,0,0,1,0,1,1,1,Không có giá trước,Không có giá sau
+Maison Royale,"129/4 Ly Chinh Thang Street, Ward 7, Dist 3,, Quận 3, Hồ Chí Minh, Việt Nam","9,0",716,9.2,9.7,9.1,8.9,9.3,1,0,0,0,0,0,0,1,1,Không có giá trước,481.481
+DAI NAM BOUTIQUE HOTEL,"No. 79, Tran Hung Dao Street, Vietnam, Quận 1, Hồ Chí Minh, Việt Nam, 700000","8,3",2121,9.1,8.6,8.3,7.9,8.5,0,1,0,0,0,0,1,1,0,4.454.687,1.199.404
+Edoya Hotel Dong Khoi,"18 Đông Du, Quận 1, Hồ Chí Minh, Việt Nam, 700000","8,3",1593,9.0,8.9,8.6,7.9,8.6,1,0,0,0,1,0,1,1,1,5.000.000,1.089.468
+Căn hộ SpringHill - The High Class (SpringHill Apartment - The High Class),"31 Hung Gia 3, Tan Phong, District 7, Ho Chi Minh, Quận 7, Hồ Chí Minh, Việt Nam, 700000","8,3",1121,8.7,8.5,8.4,8.3,8.3,1,1,1,1,1,0,1,1,1,700.000,391.732
+Eden Garden Hotel,"28/12 Bui Vien Street, Pham Ngu Lao Ward , Quận 1, Hồ Chí Minh, Việt Nam","7,6",3965,8.4,7.7,7.7,7.0,7.5,0,1,0,0,1,0,1,1,1,2.000.000,618.141
+Ben Thanh Inn - M&A,"44/1 Nam Ky Khoi Nghia, Nguyen Thai Binh Ward, District 1, Ho Chi Minh City, Quận 1, Hồ Chí Minh, Việt Nam, 700000","8,5",196,9.1,9.0,8.8,8.3,8.5,0,0,0,0,0,0,1,1,1,607.021,396.484
+Central Palace Hotel,"39*39A Đường Nguyễn Trung Trực, Phường Bến Thành, Quận 1, Hồ Chí Minh, Việt Nam, 700000","8,4",6812,9.0,8.5,8.4,8.2,8.6,1,1,0,0,1,1,1,1,1,1.406.451,1.363.357
+M Village Living Điện Biên Phủ (The Tropic),"No. 2, Unit 107, 298 Dien Bien Phu Street, Ward 17, Binh Thanh District, Ho Chi Minh City, Bình Thạnh, Hồ Chí Minh, Việt Nam, 700000","8,9",523,9.0,9.4,9.2,9.1,9.3,1,0,0,1,1,0,0,1,1,Không có giá trước,Không có giá sau
+Cozrum Homes - June Corner,"68/7D Trần Quang Khải, Quận 1, Hồ Chí Minh, Việt Nam, 0840001","7,4",708,7.9,7.7,7.8,7.5,7.7,1,0,0,1,0,0,0,1,0,688.118,361.696
+The Second Home Masteri Thao Dien,"159 Đ. Võ Nguyên Giáp, Quận 2, Hồ Chí Minh, Việt Nam, 70000","8,7",40,9.0,8.8,8.9,8.9,8.8,1,1,1,1,1,1,1,1,1,Không có giá trước,Không có giá sau
+Khách Sạn Cupid 2 (Cupid 2 Hotel),"52/25-52/27 Cu Lao, Ward 2, Phú Nhuận, Hồ Chí Minh, Việt Nam, 72210","8,5",838,8.7,8.9,8.8,8.7,8.9,0,0,0,0,0,0,1,1,1,668.440,449.601
+HANZ Friday Premium Hotel,"811 Le Hong Phong, District 10, Quận 10, Hồ Chí Minh, Việt Nam, 700000","9,3",279,9.7,9.7,9.6,9.7,9.7,0,0,0,0,0,1,0,1,1,1.516.835,657.842
+Khách sạn Lam Sơn (Lam Sơn Hotel ),"241 Lê Đại Hành, Quận 11, Hồ Chí Minh, Việt Nam","7,6",121,8.3,8.2,7.8,7.2,8.0,1,0,0,0,0,0,0,1,1,404.097,335.098
+"Căn hộ ở trung tâm - Vinhomes Central Park (Central Apartments - Vinhomes Central Park, Landmark 81 Area & Ice Skating Rink)","No. 208, Nguyen Huu Canh Street, Bình Thạnh, Hồ Chí Minh, Việt Nam","7,4",1070,7.7,6.4,6.6,6.4,6.1,1,0,1,1,0,1,0,1,0,3.712.623,879.630
+Căn hộ dịch vụ CeLaVie - The Vinhomes and Landmark (CeLaVie Serviced Apartment - The Vinhomes and Landmark),"208 Nguyen Huu Canh Street, 22 Ward, Binh Thanh District , Ho Chi Minh, Vietnam, Bình Thạnh, Hồ Chí Minh, Việt Nam, 72324","7,9",648,8.6,7.9,8.0,8.1,8.2,1,0,0,0,1,1,0,1,1,4.779.185,1.113.496
+The Noble Swan Hotel New World,"270 Lê Thánh Tôn , Quận 1, Hồ Chí Minh, Việt Nam, 700000","7,3",1182,8.7,7.6,7.3,6.3,6.9,1,0,0,0,1,0,1,1,1,1.350.000,493.709
+Khách sạn Lotus Laverne (Lotus Laverne Hotel),"5/24 No Trang Long Street, Binh Thanh District, Bình Thạnh, Hồ Chí Minh, Việt Nam, 0000","7,3",728,7.0,7.9,7.0,6.8,7.1,1,1,0,0,0,0,0,1,1,830.780,344.147
+SKY STAR HOTEL,"No. 33, Street No. 21, Ward 8, Go Vap District, Ho Chi Minh City, Vietnam, Gò Vấp, Hồ Chí Minh, Việt Nam, 700000","8,3",221,8.7,9.0,8.5,8.6,8.8,1,0,1,0,1,0,1,1,1,1.309.768,382.019
+Cozrum Homes Saphera Residence,"55/30-32 Tran Dinh Xu, Cau Kho Ward, District 1, Quận 1, Hồ Chí Minh, Việt Nam, 70000","7,4",1281,8.0,7.5,7.7,Không có,7.6,1,0,0,0,0,0,0,1,0,685.277,378.364
+Asian Ruby Boutique Hotel,"20 Bis Đường Bùi Thị Xuân, Phường Bến Thành, Quận 1, Hồ Chí Minh, Việt Nam, 70000","8,0",1363,8.3,8.2,8.2,7.5,8.0,0,1,0,0,1,0,1,1,1,2.116.388,464.587
+Green Airport Hotel,"No. 3, 50, Trường Sơn Street, Ward 2, Tan Binh, Vietnam, Tân Bình, Hồ Chí Minh, Việt Nam, 70000","8,4",533,8.8,9.3,9.0,8.5,8.4,0,0,0,0,1,1,0,1,1,681.641,504.630
+Vintage Saigon Hotel & Spa,"33 Bui Thi Xuan Street, District 1, Ho Chi Minh City, Quận 1, Hồ Chí Minh, Việt Nam, 70000","7,8",970,7.9,7.5,6.7,6.3,6.2,0,1,0,0,1,0,1,1,1,1.220.810,305.202
+Hoa Hong Hotel Ho Chi Minh City,"No. 166, Le Cao Lang, Phu Thanh, Tan Phu Hotel Hoa Hong, Khách sạn Hoa Hồng, Tân Phú, Hồ Chí Minh, Việt Nam, 700000","8,2",220,8.0,8.9,7.7,7.6,7.9,1,1,1,0,0,0,1,1,1,733.273,332.574
+PARK VIEW LUXURY HOTEL,"171 Pham Ngu Lao Street, Quận 1, Hồ Chí Minh, Việt Nam, 70000","8,3",1357,9.3,9.0,8.5,7.7,8.6,0,0,0,0,1,0,1,1,0,1.400.718,502.739
+Khách sạn Swan (Swan Hotel),"21 Duong 68, Phuong Thanh My Loi, Quận 2, Hồ Chí Minh, Việt Nam, 70000","8,4",340,8.0,8.7,8.6,8.3,8.5,1,1,0,0,0,0,1,1,1,670.000,495.804
+Khách Sạn Viễn Đông (Vien Dong Hotel),"275A Phạm ngũ lão,, Quận 1, Hồ Chí Minh, Việt Nam","8,3",6105,9.0,8.3,8.3,7.9,8.3,1,1,0,0,1,1,1,1,1,Không có giá trước,1.673.665
+Signature by M Village Lê Thánh Tôn,"24 Le Thanh Ton street, Ben Nghe ward, District 1, Quận 1, Hồ Chí Minh, Việt Nam, 7000","9,0",5441,9.5,9.5,9.1,Không có,9.4,1,1,0,1,1,1,1,1,0,5.777.071,2.809.371
+Little Brick Saigon Hotel,"No. 18 Bui Thi Xuan Street, Ben Thanh Ward, District 1, HCMC, Quận 1, Hồ Chí Minh, Việt Nam, 70000","8,2",887,8.6,8.6,8.3,7.5,8.3,1,1,0,0,1,0,1,1,0,2.865.009,562.697
+Khách sạn Le Parc Sài Gòn (Le Parc Saigon Hotel),"278 đường Lê Thánh Tôn, phường Bến Thành, quận 1, thành phố Hồ Chí Minh, Quận 1, Hồ Chí Minh, Việt Nam, 700000","8,5",668,8.9,8.7,8.0,7.5,8.0,0,0,0,0,1,0,1,1,1,Không có giá trước,Không có giá sau
+Căn hộ Cherry - Trung tâm Thảo Điền (Cherry apartment - Thao Dien Centre),"9/5 Đường số 10, Quận 2, Hồ Chí Minh, Việt Nam, 700000","8,5",505,8.7,8.9,8.8,8.6,8.8,1,0,0,1,0,0,1,1,1,800.000,491.479
+Khách Sạn Akoya Trung Tâm Sài Gòn (Akoya Saigon Central Hotel),"88 Ly Tu Trong , Ben Thanh Ward , Quận 1, Hồ Chí Minh, Việt Nam, 70000","8,9",4088,9.5,9.4,9.0,8.4,9.1,1,1,0,0,1,0,1,1,0,1.700.000,893.741
+Mia Sài Gòn - Khách Sạn Luxury Boutique (Mia Saigon - luxury boutique hotel),"2-4, đường số 10, khu phố 4, phường An Phú, Quận 2, Quận 2, Hồ Chí Minh, Việt Nam, 700000","9,1",2883,8.5,9.6,9.3,9.3,9.7,1,1,0,0,1,1,1,1,1,10.867.307,5.047.973
+The HUB Hotel,"66a Đ. Phổ Quang, Phường 2, Tân Bình, Hồ Chí Minh, Việt Nam, 70000","8,7",181,8.6,9.3,8.9,8.4,8.9,0,1,0,0,1,1,1,1,1,1.550.000,1.001.128
+Yaya Hotel,"40/29 Bui Vien Street, Pham Ngu Lao Ward, District 1, Ho Chi Minh City, Quận 1, Hồ Chí Minh, Việt Nam, 710000","7,4",331,8.7,7.8,7.4,6.6,7.0,0,0,0,0,1,0,1,1,1,1.581.038,367.529
+Minh Khang Hotel,"155 Võ Văn Tần, Quận 3 , Quận 3, Hồ Chí Minh, Việt Nam, 70000","8,2",938,8.3,8.5,8.4,7.8,8.4,0,1,0,0,1,1,1,1,1,850.428,632.145
+Cozrum Homes - Cozytel Residence,"No. 16A, 5/257 Lê Đình Cẩn, Tan Tao Ward, Binh Tan District, Ho Chi Minh City, Bình Tân, Hồ Chí Minh, Việt Nam","8,0",419,7.9,8.0,8.7,8.6,8.9,0,0,0,1,0,0,1,1,1,3.619.122,248.456
+La Maison de Lynn - The Art of Relaxation,"43C Kỳ Đồng, Phường 9, Quận 3, TP. Hồ Ch Minh, Quận 3, Hồ Chí Minh, Việt Nam, 70000","9,1",46,9.0,9.0,8.9,8.4,9.1,1,0,0,1,1,0,1,1,1,2.835.248,480.886
+CityHouse - El Pino Realm,"70-72-74 Pho Duc Chinh, Nguyen Thai Binh ward, District 1, Quận 1, Hồ Chí Minh, Việt Nam, 700000","9,5",123,9.7,9.8,9.7,9.2,9.9,1,0,0,0,0,1,1,1,0,3.783.000,1.183.508
+THE ONE Saigon Luxury Citypoint,"45 Nguyen Thi Nhu, Nguyen Thai Binh Ward, District 1, Quận 1, Hồ Chí Minh, Việt Nam, 70000","9,8",97,9.8,9.8,9.8,9.9,10.0,1,0,1,1,1,1,0,1,1,Không có giá trước,Không có giá sau
+Zen Thao Dien,"63b Nguyễn Cừ, Quận 2, Hồ Chí Minh, Việt Nam","8,2",124,8.9,7.6,8.4,7.5,7.9,1,0,0,0,0,0,0,1,0,Không có giá trước,691.944
+Khách sạn & Căn hộ Golden Sun (Golden Sun Apartment & Hotel),"153 STREET NUMBER 10, TAN PHONG WARD, DISTRICT 7, HCMC, Quận 7, Hồ Chí Minh, Việt Nam, 70000","9,3",293,9.3,9.3,9.4,8.9,9.5,1,0,1,0,0,0,1,1,1,1.770.956,986.781
+Wabi Sabi - Saigon Hideout Ben Thanh,"194 Cô Giang, Phường Cô Giang, Quận 1, Hồ Chí Minh, Việt Nam, 70000","7,6",134,7.6,7.2,7.4,7.3,7.6,1,0,0,0,0,0,1,1,0,789.405,401.852
+Khách Sạn & Spa Ciao Sài Gòn (Ciao SaiGon Hotel & Spa),"1 Đống Đa, Phường 2, Quận Tân Bình, Tp.HCM, Tân Bình, Hồ Chí Minh, Việt Nam, 700000","8,0",1332,8.2,8.3,8.0,7.6,8.3,1,1,1,0,1,1,1,1,1,3.999.999,995.587
+Avanti Boutique,"208 - 210 Le Thanh Ton, Quận 1, Hồ Chí Minh, Việt Nam","8,0",1390,9.1,8.0,8.0,7.2,8.0,0,1,0,0,0,0,1,1,0,3.665.022,870.187
+Chung cư studio 27 m² có 1 phòng tắm riêng ở Bình Thạnh (Green cocoon),"52 Nguyen Cuu Van, Bình Thạnh, Hồ Chí Minh, Việt Nam, 700000","7,9",493,8.5,8.2,8.2,7.9,7.9,1,0,0,1,0,0,1,1,1,Không có giá trước,Không có giá sau
+Khách sạn Paragon Saigon (Paragon Saigon Hotel),"22 - 24 Thi Sách, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam, 700000","8,2",4743,8.8,8.4,8.0,Không có,8.3,0,1,1,0,1,1,1,1,1,1.926.089,1.879.670
+Khách Sạn The Odys Boutique (The Odys Boutique Hotel),"65-67-69 Nguyễn Thái Bình, Quận 01, Quận 1, Hồ Chí Minh, Việt Nam, 70000","8,7",3367,9.1,9.1,8.6,8.3,8.7,1,1,0,0,1,1,1,1,1,3.708.831,3.637.992
+Secret Garden Hotel,"No. 2-228, Phan Huy Ich, Ward 12, Go Vap, Gò Vấp, Hồ Chí Minh, Việt Nam, 00700","8,5",270,8.6,9.0,8.9,8.6,8.7,0,0,0,0,0,0,1,1,1,1.552.470,400.627
+Khách Sạn Như Ý,"No. 847, Luy Ban Bich Street, Tan Thanh, Tân Phú, Hồ Chí Minh, Việt Nam, 70000","7,3",28,7.9,8.3,7.6,7.1,7.4,0,0,0,0,0,0,0,1,0,Không có giá trước,Không có giá sau
+Sen Hotel Saigon,"82 đường Lê Lai, Quận 1, Hồ Chí Minh, Việt Nam, 70000","6,5",848,7.9,6.7,6.5,5.5,5.9,1,1,0,0,1,0,1,1,1,1.249.991,402.119
+Khách Sạn Silverland Jolie (Silverland Jolie Hotel),"4D Thi Sách, Quận 1, Quận 1, Hồ Chí Minh, Việt Nam","8,9",3281,9.1,9.4,8.7,8.4,8.9,1,1,0,0,1,1,1,1,0,4.027.168,2.334.568
+Khách sạn Giang Linh (Giang Linh Hotel),"311 Ly Tu Trong Street,' 'Ben Thanh Ward, District 1, Quận 1, Hồ Chí Minh, Việt Nam, 700000","7,7",882,8.7,7.9,7.9,6.9,7.3,0,0,0,0,0,0,1,1,0,2.219.497,371.321
+Khách sạn Avanti (Avanti Hotel),"186 - 188 đường Lê Thánh Tôn, Quận 1, Hồ Chí Minh, Việt Nam, 70000","8,4",3560,9.3,8.3,8.4,7.7,8.6,0,1,0,0,0,0,1,1,0,1.264.383,1.010.325
+Trung Mai Hotel,"785 Nguyen Trai, Q.5, Quận 5, Hồ Chí Minh, Việt Nam","7,4",317,7.9,7.6,7.6,7.0,7.4,0,1,0,0,0,0,1,1,1,498.355,422.522
+Elios Hotel,"233 Phạm Ngũ Lão, Quận 1, Quận 1, Hồ Chí Minh, Việt Nam,","8,3",4806,9.0,8.4,8.3,7.8,8.3,1,1,0,0,1,1,1,1,1,1.279.668,736.214
+Khách sạn AHA Residence (AHA Residence Hotel ),"284 Dien Bien Phu, Bình Thạnh, Hồ Chí Minh, Việt Nam, 700000","7,3",1004,7.8,7.3,7.4,7.0,7.2,1,1,0,0,1,0,1,1,0,792.651,408.408
+Collection O Sunshine Garden Hotel - Near SECC,"446-448, Tan Phu Street, Phuong Tan Phu, Quan 7, Thanh Pho Ho Chi Minh, Viet Nam, Ho-Chi-Minh, Quận 7, Hồ Chí Minh, Việt Nam, 70000","7,5",534,8.0,8.2,8.0,7.1,7.5,0,0,0,0,0,0,1,1,1,1.957.783,302.461
+Yoyo Airport Saigon Hotel,"No. 11, Tran Quoc Hoan Street, Ward 4, Tân Bình, Hồ Chí Minh, Việt Nam, 100000","8,4",47,8.9,8.6,8.4,8.0,8.9,0,0,0,0,1,0,1,1,0,413.096,336.533
+Khách Sạn Minh Thư,"176 Đ. Trần Thị Trọng, Tân Bình, Hồ Chí Minh, Việt Nam, 736839","7,2",46,8.1,8.0,7.9,7.2,7.2,0,0,0,0,1,0,1,1,1,Không có giá trước,Không có giá sau
+M Village Living Cách Mạng Tháng 8,"No. 656, Cach Mang Thang 8 Road, M Village, M Village, Tân Bình, Hồ Chí Minh, Việt Nam, 700000","9,0",183,Không có,9.6,9.3,9.0,9.5,1,0,0,1,1,0,0,1,1,1.515.104,794.899
+Cozrum Homes - Graceful Corner,"301/30 Phan Xích Long, Phường 01, Quận Phú Nhuận, Tp Hồ Chí Minh , Phú Nhuận, Ho Chi Minh City, Ho Chi Minh, 08400001, Vietnam, Phú Nhuận, Hồ Chí Minh, Việt Nam, 08400001","7,6",650,8.2,8.0,7.9,Không có,7.7,1,0,0,1,0,0,0,1,0,1.000.000,378.438
+Ohana Hotel,"85 Nguyễn Công Trứ, Phường Nguyễn Thái Bình, Quận 1, Hồ Chí Minh, Quận 1, Hồ Chí Minh, Việt Nam, 70000","8,1",289,8.6,8.5,8.1,7.8,8.2,0,0,0,0,1,0,1,1,1,888.505,501.367
+Khách sạn T78 (Do Nhà khách T78 quản lý) (T78 Hotel (Managed by Nha khach T78)),"145 Lý Chính Thắng, phường Võ Thị Sáu, Quận 3, Hồ Chí Minh, Việt Nam, 72415","8,1",377,8.5,8.4,8.1,7.7,8.3,1,1,0,0,0,0,1,1,1,1.800.000,722.087
+KHÁCH SẠN CHERRY BOUTIQUE (CHERRY BOUTIQUE HOTEL ),"15n Lê Thánh Tôn, Quận 1, Hồ Chí Minh, Việt Nam, 71006","8,7",1433,9.3,8.9,8.8,8.2,8.9,1,1,1,0,1,1,1,1,1,2.309.440,955.672
+A In Hotel Atistar,"No. 30, Street 14, Ward 5, Go Vap District, Gò Vấp, Hồ Chí Minh, Việt Nam, 700000","9,0",423,9.3,9.5,9.3,9.2,9.4,0,0,0,0,0,0,1,1,1,Không có giá trước,486.111
+Khách sạn & Căn hộ KunKin Luxury (KunKin Luxury Hotel & Apartment ),"46/24 Nguyễn Cửu Vân, Bình Thạnh, Hồ Chí Minh, Việt Nam, 70000","8,1",315,7.9,8.6,8.1,8.0,8.5,1,0,0,0,0,1,1,1,1,1.020.298,807.028
+Erato Boutique Hotel,"44-46 Hong Ha street, Ward 2 , Tan Binh District, Tân Bình, Hồ Chí Minh, Việt Nam, 700000","7,5",2269,8.4,7.6,7.6,6.7,7.3,0,1,0,0,1,0,1,1,1,563.706,473.667
+Queen Ann Hotel,"86-88 Bùi Thị Xuân, Quận 1, Quận 1, Hồ Chí Minh, Việt Nam","8,2",1034,8.2,8.2,8.2,7.7,8.2,1,1,0,0,1,0,1,1,1,2.929.716,1.100.962
+A25 Hotel - 277 Le Thanh Ton,"277B Le Thanh Ton, Quan 1, Quận 1, Hồ Chí Minh, Việt Nam, 700000","7,8",488,9.6,9.4,9.0,8.7,9.1,0,1,0,0,1,0,1,1,1,1.606.373,1.086.051
+Khách sạn BLESSED (BLESSED Hotel),"46-48 Hung Gia 1 st, Tan Phong ward, District 7, HCMC, Quận 7, Hồ Chí Minh, Việt Nam, 700000","8,7",1105,9.0,9.0,8.9,8.7,9.1,0,1,0,1,1,1,1,1,1,1.207.707,966.770
+A In Hotel Glamour,"No. 63/1 - 63/3, Street 19, Neighborhood 2, An Khanh Ward, Thu Duc City, Ho Chi Minh City, Quận 2, Hồ Chí Minh, Việt Nam","7,9",459,8.1,8.5,8.0,8.0,8.2,0,0,0,0,0,0,1,1,1,Không có giá trước,668.725
+Le Méridien Saigon,"3C Đường Tôn Đức Thắng, Quận 1, Hồ Chí Minh, Việt Nam, 700000","8,7",1061,8.7,8.8,8.3,8.6,9.1,1,1,1,0,1,1,1,1,1,5.569.701,4.900.000
+Blue River 2 Hotel,"54/13 Ki Con str, Dist 1, Quận 1, Hồ Chí Minh, Việt Nam, 71000","7,1",2250,7.2,7.3,7.7,6.5,7.0,1,1,0,0,1,0,1,1,0,Không có giá trước,Không có giá sau
+Crescent Residence 1,"103 Ton Dat Tien, Tan Phu,, Quận 7, Hồ Chí Minh, Việt Nam, 70000","9,0",1087,9.2,9.2,8.9,9.1,9.3,1,0,1,1,0,1,1,1,1,3.700.000,2.062.282
+Khách sạn Novotel Sài Gòn Centre (Novotel Saigon Centre Hotel),"167 Đường Hai Bà Trưng, Quận 3, Quận 1, Hồ Chí Minh, Việt Nam, 700000","8,4",3864,8.5,8.6,Không có,Không có,8.9,1,1,0,0,1,1,1,1,1,6.324.916,3.200.000
+Jade Garden - Secret Courtyard in Saigon,"59/12BIS Đ. Phạm Viết Chanh, Phường Nguyễn Cư Trinh, Quận 1, Hồ Chí Minh, Việt Nam, 700000","9,0",353,Không có,9.4,9.3,8.9,9.2,1,1,0,1,1,0,1,1,1,2.946.004,736.501
+Empress Hotel,"136 Bùi Thị Xuân, Quận 1, Quận 1, Hồ Chí Minh, Việt Nam,","7,7",392,Không có,7.9,7.9,Không có,7.8,1,1,0,0,1,0,1,1,0,1.749.935,778.500
+The Triple Hostel,"No. 30, Dang Thi Nhu St, Nguyen Thai Binh Ward 4, Vietnam, 4, Quận 1, Hồ Chí Minh, Việt Nam, 700000","9,2",224,9.4,9.4,9.3,9.0,9.2,1,1,0,0,1,0,1,1,0,Không có giá trước,Không có giá sau
+Khách Sạn The White 8A Thái Văn Lung (The White Hotel 8A Thai Van Lung),"8A Thái Văn Lung, Phường Bến Nghé, Quận 1, thành phố Hồ Chí Minh, Quận 1, Hồ Chí Minh, Việt Nam","7,9",3132,8.8,8.0,8.0,Không có,7.7,0,1,0,0,1,0,1,1,0,3.968.233,1.073.970
+Cozrum Homes The Gallery Residence,"49/26B Nguyen Van Dau, Ward 6, Binh Thanh District, HCMC, Bình Thạnh, Hồ Chí Minh, Việt Nam, 700000","8,1",1159,8.4,8.4,8.3,Không có,8.2,1,0,0,0,0,0,0,1,0,409.909,395.206
+Meraki 198 Bùi Viện (Meraki 198 Bui Vien),"198 Bùi Viện, Quận 1, Tp. Hồ Chí Minh, Quận 1, Hồ Chí Minh, Việt Nam, 70000","7,4",2114,8.2,7.9,7.6,Không có,Không có,1,1,0,0,1,1,1,1,1,566.068,141.517
+KIN WANDER TRUNG SON,"309 Đ. số 9A, Bình Hưng, Hồ Chí Minh, Việt Nam, 700000","9,2",80,9.2,9.6,9.4,9.4,9.7,1,0,0,0,1,0,1,1,1,4.196.607,857.203
+DDA Hotel District 1,"183 Đề Thám, Quận 1, Hồ Chí Minh, Việt Nam, 70000","7,4",2238,8.4,7.8,7.6,Không có,Không có,1,1,0,0,1,0,1,1,1,429.353,417.155
+THE RICE HOTEL,"No. 9, Floor 40, Bui Vien Street, Phuong Pham Ngũ Lao, Vietnam, Quận 1, Hồ Chí Minh, Việt Nam","8,7",779,8.9,9.1,8.6,Không có,8.7,1,1,0,0,0,0,1,1,0,1.500.000,651.868
+Kansas Hotel & Apartment - Notre Dame,"8a/a18 Thai Van Lung, Ben Nghe Ward, District 1, Ho Chi Minh, Quận 1, Hồ Chí Minh, Việt Nam, 700000","8,0",625,8.2,8.3,8.2,Không có,8.1,1,0,0,0,0,0,1,1,0,979.832,392.196
+Khách sạn A25 - 06 Trương Định (A25 Hotel - 06 Truong Dinh),"04 - 06 Truong Dinh, Phuong 6, Quan 3, Ho Chi Minh , Quận 3, Hồ Chí Minh, Việt Nam, 700000","7,9",1076,8.2,7.8,7.9,Không có,8.0,0,1,0,0,1,0,1,1,1,1.187.221,856.557
+Khách sạn Âu Lạc Charner (Au Lac Charner Hotel),"87-89-91 Hồ T ng Mậu, Quận 1, HCMC, Quận 1, Hồ Chí Minh, Việt Nam, 700000","8,9",8279,9.3,9.2,8.6,Không có,8.9,1,1,1,0,1,1,1,1,1,5.115.468,2.237.374
+Khách sạn và Quán cà phê Meow 2 (Meow Hotel & Cafe 2),"241/6 PHAM NGU LAO STREET, PHAM NGU LAO WARD, DISTRICT 1, Quận 1, Hồ Chí Minh, Việt Nam, 70000","7,8",193,8.6,7.7,8.0,7.5,7.6,0,0,0,0,0,1,0,1,1,Không có giá trước,Không có giá sau
+KHÁCH SẠN & SPA MINH TÂM PHÚ NHUẬN (MINH TAM PHU NHUAN HOTEL & SPA),"145/8 Nguyễn Văn Trỗi, Phường 11, Quận Phú Nhuận, Phú Nhuận, Hồ Chí Minh, Việt Nam, 700000","8,1",781,8.1,8.4,8.3,8.0,8.2,0,1,0,1,1,0,1,1,1,1.500.000,507.952
+Khách sạn Nhật Hạ L'Opera (Nhat Ha L'Opera Hotel),"12-14-16 Cao Bá Quát, Phường Bến Nghé, Quân 1, Tp,HCM, Việt Nam, Quận 1, Hồ Chí Minh, Việt Nam, 70000","8,6",3955,9.0,8.9,8.6,Không có,8.8,0,1,0,0,0,1,1,1,1,3.900.496,2.324.658
+Biển Sao 2 Hotel GV,"139/27 Nguyen Van Luong, Gò Vấp, Hồ Chí Minh, Việt Nam, 700000","7,9",96,7.2,7.0,Không có,6.9,7.0,1,0,0,0,0,0,1,1,1,Không có giá trước,583.333
+Collection O VyVy Airport Hotel,"283, Hoang Van Thu, Quan Tan Binh, Ho Chi Minh, Viet Nam, Ho-Chi-Minh, Tân Bình, Hồ Chí Minh, Việt Nam, 00084","6,8",257,7.3,6.6,6.2,6.0,Không có,0,0,0,1,0,0,1,1,1,701.840,357.938
+Lan Anh Hotel,"251/28 Lê Văn Thọ, Phường 9, Quận Gò Vấp, Tp.HCM, Gò Vấp, Hồ Chí Minh, Việt Nam, 70000","7,8",202,7.7,8.2,8.1,Không có,7.8,0,0,0,1,0,0,1,1,1,281.312,219.037
+Khách sạn Mai House Sài Gòn (Mai House Saigon Hotel),"157 Nam Kỳ Khởi Nghĩa, Phường Võ Thị Sáu, Quận 3, Hồ Chí Minh, Việt Nam, 700000","9,2",5146,Không có,9.4,9.3,9.4,9.7,1,1,0,0,1,1,1,1,1,4.655.750,4.520.268
+The Hammock Hotel Fine Arts Museum,"59-61 Nguyen Thai Binh, Nguyen Thai Binh Ward, District 1,HCM, Quận 1, Hồ Chí Minh, Việt Nam, 70000","9,1",3708,9.3,9.5,9.2,9.1,Không có,0,1,0,1,1,0,1,1,0,5.000.000,1.166.523
+Harmony Saigon Hotel & Spa,"34 Đường Bùi Thị Xuân, Phường Bến Thành, Quận 1, Hồ Chí Minh, Việt Nam, 700000","8,5",5645,8.7,9.0,8.5,Không có,8.7,1,1,1,0,1,1,1,1,1,7.000.000,2.010.141
+Khách sạn Value (Value Hotel),"so 5, đường số 7,52 Phạm Văn Đồng, phường 3, Quận G&#242; Vấp, Gò Vấp, Hồ Chí Minh, Việt Nam, 70000","8,0",103,8.4,8.7,Không có,8.0,7.9,0,1,0,0,1,1,1,1,1,495.000,393.519
+Landmark 81 & Vinhomes Urban Royal Riverside,"720A Đ. Điện Bi n Phủ, Bình Thạnh, Hồ Chí Minh, Việt Nam, 72300","9,5",32,9.5,9.8,9.8,9.6,9.7,1,0,0,0,1,0,1,1,1,Không có giá trước,Không có giá sau
+Spring Light Apartment,"Số 2, Đường 16, KDC Ven Sông, P Tân Phong, Q7, TPHCM, Quận 7, Hồ Chí Minh, Việt Nam, 700000","8,0",82,Không có,8.7,8.4,8.1,8.6,1,0,1,1,0,1,1,1,1,656.506,536.451
+PYNT HOTEL,"No. 1/17, Nguyen Van Dung Street, Ward 6, Go Vap District, Ho Chi Minh City, Vietnam, Gò Vấp, Hồ Chí Minh, Việt Nam, 700000","8,7",203,Không có,9.1,9.2,9.2,9.1,1,0,0,0,0,0,1,1,1,630.000,458.333
+Nhật Vân 1 (Nhat Van 1),"16/4 trần thiện chánh p12 , q10 , tp hcm 16/4, Quận 10, Hồ Chí Minh, Việt Nam","6,2",139,6.8,6.5,6.1,Không có,5.9,0,0,0,0,0,1,1,1,1,1.385.185,346.296
+Happyland Hotel,"102-104 Lý Tự Trọng, Happyland Hotel, Quận 1, Hồ Chí Minh, Việt Nam, 70000","7,5",525,9.0,7.9,7.7,Không có,7.1,1,1,0,0,1,0,1,1,1,938.284,475.177
+Express by M Village Phạm Ngũ Lão,"No. 325, Pham Ngu Lao Street, Pham Ngu Lao Ward, District 1, Quận 1, Hồ Chí Minh, Việt Nam, 700000","8,9",1559,9.4,9.5,9.1,Không có,9.3,0,0,0,1,1,0,0,1,1,2.259.153,927.535
+Bình Triệu Hotel - Gò Vấp,"No. 8, Lane 234, Le Duc Tho, Ward 6, Go Vap District, Ho Chi Minh City, Gò Vấp, Hồ Chí Minh, Việt Nam, 700000","8,7",110,9.2,9.2,9.4,Không có,9.2,0,0,0,0,0,0,1,1,1,1.433.704,355.937
+Mecozy Apartel,"25/2 Xuân Thủy, Phường Thảo điền, Quận 2, Quận 2, Hồ Chí Minh, Việt Nam, 700000","8,7",921,9.0,9.0,8.8,Không có,8.8,1,0,0,0,1,0,1,1,1,1.214.909,985.379
+Happy Home 121 Ly Phuc Man,"121 Lý Phục Man, P. Bình Thuận, Quận 7, Hồ Chí Minh, Việt Nam, 700000","8,5",369,8.7,9.0,8.9,Không có,8.7,1,0,0,0,0,1,1,1,1,593.705,320.739
+Fortune 1127 - Central Hotel,"1127 Đ. Trần Hưng Đạo, Phường 5, Quận 5, Tp Hồ Chi Minh, Việt Nam, Quận 5, Hồ Chí Minh, Việt Nam, 700000","8,3",467,8.7,8.6,8.1,Không có,8.1,0,0,0,0,1,0,1,1,0,1.350.000,494.312
+Golden Hotel & Apartment,"R4-06 Hung Gia 5, Tan Phong Ward, Quận 7, Hồ Chí Minh, Việt Nam, 70000","8,5",138,9.0,9.3,8.8,8.4,8.7,0,0,0,1,0,0,0,1,1,Không có giá trước,Không có giá sau
+Căn hộ dịch vụ Mayfair Suites (Mayfair Suites Serviced Apartment),"102ABC Cong Quynh Street, Pham Ngu Lao Ward, District 1 , Quận 1, Hồ Chí Minh, Việt Nam, 700000","8,7",1644,9.0,9.1,8.9,Không có,9.1,1,0,0,1,0,0,1,1,1,1.205.315,817.715
+GOLDEN SUN Hotel Apartments,"No. 72, Phan Khiem Ich Street, Tan Phong Ward, Vietnam, Quận 7, Hồ Chí Minh, Việt Nam, 756600","7,6",261,8.1,7.8,7.6,7.4,Không có,1,0,0,0,0,0,1,1,1,Không có giá trước,561.000
+Khách sạn 175 (Hotel 175 Saigon),"786B Nguyễn Kiệm, Phường 3, Quận Gò Vấp, Tp.HCM, Gò Vấp, Hồ Chí Minh, Việt Nam, 700000","7,5",345,7.8,7.9,7.6,Không có,7.3,0,1,0,0,0,0,1,1,1,440.000,240.841
+Khách sạn HANZ Sơn Mi Sài Gòn (HANZ Son Mi Hotel Saigon),"839/10 Le Hong Phong, District 10, Quận 10, Hồ Chí Minh, Việt Nam, 700000","8,9",899,9.2,9.1,9.1,Không có,9.1,1,0,0,0,1,1,1,1,1,1.303.536,440.836
+"Kin Wander Tan Binh, The Mountain","No. 51, Nui Thanh Street, Ward 13, Tân Bình, Hồ Chí Minh, Việt Nam, 70000","8,9",132,Không có,9.5,9.2,9.2,9.4,1,1,0,1,0,0,1,1,1,3.000.000,920.941
+Melina hồ Con Rùa trung tâm Sài Gòn (Melina Turtle Lake Saigon Center),"24/10 Pham Ngoc Thach, Vo Thi Sau Ward, Quận 3, Hồ Chí Minh, Việt Nam, 700000","8,8",772,9.2,9.2,9.1,Không có,9.2,1,0,0,0,0,1,0,1,1,1.504.540,939.014
+LalaHouse Summer Park,"49L Phan Đăng Lưu, Phu Nhuận, TP. HCM, Bình Thạnh, Hồ Chí Minh, Việt Nam, 70000","8,0",171,8.6,8.4,8.3,Không có,8.2,1,0,1,0,1,0,1,1,1,750.000,483.203
+Khách sạn Hạnh Long (Hanh Long Hotel),"1029 Đ. Trần Hưng Đạo, Phường 5, Quận 5, Thanh phố Hồ Ch Minh, Quận 5, Hồ Chí Minh, Việt Nam, 700000","8,4",336,8.4,8.0,8.1,7.7,Không có,1,0,0,0,0,0,1,1,1,1.500.000,412.481
+saigonairport hotel,"No.9 Nguyen Van Mai Str, Tan Binh Dist, HCMC, Vietnam, Tân Bình, Hồ Chí Minh, Việt Nam, 72100","8,0",142,8.5,8.1,8.1,Không có,8.0,0,1,1,0,1,1,1,1,1,1.171.136,526.279
+Khách sạn Bamboo Sài Gòn,"579a Đ. Sư Vạn Hạnh, Quận 10, Hồ Chí Minh, Việt Nam, 900000","8,1",219,8.8,8.6,8.3,Không có,8.3,0,1,0,0,1,1,1,1,1,1.972.500,789.441
+Liberty Saigon Green View Hotel,"187 Phạm Ngũ Lão, Quận 1(Front of Taka Plaza_Dist 1), Quận 1, Hồ Chí Minh, Việt Nam, 70000","8,1",3550,8.8,8.2,8.0,Không có,8.2,1,1,0,0,1,0,1,1,1,2.049.879,917.108
+M Village Living Nguyễn Văn Hưởng,"120 Nguyễn Văn Hưởng , Quận 2, Hồ Chí Minh, Việt Nam, 700000","8,8",280,8.8,9.4,9.1,8.7,9.3,1,0,0,1,1,0,0,1,1,1.791.700,1.094.030
+Cozrum Homes - Spring Residence,"No. 26, 69/1 Nguyen Gia Tri, Ward 25, Binh Thanh District, Vietnam , Bình Thạnh, Hồ Chí Minh, Việt Nam, 0840001","8,7",515,9.1,Không có,9.1,9.1,9.1,1,0,0,0,0,0,0,1,1,Không có giá trước,Không có giá sau
+Trang An Hotel,"627 X&#244; Viết Nghệ Tĩnh, Phường 26, Quận B&#236;nh Thạnh, Ho Chi Minh city, Bình Thạnh, Hồ Chí Minh, Việt Nam, 72310","8,3",206,8.7,8.9,8.5,8.2,8.6,0,0,0,0,0,0,1,1,0,542.036,434.965
+Landmark 81 & Vinhomes Royal City Apartment,"Room 720A, Vinhomes Tan Cang Landmark 81, Dien Bien Phu Street, Landmark 81, Bình Thạnh, Hồ Chí Minh, Việt Nam, 72300","7,4",31,7.7,Không có,6.8,6.0,6.5,1,1,1,1,1,1,0,1,1,2.207.652,1.129.676
+President Maison Signature By M Village,"33 Tu Xuong, Ward 7, District 3, Ho Chi Minh City, Quận 3, Hồ Chí Minh, Việt Nam, 700000","9,5",293,9.4,9.9,Không có,9.5,9.8,1,1,0,0,1,1,1,1,1,Không có giá trước,Không có giá sau
+CityHouse - Kim Nguyen,"3 Trương Quốc Dung, Phú Nhuận, Hồ Chí Minh, Việt Nam, 700000","8,9",928,8.9,9.3,9.2,9.0,9.2,1,0,1,0,1,1,1,1,1,3.000.000,966.998
+Căn hộ dịch vụ Lancaster Hồ Chí Minh Official (Lancaster Ho Chi Minh Serviced Apartment Official),"22BIS đường Lê Thánh Tôn, Quận 01 , Quận 1, Hồ Chí Minh, Việt Nam, 700000","8,3",1644,9.3,8.4,8.3,Không có,8.2,1,1,0,0,1,1,1,1,1,Không có giá trước,1.196.759
+The Malibu Hotel Saigon,"No. 353, Street 1, Binh Tri Dong B Ward, Binh Tan District, Phường Bình Trị Đông B, Quận Bình Tân, Bình Tân, Hồ Chí Minh, Việt Nam, 70000","8,8",84,8.7,9.1,9.0,8.9,9.4,0,0,0,0,0,0,1,1,1,Không có giá trước,Không có giá sau
+Fusion Original Saigon Centre,"65 Lê Lợi, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam, 70000","9,3",6983,9.8,9.6,Không có,9.3,9.6,1,1,1,0,1,1,1,1,0,7.075.960,3.542.563
+Anpha Boutique Hotel,"202 Lê Thanh Tôn, Quận 1, Hồ Chí Minh, Việt Nam, 70000","8,4",890,9.2,8.5,Không có,Không có,8.5,1,1,0,0,1,1,1,1,1,4.021.164,807.479
+COCHIN SANG HOTEL,"28 Nguyễn An Ninh, Quận 1, Hồ Chí Minh, Việt Nam, 700000","8,7",3426,9.2,9.0,8.6,Không có,9.0,1,1,1,0,1,0,1,1,0,6.547.866,1.776.484
+Khách sạn Vilion Central (Vilion Central Hotel),"43 Đường Lê Anh Xuân , Phường Bến Thành , Quận 1 , Thành phố Hồ Chí Minh, Quận 1, Hồ Chí Minh, Việt Nam","6,8",2252,7.9,7.4,6.4,Không có,Không có,1,1,0,1,1,0,1,1,1,3.478.332,319.278
+Wah Fu Hotel,"No. 90, Hung Vuong, Ward 9, Quận 5, Hồ Chí Minh, Việt Nam, 72760","8,0",392,8.7,8.4,8.3,Không có,8.6,0,0,0,0,0,0,1,1,1,1.758.201,1.273.915
+Common Inn Thảo Điền (Common Inn Thao Dien),"19, Đường số 38, Phường Thảo Điền, Quận 2, Thành phố Hồ Chí Minh, Việt Nam, Quận 2, Hồ Chí Minh, Việt Nam, 700000","8,7",1453,9.1,9.1,8.8,Không có,9.0,1,1,0,1,0,0,1,1,1,Không có giá trước,745.741
+Khách sạn Đức Minh (Duc Minh Hotel),"23/2 Hoang Viet, Tân Bình, Hồ Chí Minh, Việt Nam","8,0",290,8.6,8.4,8.4,Không có,Không có,1,1,0,0,1,0,1,1,1,799.150,413.676
+The Alley Saigon Hotel,"283/24 Đ. Phạm Ngũ L o, Quận 1, Hồ Chí Minh, Việt Nam, 700000","8,0",623,8.9,8.5,8.0,Không có,7.7,1,1,0,0,1,1,1,1,1,547.477,397.659
+Golden Uc Chau House and Spa,"No. 719, Le Hong Phong Street, Ward 12, Quan 10, Quan 10, Quận 10, Hồ Chí Minh, Việt Nam","8,4",67,9.0,9.0,Không có,8.5,8.7,1,0,0,0,0,1,1,1,1,632.744,352.656
+8h-hostel,"155/11 Cống Quỳnh Street, 155/11 Cống Quỳnh Street, 155/11 Đường Cônvs Quỳnh, Quận 1, Hồ Chí Minh, Việt Nam, 71014","8,1",183,8.6,8.7,8.4,7.6,7.8,1,0,0,1,0,0,1,1,0,Không có giá trước,Không có giá sau
+Tan Hoang Long Hotel,"84 Mạc Thị Bưởi, Phường Bến Nghé, Quận 1, Hồ Chí Minh, Việt Nam, 70000","8,4",1749,9.3,8.8,8.5,Không có,8.4,0,0,0,0,1,0,1,1,1,767.361,753.456
+Nhà trọ Sakura Sài Gòn (Sakura Hostel Saigon),"39/26, Nguyễn Trãi, P. Bến Thành, Quận 1, Hồ Chí Minh, Việt Nam, 70000","7,5",1168,8.2,7.8,7.6,Không có,7.1,0,0,0,0,1,0,1,1,0,318.635,299.727
+Khách sạn Adora Hồ Chí Minh (Adora Hotel),"42- 44 đường Thủ Khoa Huân, phường Bến Thành, quận 01, Quận 1, Hồ Chí Minh, Việt Nam, 70000","8,2",3683,9.1,8.5,8.1,Không có,8.2,1,1,0,0,1,0,1,1,0,3.041.179,1.112.793
+Hato Saigon Boutique Hotel & Rooftop,"115-117 Ton That Dam St., Ben Nghe Ward, Dist.1, Ho Chi Minh City, Quận 1, Hồ Chí Minh, Việt Nam, 700000","8,5",1246,8.9,9.2,8.6,Không có,9.0,1,1,0,0,1,0,1,1,0,5.846.004,1.708.929
+Novotel Living Nam Sài Gòn (Novotel Living Saigon South),"No 2 Street C Tan Phu Ward District 7, Quận 7, Hồ Chí Minh, Việt Nam, 700000","8,3",1835,8.4,8.7,Không có,Không có,8.7,1,1,0,0,0,1,0,1,0,4.773.652,3.350.000
+LANGUAGE EXCHANGE HOTEL 3,"212B, C6/7 Nguyen Trai , W. Nguyen Cu Trinh, Quận 1, Hồ Chí Minh, Việt Nam, 00000","6,6",455,6.6,6.9,6.4,6.1,6.0,1,0,0,1,1,0,1,1,1,358.998,295.306
+Simmi Signature Hotel & Apartment,"25 Cao Triều Phát, Tân Phong, Quận 7, Hồ Chí Minh, Việt Nam, 700000","8,3",91,8.8,8.4,8.3,Không có,8.6,0,0,0,0,0,0,1,1,0,2.430.833,926.623
+Oakwood Hotel & Apartments Saigon,"330A - 330B Ung Van Khiem, Ward 25, Binh Thanh District, Bình Thạnh, Hồ Chí Minh, Việt Nam, 700000","8,6",2395,7.9,9.2,9.0,8.5,9.1,1,1,1,0,1,1,1,1,1,2.114.602,1.275.000
+SOFEA Boutique Hotel,"19 Trương Định, Phường Bến Thành, Quận 1, Hồ Chí Minh, Việt Nam","8,2",19,9.3,8.8,8.3,Không có,8.4,0,0,0,0,1,0,1,1,0,673.418,655.264
+DORI HOUSE Quận 1,"47 Đỗ Quang Đẩu DORI COFFEE, Quận 1, Hồ Chí Minh, Việt Nam, 9000000","8,5",105,8.9,8.8,8.8,8.3,8.7,1,0,0,1,0,0,0,1,1,Không có giá trước,Không có giá sau
+Landmark 81 and Vinhomes Riverside Residence,"208 Nguyen Huu Canh, Ward 22, Bình Thạnh, Hồ Chí Minh, Việt Nam, 72324","8,4",364,9.0,8.6,Không có,8.6,8.7,1,1,1,1,1,1,0,1,1,2.507.555,1.219.333
+Level SaiGon Hotel,"No. 118C, B I Thi Xuan Street, Ben Thanh Ward, District 1, Ho Chi Minh City, Quận 1, Hồ Chí Minh, Việt Nam, 100000","8,9",111,9.6,9.8,9.4,9.1,9.4,0,0,0,0,1,0,1,1,1,Không có giá trước,Không có giá sau
+APEC HOTEL,"13 Bui Thi Xuan Street, Quận 1, Hồ Chí Minh, Việt Nam, 70000","8,1",612,7.7,7.5,6.6,6.1,6.4,1,0,0,1,1,0,1,1,0,775.448,599.250
+Sedona Suites TP. Hồ Chí Minh (Sedona Suites Ho Chi Minh City),"67 Lê Lợi, Quận 1, Phường Bến Nghé, thành phố Hồ Chí Minh, Việt Nam, Quận 1, Hồ Chí Minh, Việt Nam, 710200","9,2",1958,9.8,9.4,8.9,9.2,9.6,1,1,0,1,1,1,1,1,1,5.388.414,3.897.567
+ROSA ZEN Hotel Spa,"15 Bui Thi Xuan, Quận 1, TpHCM, Quận 1, Hồ Chí Minh, Việt Nam, 700000","7,6",652,8.6,8.4,7.6,7.6,8.0,0,1,0,0,1,0,1,1,0,2.966.654,735.437
+Rachel Serviced Apartment,"No. 95, Phan Khiem Ich Street, Quận 7, Hồ Chí Minh, Việt Nam, 700000","8,1",365,8.8,8.5,8.4,Không có,8.3,0,0,0,0,0,0,0,1,0,1.500.000,511.175
+Nhà Dân Cola's (Cola's homestay),"382/11 Nguyen Thi Minh Khai, Ward 5, District 3, Quận 3, Hồ Chí Minh, Việt Nam, 700000","9,0",867,9.3,9.5,9.3,9.0,9.5,1,1,0,1,1,0,1,1,1,391.882,383.390
+Lucky Star Hotel 146 Nguyen Trai,"146 Nguyen Trai, Ben Thanh Ward, Quận 1, Hồ Chí Minh, Việt Nam, 0084","7,4",791,8.3,7.8,7.4,7.1,7.5,1,0,0,0,1,0,1,1,1,4.169.773,524.084
+Khách sạn Kim Dung (Kim Dung Hotel Tran Quang Khai),"184 Trần Quang Khải, Quận 1, Quận 1, Hồ Chí Minh, Việt Nam, 70000","7,3",682,8.1,7.5,7.2,6.4,6.9,0,0,0,0,1,0,1,1,1,2.028.219,360.988
+New Sunny1,"38 Khu Phố Hưng Phước 3, Quận 7, Hồ Chí Minh, Việt Nam, 70000","7,7",153,8.5,8.3,8.1,7.5,7.7,0,0,0,0,1,0,1,1,1,Không có giá trước,Không có giá sau
+The Reverie Saigon,"22 - 36 Nguyễn Huệ, Phường Bến Nghé, Quận 1, Thành phố Hồ Chí Minh, Quận 1, Hồ Chí Minh, Việt Nam, 700000","9,4",2449,9.7,Không có,Không có,9.5,9.7,1,1,0,0,1,1,1,1,1,Không có giá trước,Không có giá sau
+Căn hộ Sang trọng Collection O Emerald – Gần SECC (Collection O Emerald Luxury Apartment - Near SECC),"159-161, Pham Thai Buong, Phuong Tan Phong, Quan 7, Thanh Pho Ho Chi Minh, Viet Nam, Ho-Chi-Minh, Quận 7, Hồ Chí Minh, Việt Nam, 70000","8,5",620,8.7,8.8,8.9,8.4,8.9,0,1,0,0,0,0,1,1,1,Không có giá trước,473.329
+Express by M Village Đinh Công Tráng,"No. 22, Dinh Cong Trang, Tan Dinh Ward, District 1, M Village, M Village, Quận 1, Hồ Chí Minh, Việt Nam, 700000","9,0",364,9.4,9.4,9.3,9.0,9.4,1,0,0,1,1,0,0,1,1,1.406.741,678.054
+Nhà An Phúc Đoàn Như Hài (An Phuc House Doan Nhu Hai),"15/1B Doan Nhu Hai, District 4, Ho Chi Minh city, Vietnam, Quận 4, Hồ Chí Minh, Việt Nam","8,0",366,8.4,8.3,8.3,7.8,8.0,0,1,0,0,0,0,0,1,1,Không có giá trước,694.444
+Khách sạn RiTa gần sân bay Tân Sơn Nhất (RiTa Hotel near Tan Son Nhat Airport),"No.10, Street 2, Ward 3, Go Vap District, Ho Chi Minh City, Gò Vấp, Hồ Chí Minh, Việt Nam, 70000","8,0",311,8.3,8.3,8.3,7.9,8.1,1,0,0,0,0,0,1,1,1,432.788,288.707
+"Bach Suites Sài Gòn, thành viên của Design Hotels™ (Bach Suites Saigon, a Member of Design Hotels™)","10 A Phạm Ngọc Thạch, Quận 3, Hồ Chí Minh, Việt Nam, 700000","9,0",2046,9.2,9.4,9.0,8.7,9.5,1,1,1,0,1,1,1,1,1,4.454.249,2.953.368
+Express by M Village Global City,"Đường Đỗ Xuân Hợp, Quận 2, Hồ Chí Minh, Việt Nam, 700000","9,3",27,9.5,9.5,9.3,10.0,9.5,1,0,0,0,1,0,0,1,0,1.538.129,747.500
+Gia Vien Hotel,"175/4-6 đường Phạm Ngũ Lão, Quận 1, Quận 1, Hồ Chí Minh, Việt Nam, 70000","7,9",3914,8.8,7.9,8.0,7.2,8.0,1,1,0,0,1,0,0,1,1,1.374.308,592.164
+M Village Living Kỳ Đồng,"No. 20/9, Ky Dong Street, Ward 9, M Village, M Village, Quận 3, Hồ Chí Minh, Việt Nam, 700000","9,0",349,8.9,9.3,9.2,8.9,9.5,1,0,0,1,1,0,0,1,1,1.835.319,972.250
+Ramada Encore by Wyndham Sài Gòn Quận 1 - Trước đây là Khách sạn M Boutique Sài Gòn (Ramada Encore by Wyndham Saigon D1 - Formerly M Boutique Hotel Saigon),"7A Thái Văn Lung Street, Quận 1, Hồ Chí Minh, Việt Nam, 700000","8,3",5258,8.2,8.7,8.3,7.8,8.7,1,1,0,1,1,1,1,1,1,Không có giá trước,Không có giá sau
+LalaHouse Spring Apartment,"Pasteur Street, 63/5, Quận 1, Hồ Chí Minh, Việt Nam, 700000","8,7",364,9.6,8.7,9.0,8.0,8.9,1,0,0,0,1,0,0,1,0,566.911,455.888
+Cozrum Homes Greena House,"74/5 Thach Thi Thanh, Tan Dinh Ward, District 1, Quận 1, Hồ Chí Minh, Việt Nam, 700000","6,9",405,7.5,7.5,7.5,7.5,7.3,1,0,0,0,0,0,0,1,0,1.174.781,370.053
+Khách Sạn Dyn Opera (Dyn Opera Hotel),"18 Cao Ba Quat, Quận 1, Hồ Chí Minh, Việt Nam, 70000","7,4",1953,8.6,7.6,7.5,6.7,7.2,0,1,1,0,1,0,1,1,0,2.763.086,690.772
+Khách sạn Urban Logde (Urban Logde Hotel ),"40/8 Bui Vien Str, Dist 1, HCMC, Quận 1, Hồ Chí Minh, Việt Nam","8,9",739,9.3,9.0,8.9,8.6,9.4,1,1,0,0,1,1,1,1,1,894.140,711.853
+Vilion Boutique Hotel Ben Thanh,"122 Lý Tự Trọng, Quận 1, Hồ Chí Minh, Việt Nam, 70000","7,6",2021,8.6,8.0,7.2,6.7,7.0,1,1,0,1,1,0,1,1,1,2.200.000,537.986
+Golden Hotel,"67/2/1 Đ. Số 5, Phường 17, Gò Vấp, Hồ Chí Minh, Việt Nam","9,1",98,9.4,9.9,10.0,9.7,9.7,0,0,0,0,1,0,1,1,1,1.352.511,354.398
+Nicecy Daily Hotel,"No. 218, Le Thanh Ton Street, Ben Thanh Ward, Quận 1, Hồ Chí Minh, Việt Nam, 700000","7,7",138,9.1,8.2,8.0,7.5,8.1,0,0,0,0,1,0,1,1,1,1.354.194,515.144
+Hidden Mansions Saigon Resort,"No. 112, Vo Thi Lieu Street, An Phu Dong Ward, Quận 12, Hồ Chí Minh, Việt Nam, 700000","8,0",304,7.4,8.6,7.9,7.9,8.0,1,1,0,0,1,1,1,1,1,1.015.749,698.514
+MADISON SAIGON Centerpoint,"15 Thi Sach, Ben Nghe Ward, District 1, Quận 1, Hồ Chí Minh, Việt Nam, 70000","9,2",404,9.6,9.5,9.4,9.5,9.5,1,0,1,1,1,0,0,1,1,Không có giá trước,Không có giá sau
+22Land Hotel Saigon,"25 Le Thanh Ton Street, Dist 1, Ho Chi Minh City, Quận 1, Hồ Chí Minh, Việt Nam, 700000","8,9",1372,9.3,9.0,8.6,8.3,9.1,0,1,0,0,1,0,1,1,1,Không có giá trước,Không có giá sau
+Icon Sài Gòn - Khách sạn LifeStyle Design (Icon Saigon - LifeStyle Design Hotel),"65 - 67 Hai Ba Trung Street, Ben Nghe Ward, District 01, Quận 1, Hồ Chí Minh, Việt Nam, 700000","8,9",5441,9.4,9.3,8.9,8.6,9.2,1,1,1,0,1,1,1,1,0,3.320.558,1.510.664
+The Moon 3 Hotel,"102 Vanh Dai Trong Street, Binh Tri Dong B,, Bình Tân, Hồ Chí Minh, Việt Nam, 700000","9,9",29,10.0,10.0,10.0,10.0,10.0,0,0,0,0,1,0,1,1,1,2.267.069,992.021
+Khách sạn Anh Ngọc (Anh Ngoc Hotel),"9/4-6 Hoàng Dư Khương, Phường 12, Quận 10, Hồ Chí Minh, Việt Nam, 70000","7,8",399,8.1,8.3,8.0,7.5,7.6,0,0,0,0,0,0,1,1,1,Không có giá trước,Không có giá sau
+Emm Hotel Saigon,"157 Đường Pasteur, Phường Võ Thị Sáu, Quận 3, Tp.HCM , Quận 3, Hồ Chí Minh, Việt Nam, 70000","8,7",1920,8.5,9.1,8.9,8.3,8.9,1,1,0,1,1,1,1,1,1,Không có giá trước,Không có giá sau
+Khách sạn Ngôi Sao Phương Nam (Ngoi Sao Phuong Nam Hotel),"Tan Thoi Nhat 1 41/2, District 12, Quận 12, Hồ Chí Minh, Việt Nam","8,6",638,8.6,9.2,9.0,8.5,8.8,0,0,1,0,0,0,1,1,1,950.000,466.252
+Phu Gia Hotel,"193 Nguyễn Thái Học, Quận 1, Hồ Chí Minh, Việt Nam","7,4",1062,8.6,8.1,7.3,6.5,6.8,0,0,0,0,0,0,1,1,1,1.595.026,398.757
+Khách sạn M Sài Gòn (M Hotel Saigon),"39 Tôn Thất Thiệp, Phường Bến Nghé, Quận 1, Thành phố Hồ Chí Minh, Quận 1, Hồ Chí Minh, Việt Nam, 700000","8,8",3270,9.4,9.2,8.7,8.3,9.2,1,1,0,0,1,1,1,1,0,4.822.684,2.997.777
+Khách Sạn White Diamond - The Art (White Diamond Hotel - The Art),"No. 7, Dong Da, Ward 2, Tan Binh, Ho Chi Minh City, Tân Bình, Hồ Chí Minh, Việt Nam, 700000","6,9",606,7.7,7.2,6.8,6.5,6.7,1,1,1,0,1,1,1,1,1,437.160,423.512
+Tony Apartment,"100 Cô Giang, Phường Cô Giang, Quận 1, Hồ Chí Minh, Việt Nam, 700000","9,4",21,9.8,9.3,9.8,8.8,9.8,1,0,0,1,0,0,0,1,0,Không có giá trước,Không có giá sau
+MTT Hotel,"22 T n Trụ, Phướng 15, Quận T n B nh , Tân Bình, Hồ Chí Minh, Việt Nam, 70000","7,3",267,7.3,7.8,7.1,7.0,6.9,0,0,0,1,0,0,1,1,1,312.689,298.708
+Sky Gem Central Hotel,"26-28 Dong Du Street, District 1, Ho Chi Minh City, Quận 1, Hồ Chí Minh, Việt Nam, 70000","8,3",2730,9.0,8.8,8.3,7.8,8.4,1,1,0,1,1,0,1,1,0,3.530.294,1.303.777
+Luong Huu Khanh Homestay - Centre District 1,"No. 23, Luong Huu Khanh, Phuong Pham Ngu Lao, Vietnam, Quận 1, Hồ Chí Minh, Việt Nam, 70000","8,6",226,8.9,8.8,9.0,8.6,8.7,1,0,0,0,0,0,1,1,1,739.858,523.451
+Hoàng Quân Hotel - Gò Vấp,"No. 26, Nguyen Van Luong, Ward 6, Go Vap, Ho Chi Minh City, Vietnam, Gò Vấp, Hồ Chí Minh, Việt Nam","7,2",55,7.5,7.7,7.9,7.4,7.6,0,0,0,0,0,0,1,1,1,269.627,248.289
+Nhà dân Friday - Trung tâm thành phố (Friday Homestay - City Centre),"102/22 Cong Quynh, Pham Ngu Lao, Quan 1, Quận 1, Hồ Chí Minh, Việt Nam, 70000","8,9",829,9.2,9.3,9.1,8.8,9.2,1,0,0,0,1,0,1,1,1,Không có giá trước,Không có giá sau
+Mountime Hotel Saigon,"No. 170-172, Đ. Nguyen Thai Binh, Nguyen Thai Binh Ward, Vietnam, Quận 1, Hồ Chí Minh, Việt Nam, 700000","8,8",621,8.6,8.7,8.3,8.1,8.2,1,1,0,0,1,1,0,1,1,1.753.181,1.057.500
+Ibis Saigon South Hotel,"73 Hoàng Văn Thái, Phường Tân Phú, Quận 7, Hồ Chí Minh, Việt Nam, 70000","8,0",1851,8.2,8.3,7.9,7.5,8.4,0,1,1,0,1,1,1,1,1,3.486.540,1.950.000
+New Pacific Hotel,"9- 11 Kỳ Đồng, Phường 9, Quận 3, Quận 3, Hồ Chí Minh, Việt Nam","6,6",375,6.5,6.7,6.7,6.2,7.0,1,1,0,0,1,0,1,1,1,Không có giá trước,Không có giá sau
+Khách sạn Rạng Đông (Rang Dong Hotel),"83 Cách Mạng Tháng Tám, Quận 1, Quận 1, Hồ Chí Minh, Việt Nam","8,1",887,8.7,8.3,8.2,Không có,8.1,1,1,0,0,1,0,1,1,1,1.439.453,820.273
+Alleyway Hostel,"15Bis Lương Hữu Khánh, Pham Ngu Lao Ward, District 1, , 15Bis Luong Huu Khanh, Quận 1, Hồ Chí Minh, Việt Nam, 700000","9,0",904,9.1,9.3,9.0,8.5,8.7,1,0,0,0,1,0,1,1,0,Không có giá trước,Không có giá sau
+Khách sạn Silverland Sil (Silverland Sil Hotel),"20–22 Thai Van Lung, Quận 1, Hồ Chí Minh, Việt Nam, 700000","9,0",642,9.3,9.5,9.0,8.7,9.2,0,1,0,0,1,1,1,1,0,3.895.958,2.044.092
+Khách sạn Như Ý 2 (Hotel Nhu Y 2),"No. 76 Street 7A, Binh Tri Dong B , Binh Tan District, Bình Tân, Hồ Chí Minh, Việt Nam, 700000","8,4",272,8.7,8.9,8.7,8.4,8.4,0,0,0,0,0,0,1,1,1,1.660.000,473.259
+Ruby Star Hotel Nam Quoc Cang,"No. 18A, Nam Quoc Cang Street, Phuong Pham Ngu Lao, Vietnam, Quận 1, Hồ Chí Minh, Việt Nam, 70000","8,5",249,9.0,9.1,8.8,8.2,8.8,0,0,0,0,0,0,1,1,0,1.200.000,525.359
+Cozrum Homes Lý Chính Thắng (Cozrum Homes Ly Chinh Thang),"7/7 Ly Chinh Thang, Ward 8, District 3, Hcmc, Quận 3, Hồ Chí Minh, Việt Nam, 700000","7,7",858,8.3,7.8,7.9,7.6,7.7,1,0,0,0,1,0,0,1,0,702.675,409.407
+Kin Wander Tân Phong,"No. 23, Street 75, Kin Wander, Tan Phong, Quận 7, Hồ Chí Minh, Việt Nam, 70000","9,0",275,9.1,9.4,9.2,9.3,9.6,1,0,0,1,1,0,1,1,1,3.485.302,871.326
+KHÁCH SẠN THÀNH VINH,"No. 1, Dinh Chuong Duong, Huyện Củ Chi, Hồ Chí Minh, Việt Nam, 70000","8,2",165,8.5,8.7,8.7,8.2,8.3,1,0,0,0,1,0,1,1,1,1.000.000,222.569
+Pullman Saigon Centre Hotel,"148 Đại lộ Trần Hưng Đạo, phường Nguyễn Cư Trinh, Quận 1, Hồ Chí Minh, Việt Nam, 70000","8,6",4010,8.6,8.8,8.4,8.7,9.1,1,1,0,0,1,1,1,1,1,Không có giá trước,12.086.956
+Tuong Vi Corner Hotel,"740/15A-17 Sư Vạn Hạnh , Quận 10, Hồ Chí Minh, Việt Nam, 72510","8,7",322,9.0,9.3,8.8,8.7,9.1,1,1,0,1,0,1,1,1,1,Không có giá trước,941.792
+Khách sạn Căn hộ HT (HT Hotel Apartment),"128/1 Trần Quốc Thảo - Phường Võ Thị Sáu - Quận 3 - TP. Hồ Chí Minh, Quận 3, Hồ Chí Minh, Việt Nam, 740000","8,8",341,8.8,9.3,9.0,8.6,8.8,1,0,0,0,0,0,1,1,0,561.542,464.337
+Marki House,"39 Đường Thanh Loan, Quận 8, Hồ Chí Minh, Việt Nam, 70000","9,2",1270,8.8,9.4,9.5,9.1,9.6,1,0,0,1,0,0,0,1,0,Không có giá trước,Không có giá sau
+Botanic House Saigon,"100/4 Đ. Lê Thị Hồng Gấm, Phường Nguyễn Thái Bình, Quận 1, Thành phố Hồ Chí Minh, Quận 1, Hồ Chí Minh, Việt Nam, 11000","8,5",132,9.3,8.9,8.7,8.3,8.6,1,0,0,0,1,0,0,1,0,711.763,625.000
+Collection O Cozy 5 Hotel - Near SECC,"R4 54-55, Hung Gia 2, Tan Phong, Quan 7, Thanh pho Ho Chi Minh, Viet Nam, Ho-Chi-Minh, Quận 7, Hồ Chí Minh, Việt Nam, 72900","6,8",108,8.0,7.3,7.1,6.7,6.5,0,0,0,0,0,1,0,1,0,733.822,374.249
+Bình Minh Hotel,"266 Nguyễn Xí, Phường 13, Bình Thạnh, Hồ Chí Minh, Việt Nam","7,6",43,8.0,8.1,7.9,7.1,7.1,0,0,0,0,1,0,1,1,1,1.110.145,245.190
+M Village Living Cao Thắng,"124/1 Cao Thắng, Phường 4, Quận 3, M Village, Quận 3, Hồ Chí Minh, Việt Nam, 700000","9,1",414,9.3,9.6,9.2,9.1,9.5,1,0,0,1,1,0,0,1,1,1.634.981,885.965
+Justay Pink Church,"22 Lý Chính Thắng, 8, Quận 3, Hồ Chí Minh, Việt Nam, 700000","8,1",659,8.6,8.7,8.3,7.9,8.5,1,0,0,0,1,0,1,1,0,1.266.944,561.864
+CĂN HỘ SAM ROYAL (SAM ROYAL APARTMENT),"59-61 Đường Thủ Khoa Huân, Quận 1, Hồ Chí Minh, Việt Nam, 70000","7,8",305,8.7,8.0,7.8,7.2,7.7,1,1,0,0,0,0,1,1,1,2.350.000,800.931
+Khách sạn The One Premium (The One Premium Hotel),"29 Thủ Khoa Huân, Phường Bến Thành, Quận 1, Quận 1, Hồ Chí Minh, Việt Nam, 700000","6,9",532,8.3,7.5,6.7,6.0,6.5,0,1,0,0,1,1,1,1,0,2.457.154,530.248
+Do Thanh Residence,"Số 18, Đường số 3, Cư Xá Đô Thành, Phường 4, Quận 3, Quận 3, Hồ Chí Minh, Việt Nam, 70000","8,4",2401,8.2,8.8,8.7,8.4,8.9,1,1,0,1,0,1,1,1,1,1.552.658,1.342.750
+Khách sạn Hùng Phát (Hung Phat Hotel),"38 Duong So 6, KDC Trung Son, Binh Hung, Binh Chanh, Ho Chi Minh, Vietnam, Bình Hưng, Hồ Chí Minh, Việt Nam, 700000","9,0",3049,7.5,7.5,7.4,6.8,6.9,0,0,0,0,0,0,1,1,1,315.935,237.384
+MEANDER Sài Gòn (MEANDER Saigon),"3B Ly Tu Trong St., Ben Nghe Ward, District 1, Ho Chi Minh City, Quận 1, Hồ Chí Minh, Việt Nam, 700000","9,2",3547,9.4,9.5,9.3,9.1,9.5,1,0,0,0,1,0,1,1,0,Không có giá trước,Không có giá sau
+Kim Yen Hotel,"126 Nguyễn Trọng Tuyển, Phường 15, Quận Phú Nhuận, Phú Nhuận, Hồ Chí Minh, Việt Nam","7,4",597,7.6,7.8,7.6,6.9,7.5,1,1,0,0,1,0,1,1,1,880.551,445.988
+A25 Hotel - 55 Cach Mang Thang 8,"51 - 53- 55 Cach Mang Thang 8, Ben Thanh, Quan 1, Ho Chi Minh , Quận 1, Hồ Chí Minh, Việt Nam, 71009","8,5",651,9.1,9.1,8.8,8.5,8.9,1,1,0,0,1,0,1,1,1,1.582.473,1.110.634
+The Passion Airport Hotel Apartment,"60/24 Yen Thế, Phường 2, Tan Binh, TP. Hồ Chi Minh, Tân Bình, Hồ Chí Minh, Việt Nam, 700000","8,3",410,8.8,8.9,8.4,8.3,8.5,1,1,1,0,1,1,1,1,1,939.957,455.542
+Khách sạn Sân bay Sunflowers (Sunflowers Hotel Airport ),"18 Lam Sơn, Quận Tân Bình, Tân Bình, Hồ Chí Minh, Việt Nam","7,5",706,8.1,7.8,7.7,7.0,7.4,0,0,0,0,1,1,1,1,1,355.839,343.036
+Ekomo Home,"102/42 Cong Quynh, Ward Pham Ngu Lao, District 1, Ho Chi Minh City, Quận 1, Hồ Chí Minh, Việt Nam, 71013","8,8",1017,8.9,9.4,9.0,8.5,9.0,1,0,0,1,1,0,1,1,1,904.965,566.109
+Saigon Rivergate Free City Walk Experience,"Room 151-155, Ben Van Don Street, Ward 6, RiverGate Apartment, Saigon, RiverGate Apartment Saigon, Quận 4, Hồ Chí Minh, Việt Nam, 754522","8,7",37,9.1,9.0,8.9,8.8,9.2,1,0,0,1,1,1,1,1,1,1.572.968,824.760
+Cozrum Homes - Winter Corner,"No. 8, Block 6, Nguyen Dinh Chieu, Ward 3, Phu Nhuan, Phú Nhuận, Hồ Chí Minh, Việt Nam","7,7",347,7.9,8.0,8.2,8.0,8.1,1,0,0,0,0,0,0,1,0,669.347,293.008
+La Galerie Hotel,"17-19 duong so 4 KDC Trung Son, binh hung, binh chanh, tp.hcm, Bình Hưng, Hồ Chí Minh, Việt Nam, 739500","8,0",390,8.1,8.2,8.2,8.0,8.4,0,0,0,1,1,0,1,1,1,753.880,437.465
+Khách sạn Hồng Hà 2 (Khach San Hong Ha 2),"12 Nguyễn Thái Bình, Tân Bình, Hồ Chí Minh, Việt Nam","7,7",35,8.5,8.7,8.7,7.9,7.9,1,0,1,0,0,0,1,1,1,Không có giá trước,Không có giá sau
+The One Hotel Ben Thanh,"Số 230 Lý Tự Trọng, Phường Bến Thành, Quận 1, Thành Phố Hồ Chí Minh, Quận 1, Hồ Chí Minh, Việt Nam, 70000","6,9",390,7.9,7.4,6.7,6.1,6.6,0,1,0,0,1,0,1,1,1,3.174.603,495.855
+"Chung cư 25 m² 1 phòng ngủ, 1 phòng tắm riêng ở Quận 1 (HOSTIESAIGON WANDERLUST HOME)","214/B14 Nguyen Trai, Nguyen Cu Trinh Ward, District 1, Quận 1, Hồ Chí Minh, Việt Nam","8,7",721,8.9,9.2,8.9,8.6,8.9,1,1,0,1,1,1,1,1,1,Không có giá trước,400.132
+The LUMIÈRE Riverside - ANGIA Hospitality,"259 Vo Nguyen Giap, An Phu Ward, Quận 2, Hồ Chí Minh, Việt Nam, 70000","9,2",294,9.5,9.4,9.5,9.6,9.5,1,0,1,1,1,1,0,1,1,7.429.845,1.630.604
+Bat Dat Hotel,"238-244 Trần Hưng Đạo B, Quận 5, Quận 5, Hồ Chí Minh, Việt Nam,","7,2",396,7.7,7.6,7.2,6.5,7.1,0,0,0,0,1,0,1,1,0,1.800.000,626.820
+Khách Sạn Viễn Đông - Phú Mỹ Hưng (Vien Dong Hotel - Phu My Hung),"R4 27 28 Đường Số 6, Hưng Phước 3, Khu Đô Thị Phú Mỹ Hưng, Quận 7, Quận 7, Hồ Chí Minh, Việt Nam, 700000","7,4",650,8.0,7.7,7.6,6.9,7.1,1,1,1,0,1,0,1,1,1,3.000.000,383.719
+The Lovenote Home,"No. 177/6, Truong Dinh, Vietnam, 177/6 Trương Định, Quận 3, Hồ Chí Minh, Việt Nam","8,6",877,8.8,9.2,9.1,8.6,9.0,1,0,0,0,0,1,1,1,1,749.805,368.135
+Green Riverside Hotel & Apartment,"89/21A Phan Huy Ich, Phuong 15 , Tân Bình, Hồ Chí Minh, Việt Nam, 72100","8,8",128,8.7,9.4,9.0,8.8,8.7,0,0,0,0,0,0,1,1,1,1.499.247,384.496
+Urban Retreat Vinhomes Riverside,"208 Nguyen Huu Canh, Ward 22, Bình Thạnh, Hồ Chí Minh, Việt Nam, 72324","9,1",273,9.5,9.2,9.3,9.4,9.3,1,1,1,1,1,0,1,1,1,2.805.177,1.296.490
+Mơ Mơ Residence,"117 Duy Tân, Phú Nhuận, Hồ Chí Minh, Việt Nam","9,2",267,9.5,9.5,9.6,9.5,9.8,1,0,0,0,0,0,0,1,1,4.173.158,629.630
+Coco Inn Saigon,"Số 24d, hẻm 24, Bui Đinh Tuy, Phường 26, Quận Binh Thạnh, TP Hồ Chi Minh, Bình Thạnh, Hồ Chí Minh, Việt Nam, 72310","7,7",45,7.9,7.8,7.9,7.7,7.5,1,0,0,0,0,0,1,1,1,Không có giá trước,Không có giá sau
+May Soho Saigon Serviced Apartment,"100 Cô Giang, 34, Quận 1, Hồ Chí Minh, Việt Nam, 700000","8,9",256,9.2,9.1,9.1,8.7,9.2,1,0,0,1,0,0,1,1,1,4.345.487,1.371.203
+Empress Hotel,"136 Bùi Thị Xuân, Quận 1, Quận 1, Hồ Chí Minh, Việt Nam,","7,7",392,7.8,7.9,7.9,7.2,7.8,1,1,0,0,1,0,1,1,0,1.749.935,778.500
+Khách sạn RiTa gần sân bay Tân Sơn Nhất (RiTa Hotel near Tan Son Nhat Airport),"No.10, Street 2, Ward 3, Go Vap District, Ho Chi Minh City, Gò Vấp, Hồ Chí Minh, Việt Nam, 70000","8,0",311,8.3,8.3,8.3,7.9,8.1,1,0,0,0,0,0,1,1,1,432.788,288.707
+Golden Hotel,"67/2/1 Đ. Số 5, Phường 17, Gò Vấp, Hồ Chí Minh, Việt Nam","9,1",98,9.4,9.9,10.0,9.7,9.7,0,0,0,0,1,0,1,1,1,1.352.511,354.398
+Khách sạn Như Ý (Nhu Y Hotel),"No. 185, Street No. 16, Binh Tan District, Ho Chi Minh City, Bình Tân, Hồ Chí Minh, Việt Nam, 70000 – 74000","8,1",403,8.3,8.6,8.3,7.8,8.2,0,0,0,0,0,0,1,1,1,500.000,237.307
+Vy Da Hostel (VyDa Backpacker Hostel),"64 Ly Tu Trong, Phuong Ben Thanh, Quan 1, Quận 1, Hồ Chí Minh, Việt Nam, 711045","8,6",918,9.3,8.9,9.0,8.1,8.5,0,1,0,0,1,0,1,1,0,Không có giá trước,555.556
+KHÁCH SẠN PRINCE (PRINCE HOTEL),"60, 21 Street, Ward 8, Go Vap District, Gò Vấp, Hồ Chí Minh, Việt Nam, 70000","8,2",141,8.7,8.9,8.4,8.1,8.4,0,0,0,0,0,0,1,1,1,900.000,278.475
+Khách sạn Bonka Luxury (Bonka Hotel Luxury Quan 5 HCM),"884 Trần Hưng Đạo, phường 7, Quận 5 Khách sạn Bonka Quận 5 Thành phố Hồ Chí Minh, Quận 5, Hồ Chí Minh, Việt Nam","7,7",134,8.5,8.4,8.0,7.8,7.8,1,0,0,0,1,0,1,1,1,Không có giá trước,453.704
+Khách sạn Leaf Signature - La Group (Leaf Signature Hotel - La Group),"5 Trương Quyền, Quận 3, Hồ Chí Minh, Việt Nam, 70000","8,5",843,8.8,8.9,8.8,8.1,8.6,1,0,0,1,0,0,1,1,0,Không có giá trước,Không có giá sau
+Scenic Valley Việt Nam - Vina We Stay (Scenic Valley VietNam - Vina We Stay),"Block F, Scenic Valley 1, 808 Nguyen Van Linh, P. Tan Phu, Quận 7, TP.Hồ Chi Minh, Quận 7, Hồ Chí Minh, Việt Nam, 700000","7,2",173,7.8,7.3,7.3,7.3,6.9,1,0,1,1,1,1,0,1,1,Không có giá trước,Không có giá sau
+M Village Living 47 Thảo Điền,"46 Đường số 47 , Quận 2, Hồ Chí Minh, Việt Nam, 700000","8,9",370,8.9,9.3,9.2,8.9,9.3,1,0,0,1,1,0,0,1,1,2.003.592,1.224.926
+Bình Triệu Hotel - Gò Vấp,"No. 8, Lane 234, Le Duc Tho, Ward 6, Go Vap District, Ho Chi Minh City, Gò Vấp, Hồ Chí Minh, Việt Nam, 700000","8,7",110,9.2,9.2,9.4,8.8,9.2,0,0,0,0,0,0,1,1,1,Không có giá trước,Không có giá sau
+Cozrum Homes - Graceful Corner,"301/30 Phan Xích Long, Phường 01, Quận Phú Nhuận, Tp Hồ Chí Minh , Phú Nhuận, Ho Chi Minh City, Ho Chi Minh, 08400001, Vietnam, Phú Nhuận, Hồ Chí Minh, Việt Nam, 08400001","7,6",650,8.2,8.0,7.9,7.6,7.7,1,0,0,1,0,0,0,1,0,1.000.000,378.438
+Khách sạn LeBlanc Sài Gòn (LeBlanc Hotel Saigon),"416/2 Nguyễn Đ nh Chiểu, Phường 4, Quận 3, Quận 3, Hồ Chí Minh, Việt Nam, 70000","8,5",757,8.3,9.1,8.8,8.0,8.8,1,1,0,0,1,0,1,1,1,2.500.000,523.972
+Diamond Boutique Hotel,"36 Hưng Gia 3, Tân Phong, Quận 7, Hồ Chí Minh, Việt Nam, 700000","7,8",150,8.6,7.9,7.9,7.7,7.6,1,0,0,0,1,0,1,1,1,1.646.564,696.667
+THE LANDMARK 81 RESIDENCES LUXURY SUITE,"720A Điện Biên Phủ, LANDMARK 81, Bình Thạnh, Hồ Chí Minh, Việt Nam, 72300","7,7",252,8.5,7.5,7.3,7.5,7.5,1,0,0,1,0,1,0,1,0,4.868.432,1.508.292
+SAZI OPERA HOME HCMC,"5/10 Nguyen Sieu street, Quận 1, Hồ Chí Minh, Việt Nam, 70000","7,5",67,8.8,7.3,7.5,7.0,7.0,0,0,0,1,0,0,1,1,0,1.588.484,524.931
+Green Airport Hotel,"No. 3, 50, Trường Sơn Street, Ward 2, Tan Binh, Vietnam, Tân Bình, Hồ Chí Minh, Việt Nam, 70000","8,4",533,8.8,9.3,9.0,8.5,8.4,0,0,0,0,1,1,0,1,1,681.641,504.630
+Căn hộ sân bay Sabay - The Connect (Sabay Airport Apartment - The Connect),"09 Cuu Long,Ward 2, Tan Binh, Tân Bình, Hồ Chí Minh, Việt Nam, 70000","8,3",1157,9.1,8.9,8.8,8.7,8.7,1,1,0,1,1,1,1,1,1,1.400.000,602.749
+Daystar Hotel Ben Thanh,"47 Thủ Khoa Huân, phường Bến Thành, quận 1, TP Hồ Chí Minh, Quận 1, Hồ Chí Minh, Việt Nam, 700000","7,7",623,8.9,8.1,7.8,7.1,7.4,0,0,0,0,1,0,1,1,1,Không có giá trước,Không có giá sau
+Hotel L Odeon Phu My Hung,"63 - 65 Lê Văn Thiêm, Hưng Phước 3, Phú Mỹ Hưng, phường Tân Phong, Quận 7, Quận 7, Hồ Chí Minh, Việt Nam","8,4",885,8.5,8.8,8.6,7.8,8.7,1,1,1,0,1,1,1,1,1,2.371.462,937.500
+Khách sạn Saigon Star (Saigon Star Hotel),"204 Nguyễn Thị Minh Khai, Quận 3 (đối diện C&#244;ng Vi&#234;n Tao Đ&#224;n) , Quận 3, Hồ Chí Minh, Việt Nam, 028","7,4",719,8.4,7.7,7.4,6.8,7.2,0,0,0,0,0,0,1,1,0,Không có giá trước,Không có giá sau
+Khách Sạn Mi Linh (Mi Linh Hotel),"B38A Bạch Đằng, Phường 02, Quận Tân Bình , Tân Bình, Hồ Chí Minh, Việt Nam, 700000","7,2",2996,8.0,7.5,7.6,6.1,6.6,1,1,0,0,1,0,1,1,1,484.917,463.624
+CityHouse Villea,"43 Nguyễn Bá Tòng, Cityhouse Villea, Tân Bình, Hồ Chí Minh, Việt Nam, 700000","8,8",563,8.6,9.4,9.3,9.2,9.2,1,0,0,0,0,1,1,1,0,1.352.939,648.121
+Fide Hotel,"474 Phạm Thái Bường, P. Tân Phong, Q.7, TP. Hồ Chí Minh, Quận 7, Hồ Chí Minh, Việt Nam, 70000","8,4",221,8.2,8.7,8.8,7.9,8.9,1,1,1,0,1,0,1,1,1,Không có giá trước,Không có giá sau
+Khách sạn Vân Hà (Van Ha Hotel ),"440 Cộng Hòa, Phường 13, Quận Tân Bình , Tân Bình, Hồ Chí Minh, Việt Nam, 70000","7,6",374,7.9,7.7,7.6,7.2,7.2,1,0,0,0,1,0,1,1,1,447.070,318.109
+Trà My Hotel-Saigon Central,"No. 41, Ly Chinh Thang, Ward 8, Quận 3, Hồ Chí Minh, Việt Nam, 700000","7,6",84,8.2,8.5,7.9,7.6,7.8,0,0,0,0,0,0,1,1,1,680.992,345.385
+MINT HOTEL Q.1,"20 Đỗ Quang Đẩu, MINT HOTEL, Quận 1, Hồ Chí Minh, Việt Nam, 700000","7,9",604,8.5,8.8,8.0,7.6,8.1,1,0,0,0,0,1,1,1,1,Không có giá trước,Không có giá sau
+Khách sạn Kin Lý Tự Trọng (Kin Hotel Ly Tu Trong),"145-147 Lý Tự Trọng, Phường Bến Thành, Quận 1 , Quận 1, Hồ Chí Minh, Việt Nam, 7000000","8,8",67,9.2,9.7,9.2,8.8,9.5,1,1,0,0,1,0,1,1,1,Không có giá trước,1.301.131
+PANDORA HOUSE,"Pandora House, 497/5 Su Van Hanh, Ward 12, District 10, Ho Chi Minh City, Quận 10, Hồ Chí Minh, Việt Nam, 700000","9,0",338,9.3,9.5,9.3,9.2,9.4,1,0,0,0,0,1,1,1,1,920.000,706.056
+Cozrum Homes Citi town,"19Bis Nguyen Thi Minh Khai, Ben Nghe Ward, District 1, Hcmc, Quận 1, Hồ Chí Minh, Việt Nam, 700000","7,2",675,8.1,7.2,7.3,Không có,7.1,1,0,0,0,0,0,0,1,0,854.064,467.727
+Express by M Village Nguyễn Văn Thủ,"Room 217, M Village, Nguyen Van Thu Street, Da Kao Ward, District 1, M Village, Quận 1, Hồ Chí Minh, Việt Nam, 700000","8,7",302,8.9,8.9,8.7,8.3,9.1,1,0,0,1,1,0,0,1,1,1.980.222,1.245.833
+Tracy Ben Thanh Tower,"172 Đường Ký Con, 40, Quận 1, Hồ Chí Minh, Việt Nam, 700000","8,6",459,8.9,6.9,7.2,6.8,7.2,1,0,1,0,1,1,0,1,1,2.429.672,1.875.000
+Hạnh Trang Hotel,"113 Xuân Hồng, Tân Bình, Hồ Chí Minh, Việt Nam","8,1",467,8.3,8.7,8.6,8.1,8.6,1,0,0,0,1,0,1,1,1,613.867,317.538
+FH Homestay,"18B/80/17 Nguyễn Thị Minh Khai st, Quận 1, Hồ Chí Minh, Việt Nam, 70000","8,4",279,9.0,9.3,8.8,8.7,8.6,1,0,0,0,0,0,1,1,0,800.000,461.280
