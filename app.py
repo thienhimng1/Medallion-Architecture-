@@ -23,7 +23,7 @@ st.title("Ứng dụng Xử lý và Gợi ý Khách sạn")
 st.write("Ứng dụng này thực hiện xử lý dữ liệu khách sạn qua các tầng Bronze, Silver, Gold và hiển thị kết quả.")
 
 # Đường dẫn dữ liệu
-folder_path = "RawData"  # Thư mục RawData trong cùng thư mục với app.py
+folder_path = "RawData"  # Thư mục RawData trong repository
 
 # Kiểm tra thư mục tồn tại
 if not os.path.exists(folder_path):
